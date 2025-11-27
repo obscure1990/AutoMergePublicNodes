@@ -1,5 +1,68 @@
 proxies:
-- name: 12,13|日本|@ripaojiedian
+- name: 4|JP TROJAN-19@free-nodes
+  password: FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D
+  port: 443
+  server: kuame.missionsec.us
+  sni: kuame.missionsec.us
+  type: trojan
+- name: 4|JP VLESS-30@free-nodes
+  port: 8080
+  server: 46.3.46.40
+  tls: false
+  type: vless
+  uuid: 1e503e46-5ab8-4f79-8cd1-73bac4bcd102
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 4|JP VLESS-46@free-nodes
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: xx7kFsgSVU_ovUPxmnKruzMKAs6oSUO8SvcvTRs6GnY
+    short-id: aea7080e57
+  server: 147.45.49.152
+  servername: ameba.jp
+  tls: false
+  type: vless
+  uuid: b127d2d2-277a-491e-bf80-2e8688fa85e2
+- name: 4|未知 TROJAN-159@free-nodes
+  network: tcp
+  password: BxceQaOe
+  port: 1821
+  server: 153.121.51.221
+  sni: t.me/ripaojiedian
+  type: trojan
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 4|JP VLESS-106@free-nodes
+  network: tcp
+  port: 39735
+  reality-opts:
+    public-key: 9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc
+  server: 178.239.125.31
+  servername: www.yahoo.co.jp
+  tls: false
+  type: vless
+  uuid: 60e7e018-ee6a-48b1-9625-c4d4276935b3
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 4|JP VLESS-129@free-nodes
+  network: tcp
+  port: 29059
+  reality-opts:
+    public-key: V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4
+    short-id: 6ba85179e30d4fc2
+  server: 38.60.212.251
+  servername: mensura.cdn-apple.com
+  tls: false
+  type: vless
+  uuid: d706bf16-124a-417b-aaa0-0d6d5efd58fd
+- name: 4|未知 TROJAN-414@free-nodes
+  password: 2cf6d686799e6fa95316394064f26c0a
+  port: 3093
+  server: 160.16.144.208
+  sni: www.nintendogames.net
+  type: trojan
+- name: 6,7|日本|@ripaojiedian
   network: tcp
   password: BxceQaOe
   port: 4012
@@ -7,7 +70,7 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 12,13|日本2|@ripaojiedian
+- name: 6,7|日本2|@ripaojiedian
   network: tcp
   password: 2cf6d686799e6fa95316394064f26c0a
   port: 3093
@@ -15,7 +78,7 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 12,13|日本3|@ripaojiedian
+- name: 6,7|日本3|@ripaojiedian
   network: tcp
   password: 2cf6d686799e6fa95316394064f26c0a
   port: 3169
@@ -24,7 +87,7 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - client-fingerprint: chrome
-  name: 14|JP_speednode_0015
+  name: 8|JP_speednode_0015
   port: 40721
   reality-opts:
     public-key: R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU

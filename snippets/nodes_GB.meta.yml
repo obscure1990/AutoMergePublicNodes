@@ -1,5 +1,17 @@
 proxies:
-- name: 14|GB_speednode_0013
+- name: 4|GB VLESS-14@free-nodes
+  port: 443
+  server: 38.60.196.27
+  tls: false
+  type: vless
+  uuid: e64c5bbb-a4b8-498e-b374-4462d961c8a2
+- name: 4|GB VLESS-69@free-nodes
+  port: 2080
+  server: 194.46.59.171
+  tls: false
+  type: vless
+  uuid: 684ead3d-43b1-4707-904a-24e3e9e91fb1
+- name: 8|GB_speednode_0013
   network: ws
   port: 443
   server: 206.189.25.65

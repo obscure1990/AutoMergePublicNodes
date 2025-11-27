@@ -1,5 +1,31 @@
 proxies:
-- name: 14|CA_speednode_0003
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  name: 4|CA VLESS-42@free-nodes
+  network: tcp
+  port: 7070
+  server: 86.107.168.100
+  servername: src.smnsoft.com
+  tls: true
+  type: vless
+  uuid: be32c9ad-92e1-485b-dc74-2a65e9dae480
+- name: 4|未知 TROJAN-442@free-nodes
+  network: tcp
+  password: .ie4rghJuMkcf0oF
+  port: 18509
+  server: 38.96.254.102
+  sni: shoppingmall.electricbanana.click
+  type: trojan
+- name: 4|CA TROJAN-109@free-nodes
+  network: tcp
+  password: 6pRjKQJ0CWyFtG.9
+  port: 12990
+  server: 198.57.27.27
+  sni: diningtable.electricbanana.click
+  type: trojan
+- name: 8|CA_speednode_0003
   network: ws
   password: 8001fbf7-4b59-4415-a4bd-8bfded02c9c6
   port: 443

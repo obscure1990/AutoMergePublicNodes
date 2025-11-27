@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 12|🇰🇷 韩国|@ripaojiedian
+  name: 6|🇰🇷 韩国|@ripaojiedian
   port: 80
   server: 152.70.92.69
   skip-cert-verify: false
@@ -10,7 +10,7 @@ proxies:
   uuid: bb9c3993-a4b9-4dad-aeb9-ac86371ae68b
 - alterId: 0
   cipher: auto
-  name: 13|韩国|@ripaojiedian
+  name: 7|韩国|@ripaojiedian
   network: tcp
   port: '80'
   server: 152.70.92.69

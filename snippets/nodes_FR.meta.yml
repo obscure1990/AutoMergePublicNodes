@@ -1,1 +1,56 @@
-proxies: []
+proxies:
+- alpn:
+  - http/1.1
+  name: 4|FR TROJAN-02@free-nodes
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 51.44.152.34
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- alpn:
+  - http/1.1
+  name: 4|FR TROJAN-03@free-nodes
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.39.186.144
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- name: 4|FR VLESS-32@free-nodes
+  network: tcp
+  port: 35789
+  server: fr.nextseesion.ir
+  tls: false
+  type: vless
+  uuid: be72cd92-92d2-4543-9bef-1673fcd03b45
+- name: 4|FR VLESS-37@free-nodes
+  port: 443
+  server: 173.212.209.56
+  tls: false
+  type: vless
+  uuid: 8062ddd7-fdee-485d-8948-c6e5df168fe9
+- name: 4|FR VLESS-38@free-nodes
+  port: 443
+  server: cosmin.ns.cloudflare.com
+  tls: false
+  type: vless
+  uuid: f956952d-dde1-4bc6-861e-22a9dc4554c4
+- client-fingerprint: chrome
+  name: 4|FR VLESS-67@free-nodes
+  network: tcp
+  port: 2066
+  reality-opts:
+    public-key: -Z0BnqW2MHBXjDsB2a8-KPfg8GqTO1uIPXriHQAMhSY
+    short-id: 6b245ab1
+  server: 185.193.17.80
+  servername: yahoo.com
+  tls: false
+  type: vless
+  uuid: 44830663-914e-4127-a9b3-412406f59cbe
+- name: 4|FR VLESS-88@free-nodes
+  port: 443
+  server: brenna.ns.cloudflare.com
+  tls: false
+  type: vless
+  uuid: 65a9530f-4a4e-4db1-9689-9213385e9dfb

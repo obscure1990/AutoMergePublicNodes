@@ -1,5 +1,46 @@
 proxies:
-- name: 14|RU_speednode_0030
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 4,8|NL_speednode_0024
+  port: 443
+  reality-opts:
+    public-key: 2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4
+    short-id: 83e9f5b24040c5f7
+  server: ru1.monkeyisland.xyz
+  servername: ru1.monkeyisland.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 6184fcfb-52e0-40bb-a271-bbd097b70a8e
+- client-fingerprint: chrome
+  grpc-opts:
+    grpc-service-name: xyz
+  name: 4|RU VLESS-11@free-nodes
+  network: grpc
+  port: 443
+  reality-opts:
+    public-key: FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI
+    short-id: 123abc
+  server: 51.250.28.39
+  servername: cloudflare.com
+  tls: false
+  type: vless
+  uuid: 4a6de183-2ad3-456c-b420-feeac81f6257
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 4|RU VLESS-27@free-nodes
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: bKTT2iUUThS1Hqxmo48vUCkLYdmTQw_mnrtFg69ZJlg
+    short-id: '25'
+  server: 147.45.159.152
+  servername: google.com
+  tls: false
+  type: vless
+  uuid: b127d2d2-277a-491e-bf80-2e8688fa85e2
+- name: 4,8|RU_speednode_0030
   password: Qzy7tgpRhu
   port: 443
   server: 37.18.14.33
@@ -7,7 +48,26 @@ proxies:
   sni: m.vk.com
   type: trojan
   udp: true
-- name: 14|RU_speednode_0031
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 4|RU VLESS-74@free-nodes
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: g0EvKBte8zYrEc8oF0VNhxvIqqUvNXCp54UWYekc60k
+    short-id: e4
+  server: 212.233.75.107
+  servername: bit-site.ru
+  tls: false
+  type: vless
+  uuid: bca5cfe1-3d2a-45dc-b66a-96298e0051f5
+- name: 4|RU VLESS-98@free-nodes
+  port: 27121
+  server: wolfy.ufavpn.ru
+  tls: false
+  type: vless
+  uuid: cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c
+- name: 8|RU_speednode_0031
   network: ws
   port: 2053
   server: 80.90.187.190
@@ -23,7 +83,7 @@ proxies:
     path: /?ed=2560
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 14|RU_speednode_0032
+  name: 8|RU_speednode_0032
   port: 443
   reality-opts:
     public-key: 2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4
@@ -35,7 +95,7 @@ proxies:
   type: vless
   udp: true
   uuid: 6184fcfb-52e0-40bb-a271-bbd097b70a8e
-- name: 14|RU_speednode_0033
+- name: 8|RU_speednode_0033
   network: ws
   port: 2053
   server: 194.35.119.135
@@ -49,7 +109,7 @@ proxies:
     headers:
       Host: kuangbao.xiejiang.dpdns.org
     path: /?ed=2560
-- name: 14|RU_speednode_0034
+- name: 8|RU_speednode_0034
   network: ws
   port: 2053
   server: 194.35.119.49
@@ -67,7 +127,7 @@ proxies:
   - h2
   - http/1.1
   client-fingerprint: chrome
-  name: 14|RU_speednode_0035
+  name: 8|RU_speednode_0035
   network: ws
   port: 8443
   server: zcreat.ethervpn.fun
