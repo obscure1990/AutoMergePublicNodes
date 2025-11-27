@@ -1,5 +1,21 @@
 proxies:
-- name: 4|GB_speednode_0013
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 1|🇬🇧_GB_英国
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4
+    short-id: 0dd15ad462aad7fc
+  server: fr.monkeyisland.xyz
+  servername: fr.monkeyisland.xyz
+  tls: false
+  type: vless
+  uuid: 6184fcfb-52e0-40bb-a271-bbd097b70a8e
+  ws-opts:
+    headers:
+      Host: fr.monkeyisland.xyz
+- name: 5|GB_speednode_0013
   network: ws
   port: 443
   server: 206.189.25.65
