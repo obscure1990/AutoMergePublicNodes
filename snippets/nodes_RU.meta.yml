@@ -1,5 +1,5 @@
 proxies:
-- name: 2|RU_speednode_0030
+- name: 3|RU_speednode_0030
   password: Qzy7tgpRhu
   port: 443
   server: 37.18.14.33
@@ -7,7 +7,7 @@ proxies:
   sni: m.vk.com
   type: trojan
   udp: true
-- name: 2|RU_speednode_0031
+- name: 3|RU_speednode_0031
   network: ws
   port: 2053
   server: 80.90.187.190
@@ -23,7 +23,7 @@ proxies:
     path: /?ed=2560
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 2|RU_speednode_0032
+  name: 3|RU_speednode_0032
   port: 443
   reality-opts:
     public-key: 2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4
@@ -35,7 +35,7 @@ proxies:
   type: vless
   udp: true
   uuid: 6184fcfb-52e0-40bb-a271-bbd097b70a8e
-- name: 2|RU_speednode_0033
+- name: 3|RU_speednode_0033
   network: ws
   port: 2053
   server: 194.35.119.135
@@ -49,7 +49,7 @@ proxies:
     headers:
       Host: kuangbao.xiejiang.dpdns.org
     path: /?ed=2560
-- name: 2|RU_speednode_0034
+- name: 3|RU_speednode_0034
   network: ws
   port: 2053
   server: 194.35.119.49
@@ -67,7 +67,7 @@ proxies:
   - h2
   - http/1.1
   client-fingerprint: chrome
-  name: 2|RU_speednode_0035
+  name: 3|RU_speednode_0035
   network: ws
   port: 8443
   server: zcreat.ethervpn.fun

@@ -1,8 +1,17 @@
 proxies:
+- alterId: 0
+  cipher: auto
+  name: 2|🇰🇷 韩国|@ripaojiedian
+  port: 80
+  server: 152.70.92.69
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: bb9c3993-a4b9-4dad-aeb9-ac86371ae68b
 - alpn:
   - h3
   client-fingerprint: chrome
-  name: 2|KR_speednode_0016
+  name: 3|KR_speednode_0016
   network: ws
   port: 50001
   server: 125.141.4.132
@@ -19,7 +28,7 @@ proxies:
 - alpn:
   - h3
   client-fingerprint: chrome
-  name: 2|KR_speednode_0017
+  name: 3|KR_speednode_0017
   network: ws
   port: 50001
   server: 106.245.165.137
@@ -36,7 +45,7 @@ proxies:
 - alpn:
   - h3
   client-fingerprint: chrome
-  name: 2|KR_speednode_0018
+  name: 3|KR_speednode_0018
   network: ws
   port: 50001
   server: 115.90.84.220
@@ -53,7 +62,7 @@ proxies:
 - alpn:
   - h3
   client-fingerprint: chrome
-  name: 2|KR_speednode_0019
+  name: 3|KR_speednode_0019
   network: ws
   port: 50001
   server: 121.131.104.228
@@ -67,7 +76,7 @@ proxies:
     headers:
       Host: s2.sni565.netlib.re
     path: /proxyip=tw.sni2025.netlib.re
-- name: 2|KR_speednode_0020
+- name: 3|KR_speednode_0020
   password: test.+
   port: 30446
   server: testkr3.ssv.vc
@@ -79,7 +88,7 @@ proxies:
 - alpn:
   - h3
   client-fingerprint: chrome
-  name: 2|KR_speednode_0021
+  name: 3|KR_speednode_0021
   network: ws
   port: 50001
   server: 175.210.217.204
