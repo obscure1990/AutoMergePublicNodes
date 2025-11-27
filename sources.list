@@ -93,4 +93,4 @@ https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 # *https://raw.githubusercontent.com/RenaLio/Mux2sub/main/urllist # 挂了，谁叫你不控制抓取时长
 
 !+date https://oneclash.githubrowcontent.com/%Y/%m/%Y%m%d.txt
-!+date http://dayssr.cczzuu.top/node/%Y%m%d-clash.yaml
+!+date http://dayssr.cczzuu.top/node/%Y%m%d--v2ray.txt
