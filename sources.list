@@ -92,4 +92,5 @@ https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 # Airports
 # *https://raw.githubusercontent.com/RenaLio/Mux2sub/main/urllist # 挂了，谁叫你不控制抓取时长
 
-https://oneclash.githubrowcontent.com/%Y/%m/%Y%m%d.txt
+!+date https://oneclash.githubrowcontent.com/%Y/%m/%Y%m%d.txt
+!+date http://dayssr.cczzuu.top/node/%Y%m%d-clash.yaml
