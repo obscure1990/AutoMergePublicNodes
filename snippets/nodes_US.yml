@@ -1,19 +1,19 @@
 proxies:
-- name: 0,4|🇺🇸 美国|@ripaojiedian
+- name: 4|🇺🇸 美国|@ripaojiedian
   password: 2cf6d686799e6fa95316394064f26c0a
   port: 4054
   server: 160.16.70.180
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 0,4|🇺🇸 美国2|@ripaojiedian
+- name: 4|🇺🇸 美国2|@ripaojiedian
   password: 2cf6d686799e6fa95316394064f26c0a
   port: 2890
   server: 160.16.117.182
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 0,4|🇺🇸 美国3|@ripaojiedian
+- name: 4|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 2569
   server: 18.183.209.234
@@ -21,7 +21,7 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - cipher: aes-256-cfb
-  name: 0,4|🇺🇸 美国4|@ripaojiedian
+  name: 4|🇺🇸 美国4|@ripaojiedian
   password: amazonskr05
   port: 443
   server: 107.23.148.46
