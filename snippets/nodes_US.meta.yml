@@ -3,14 +3,15 @@ proxies:
   flow: xtls-rprx-vision
   name: 1|🇺🇸_US_美国
   network: tcp
-  port: 9954
+  port: 44144
   reality-opts:
-    public-key: YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E
-  server: 162.19.175.55
-  servername: store.steampowered.com
+    public-key: R-p92Ot1K9sL-_biDhao1v-0SVbi89Di7r65CzZQURk
+    short-id: 3fd623
+  server: graygoat.fonixapp.org
+  servername: smallpdf.com
   tls: false
   type: vless
-  uuid: c2ec47f4-873f-573f-7d8d-d79d7ad452e6
+  uuid: 4b83aa50-6adf-4759-a928-b4a974e2ece6
 - name: 4|🇺🇸 美国|@ripaojiedian
   password: 2cf6d686799e6fa95316394064f26c0a
   port: 4054
