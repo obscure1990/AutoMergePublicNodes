@@ -13,16 +13,16 @@ proxies:
   type: vless
   uuid: 4b83aa50-6adf-4759-a928-b4a974e2ece6
 - name: 4|🇺🇸 美国|@ripaojiedian
-  password: 2cf6d686799e6fa95316394064f26c0a
+  password: 79314e99f0a473fe86efc7827942ad00
   port: 4054
-  server: 160.16.196.59
+  server: 18.162.142.242
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 4|🇺🇸 美国2|@ripaojiedian
-  password: 2cf6d686799e6fa95316394064f26c0a
+  password: 79314e99f0a473fe86efc7827942ad00
   port: 4054
-  server: 160.16.136.130
+  server: 160.16.214.6
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
