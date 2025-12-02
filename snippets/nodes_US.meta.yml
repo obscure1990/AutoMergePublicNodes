@@ -15,14 +15,14 @@ proxies:
 - name: 4|🇺🇸 美国|@ripaojiedian
   password: 79314e99f0a473fe86efc7827942ad00
   port: 4054
-  server: 18.162.142.242
+  server: 160.16.236.32
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 4|🇺🇸 美国2|@ripaojiedian
   password: 79314e99f0a473fe86efc7827942ad00
   port: 4054
-  server: 160.16.214.6
+  server: 160.16.81.84
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
