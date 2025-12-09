@@ -476,11 +476,3 @@ proxies:
   port: 38388
   server: 103.186.155.139
   type: ss
-- name: 5|HK_speednode_0009
-  password: BxceQaOe
-  port: 443
-  server: 58.152.30.120
-  skip-cert-verify: true
-  sni: t.me%2Fripaojiedian
-  type: trojan
-  udp: true
