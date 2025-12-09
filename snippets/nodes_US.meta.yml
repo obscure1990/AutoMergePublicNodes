@@ -1,17 +1,51 @@
 proxies:
 - client-fingerprint: chrome
-  flow: xtls-rprx-vision
   name: 1|🇺🇸_US_美国
+  network: ws
+  port: 443
+  server: 69.84.182.13
+  servername: fr-1-fr-1.aiopen.sbs
+  tls: true
+  type: vless
+  uuid: be52060e-7934-4bc6-89b3-0b6cf4cda789
+  ws-opts:
+    headers:
+      Host: fr-1-fr-1.aiopen.sbs
+    path: '%2Fkbjc%2Ffr1'
+- name: '1|🇺🇸_US_美国 #1'
+  password: be52060e-7934-4bc6-89b3-0b6cf4cda789
+  port: 35000
+  server: 134.195.101.191
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '1|🇺🇸_US_美国 #2'
   network: tcp
-  port: 44144
+  port: 443
   reality-opts:
-    public-key: R-p92Ot1K9sL-_biDhao1v-0SVbi89Di7r65CzZQURk
-    short-id: 3fd623
-  server: graygoat.fonixapp.org
-  servername: smallpdf.com
+    public-key: WeNlf_hPscBLSwtg1PgOmurK1f7VyQSNPmOYeG0wIQw
+    short-id: 6590cb
+  server: antimage.fonixapp.org
+  servername: ajax.cloudflare.com
   tls: false
   type: vless
-  uuid: 4b83aa50-6adf-4759-a928-b4a974e2ece6
+  uuid: f81d5b9b-c5b7-46cb-8710-0cf41ab33570
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '1|🇺🇸_US_美国 #3'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: DJ1l1bgvwpj-SoHuC6eLVfzd3rp1zQmCV76fdVazMgc
+    short-id: 173c58
+  server: lifestealer.fonixapp.org
+  servername: configuration.apple.com
+  tls: false
+  type: vless
+  uuid: e3af49ba-6a41-4fa1-8f21-f40d1f154c68
 - name: 4|🇺🇸 美国|@ripaojiedian
   password: 76d630f2af6619c4a5de0ef953df3c6a
   port: 4054
