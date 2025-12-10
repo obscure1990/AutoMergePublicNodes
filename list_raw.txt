@@ -45,6 +45,6 @@ vless://2e9177ce-d1cc-45cd-b27f-f16f8fbc117a@fs.ir-sub.fun:80?allowInsecure=0&sn
 vless://62b0e46b-d2a5-423d-8457-95bde707fc19@158.160.175.98:2443?allowInsecure=0&sni=yandex.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#5%7CRU_speednode_0008
 vless://1347acec-0c12-46c0-9436-19603093d9ab@69.84.182.13:443?allowInsecure=0&sni=fr-1-fr-1.aiopen.sbs&type=ws&host=fr-1-fr-1.aiopen.sbs&path=/kbjc/fr1fp=chrome&security=tls#5%7CUS_speednode_0009
 hysteria://62.210.10.186:35511?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
-hysteria://51.159.226.1:49003?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&delay=1547&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 hysteria://62.210.10.186:50011?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&insecure=1&peer=apple.com&upmbps=11 Mbps#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
+hysteria://51.159.226.1:49003?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&delay=1547&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 hysteria://195.154.200.40:15010?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=100&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=100#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
