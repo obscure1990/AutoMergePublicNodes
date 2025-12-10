@@ -46,7 +46,7 @@ vless://3121850a-24aa-41f9-936d-dbdf10a3b31f@80.90.186.91:4443?allowInsecure=0&s
 vless://97e7c83c-9346-49b4-85a5-1e3bbf7488b9@62.113.42.65:52900?allowInsecure=0&sni=ozon.ru&fp=chrome&security=tls#5%7CRU_speednode_0007
 vless://97e7c83c-9346-49b4-85a5-1e3bbf7488b9@wolfy.ufavpn.ru:52900?allowInsecure=0&sni=ozon.ru&fp=chrome&security=tls#5%7CRU_speednode_0008
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?allowInsecure=0&sni=yahoo.com&fp=chrome&security=tls#5%7CRU_speednode_0009
-hysteria://51.159.226.1:49003?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&delay=1547&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 hysteria://62.210.10.186:35511?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 hysteria://62.210.10.186:50011?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&insecure=1&peer=apple.com&upmbps=11 Mbps#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
+hysteria://51.159.226.1:49003?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&delay=1547&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 hysteria://195.154.200.40:15010?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=100&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=100#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
