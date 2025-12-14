@@ -28,7 +28,7 @@ proxies:
     path: /564dfa20/
 - alterId: 2
   cipher: auto
-  name: 2|🇭🇰 香港|@ripaojiedian
+  name: 3|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
@@ -37,7 +37,7 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 2
   cipher: auto
-  name: 2|🇭🇰 香港2|@ripaojiedian
+  name: 3|🇭🇰 香港2|@ripaojiedian
   network: ws
   port: 80
   server: 74ebcaaa-t70f40-t8be2y-1ryup.hkt.gotochinatown.net
@@ -49,21 +49,21 @@ proxies:
     headers:
       Host: broadcastlv.chat.bilibili.com
     path: /
-- name: 2|🇭🇰 香港3|@ripaojiedian
+- name: 3|🇭🇰 香港3|@ripaojiedian
   password: e2722c0fb503f8a592436c12bce0509a
   port: 443
   server: 112.118.116.198
   skip-cert-verify: false
   sni: www.baidu.com
   type: trojan
-- name: 2|🇭🇰 香港4|@ripaojiedian
+- name: 3|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
   port: 443
   server: 58.152.18.155
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 2|🇭🇰 香港6|@ripaojiedian
+- name: 3|🇭🇰 香港6|@ripaojiedian
   password: c9f83e78-e03b-4080-b882-d8676e52adaa
   port: 49213
   server: 120.232.218.114
