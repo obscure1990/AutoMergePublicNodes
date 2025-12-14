@@ -1,19 +1,32 @@
 proxies:
-- name: 4|🇯🇵 日本|@ripaojiedian
+- alterId: 0
+  cipher: auto
+  name: 1|🇯🇵 日本 15
+  network: ws
+  port: '41315'
+  server: xiaoniu.andcdn.bid
+  tls: false
+  type: vmess
+  uuid: 82539eb7-18c8-48d0-bb9c-55d1b6e47f59
+  ws-opts:
+    headers:
+      Host: img14.360buyimg.com
+    path: /obj
+- name: 3|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 48756
   server: 3.112.242.221
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|🇯🇵 日本2|@ripaojiedian
+- name: 3|🇯🇵 日本2|@ripaojiedian
   password: e2722c0fb503f8a592436c12bce0509a
   port: 3093
   server: 160.16.107.37
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇯🇵 日本3|@ripaojiedian
+- name: 3|🇯🇵 日本3|@ripaojiedian
   password: e2722c0fb503f8a592436c12bce0509a
   port: 3093
   server: 18.179.7.49
@@ -22,7 +35,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 4|🇯🇵 日本4|@ripaojiedian
+  name: 3|🇯🇵 日本4|@ripaojiedian
   port: 59503
   server: 119.147.110.88
   skip-cert-verify: false
