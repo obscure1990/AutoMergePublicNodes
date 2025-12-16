@@ -104,27 +104,30 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: 4|🇭🇰 香港3|@ripaojiedian
+- name: 4,5|HK_speednode_0010
   password: e2722c0fb503f8a592436c12bce0509a
   port: 443
   server: 112.118.116.178
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇭🇰 香港4|@ripaojiedian
+  udp: true
+- name: 4,5|HK_speednode_0005
   password: BxceQaOe
   port: 443
   server: 219.79.214.159
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|🇭🇰 香港5|@ripaojiedian
+  udp: true
+- name: 4,5|HK_speednode_0009
   password: BxceQaOe
   port: 443
   server: 58.152.25.89
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
+  udp: true
 - name: 4|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 5156
@@ -210,29 +213,11 @@ proxies:
   port: 38388
   server: 103.186.154.212
   type: ss
-- name: 5|US_speednode_0011
-  network: ws
-  password: b1fec179-3d5a-4ec5-bf3c-e10668543b4b
-  port: 8443
-  server: 69.84.182.108
-  skip-cert-verify: false
-  sni: cdn-node-oss-61.anycdn.de
+- name: 5|HK_speednode_0006
+  password: BxceQaOe
+  port: 443
+  server: 219.79.214.159
+  skip-cert-verify: true
+  sni: t.me/ripaojiedian
   type: trojan
   udp: true
-  ws-opts:
-    headers:
-      Host: cdn-node-oss-61.anycdn.de
-    path: /profile/us1
-- name: 5|US_speednode_0012
-  network: ws
-  password: b1fec179-3d5a-4ec5-bf3c-e10668543b4b
-  port: 8443
-  server: 69.84.182.18
-  skip-cert-verify: false
-  sni: cdn-node-oss-62.anycdn.de
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: cdn-node-oss-62.anycdn.de
-    path: /profile/us2
