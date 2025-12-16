@@ -28,14 +28,14 @@ proxies:
     path: /564dfa20/
 - alterId: 2
   cipher: auto
-  name: 4|🇭🇰 香港|@ripaojiedian
+  name: 3|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: 4,5|HK_speednode_0010
+- name: 3,4|HK_speednode_0010
   password: e2722c0fb503f8a592436c12bce0509a
   port: 443
   server: 112.118.116.178
@@ -43,7 +43,7 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
   udp: true
-- name: 4,5|HK_speednode_0005
+- name: 3,4|HK_speednode_0005
   password: BxceQaOe
   port: 443
   server: 219.79.214.159
@@ -51,7 +51,7 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
   udp: true
-- name: 4,5|HK_speednode_0009
+- name: 3,4|HK_speednode_0009
   password: BxceQaOe
   port: 443
   server: 58.152.25.89
@@ -59,7 +59,7 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
   udp: true
-- name: 5|HK_speednode_0006
+- name: 4|HK_speednode_0006
   password: BxceQaOe
   port: 443
   server: 219.79.214.159
@@ -69,7 +69,7 @@ proxies:
   udp: true
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 5|HK_speednode_0008
+  name: 4|HK_speednode_0008
   port: 10001
   reality-opts:
     public-key: 7qP6YKWx5CJXia1qjQoIcD7FRjUBbioaioioI729D34
