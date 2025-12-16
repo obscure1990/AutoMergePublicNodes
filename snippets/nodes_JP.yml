@@ -12,21 +12,21 @@ proxies:
     headers:
       Host: img14.360buyimg.com
     path: /obj
-- name: 4|🇯🇵 日本|@ripaojiedian
+- name: 3|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 5156
   server: 13.113.164.125
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|🇯🇵 日本2|@ripaojiedian
+- name: 3|🇯🇵 日本2|@ripaojiedian
   password: e2722c0fb503f8a592436c12bce0509a
   port: 3093
   server: 153.121.45.139
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇯🇵 日本3|@ripaojiedian
+- name: 3|🇯🇵 日本3|@ripaojiedian
   password: e2722c0fb503f8a592436c12bce0509a
   port: 3169
   server: 13.231.90.117
