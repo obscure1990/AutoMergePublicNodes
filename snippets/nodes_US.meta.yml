@@ -70,21 +70,21 @@ proxies:
     headers:
       Host: menu.gejeh683bm.ir
     path: '%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0'
-- name: 3|🇺🇸 美国|@ripaojiedian
+- name: 4|🇺🇸 美国|@ripaojiedian
   password: e2722c0fb503f8a592436c12bce0509a
   port: 2890
   server: 160.16.106.144
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国2|@ripaojiedian
+- name: 4|🇺🇸 美国2|@ripaojiedian
   password: e2722c0fb503f8a592436c12bce0509a
   port: 4054
   server: 160.16.214.6
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国3|@ripaojiedian
+- name: 4|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 968
   server: 18.163.49.31
@@ -92,64 +92,8 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - cipher: chacha20-ietf-poly1305
-  name: 3|🇺🇸 美国4|@ripaojiedian 3
+  name: 4|🇺🇸 美国4|@ripaojiedian 3
   password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
   port: 990
   server: 173.234.29.2
   type: ss
-- name: 4|US_speednode_0028
-  network: ws
-  port: 8080
-  server: 104.21.15.212
-  servername: 201.58vtg99l.workers.dev
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: 4c9541c7-5fa1-403c-84af-175e3b25a27f
-  ws-opts:
-    headers:
-      Host: 201.58vtg99l.workers.dev
-    path: /
-- name: 4|US_speednode_0029
-  network: ws
-  port: 8880
-  server: Www.speedtest.net
-  servername: mx.mmadvip8563.ir
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: 6072c15c-99db-4880-99d0-1448a8d43da7
-  ws-opts:
-    headers:
-      Host: mx.mmadvip8563.ir
-    path: /?ed=2048
-- name: 4|US_speednode_0030
-  network: ws
-  port: 8880
-  server: Www.speedtest.net
-  servername: mx.mmadvip8563.ir
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: 49aefaed-ad06-4ce9-ad25-b75b6b489b0c
-  ws-opts:
-    headers:
-      Host: mx.mmadvip8563.ir
-    path: /?ed=2048
-- name: 4|US_speednode_0031
-  network: ws
-  port: 80
-  server: 172.67.176.159
-  servername: 3.azadteam.workers.dev
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: 41398380-2073-4d85-878a-24194a6f04a3
-  ws-opts:
-    headers:
-      Host: 3.azadteam.workers.dev
-    path: /Sy0HOf5sZffep0QQ?ed=2560
