@@ -38,5 +38,5 @@ trojan://BxceQaOe@18.163.24.54:968?allowInsecure=1&sni=t.me%2Fripaojiedian#3%7C%
 vmess://eyJ2IjogIjIiLCAicHMiOiAiM3zwn4ey8J+HviDpqazmnaXopb/kupp8QHJpcGFvamllZGlhbiIsICJhZGQiOiAiMTgzLjIzNi45Ny40NiIsICJwb3J0IjogNTk1MTcsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJhNDY5N2RhMC0wOTA0LTQ5YzctOGYwMi01ZDkwYzI2MWU5YWIifQ==
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?allowInsecure=0#4%7CNL_speednode_0013
 hysteria://62.210.10.186:35511?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
-hysteria://62.210.10.186:50011?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&insecure=1&peer=apple.com&upmbps=11 Mbps#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 hysteria://51.159.226.1:49003?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&delay=1547&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+hysteria://62.210.10.186:50011?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&insecure=1&peer=apple.com&upmbps=11 Mbps#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
