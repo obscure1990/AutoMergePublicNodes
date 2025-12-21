@@ -9,7 +9,7 @@ proxies:
   type: vmess
   uuid: 42e25353-b1ae-59f3-bd59-d86d2737b814
 - client-fingerprint: chrome
-  name: 5|DE_speednode_0002
+  name: 4|DE_speednode_0002
   packet-encoding: xudp
   port: 443
   reality-opts:
