@@ -1,4 +1,27 @@
 proxies:
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 1,4|RU_speednode_0010
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
+    short-id: 672ff0
+  server: 178.154.205.131
+  servername: ads.x5.ru
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: fd4b0117-d752-46fd-9a94-21a21e360fdb
+- flow: ''
+  name: '1|🇷🇺_RU_俄罗斯 #2'
+  network: tcp
+  port: 58349
+  server: 31.44.0.63
+  tls: false
+  type: vless
+  uuid: 48a8cab5-ce75-4c8a-90f5-dcd020c89b4b
 - client-fingerprint: random
   flow: xtls-rprx-vision
   name: 4|RU_speednode_0008
@@ -13,34 +36,6 @@ proxies:
   type: vless
   udp: true
   uuid: 71e0492e-9dc5-4fef-891b-15c983934886
-- client-fingerprint: qq
-  flow: xtls-rprx-vision
-  name: 4|RU_speednode_0009
-  port: 443
-  reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: 65c7748be8
-  server: 51.250.10.228
-  servername: sun6-21.userapi.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: fd4b0117-d752-46fd-9a94-21a21e360fdb
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 4|RU_speednode_0010
-  port: 443
-  reality-opts:
-    public-key: r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs
-    short-id: 672ff0
-  server: 178.154.205.131
-  servername: ads.x5.ru
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: fd4b0117-d752-46fd-9a94-21a21e360fdb
 - name: 4|RU_speednode_0011
   network: ws
   port: 443

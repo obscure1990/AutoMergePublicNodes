@@ -1,25 +1,53 @@
 proxies:
-- name: 1|🇺🇸_US_美国_1
-  network: ws
-  port: 80
-  server: 199.232.196.204
-  servername: JOiN--E-L-i-V-2-R-A-Y.net
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 1|🇺🇸_US_美国
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE
+    short-id: 55e6af1a35e64a98
+  server: ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz
+  servername: i2pd.website
   tls: false
   type: vless
-  uuid: 913cdacd-2501-531a-8390-d2fcda924944
+  uuid: 0e8a6896-ad90-4a3b-89a3-77d64aa409e2
+- client-fingerprint: chrome
+  grpc-opts:
+    grpc-service-name: ecb7f0f50489f81cd1983a56
+  name: '1|🇺🇸_US_美国 #2'
+  network: grpc
+  port: 443
+  reality-opts:
+    public-key: vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA
+    short-id: 9c8d68d581a08ea5
+  server: 208.69.78.5
+  servername: www.microsoft.com
+  tls: false
+  type: vless
+  uuid: 0a21d713-6e6f-4274-8b84-464019325513
+- client-fingerprint: chrome
+  name: '1|🇺🇸_US_美国 #3'
+  network: ws
+  port: 443
+  server: 104.26.1.221
+  servername: dabaius2.sylu.net
+  tls: true
+  type: vless
+  uuid: 3f9c8463-8610-3ed8-86c8-a26713067825
   ws-opts:
     headers:
-      Host: JOiN--E-L-i-V-2-R-A-Y.net
-    path: '%2FTelegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-Telegram%2C%40ELiV2RAY-%3Fed%3D2560'
-- name: 1|🇺🇸_US_美国_4
-  network: ws
-  port: 80
-  server: 207.90.237.199
+      Host: dabaius2.sylu.net
+    path: /db10240eb751d6ab
+- alterId: 0
+  cipher: auto
+  name: 1|🇺🇸 US_188
+  network: none
+  port: 27502
+  server: 216.238.87.47
   tls: false
-  type: vless
-  uuid: 600b472f-3e43-43a0-8815-a890a607891c
-  ws-opts:
-    path: '%2F'
+  type: vmess
+  uuid: b8155ce4-7e08-4c40-800f-8671312b7124
 - name: 3|🇺🇸 美国|@ripaojiedian
   password: 44e660b0ee21cf3ac66aee2c08af85d2
   port: 4054

@@ -1,13 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 1|🇩🇪_DE_德国
-  network: tcp
-  port: 8080
-  server: 185.189.58.195
-  tls: false
-  type: vmess
-  uuid: 42e25353-b1ae-59f3-bd59-d86d2737b814
 - client-fingerprint: chrome
   name: 4|DE_speednode_0002
   packet-encoding: xudp

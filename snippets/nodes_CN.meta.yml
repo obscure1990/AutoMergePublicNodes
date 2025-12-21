@@ -1,1 +1,21 @@
-proxies: []
+proxies:
+- name: 1|🇨🇳_CN_中国
+  password: BxceQaOe
+  port: 443
+  server: 219.79.214.159
+  skip-cert-verify: true
+  sni: t.me%252Fripaojiedian
+  type: trojan
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: '1|🇨🇳_CN_中国 #1'
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: BkAG_uWeUj7BCHqYjrz1JyH0TMvO_KywubV7WJN17ho
+    short-id: ee6f3e8f44b1f0b6
+  server: 62.60.148.21
+  servername: st.ozone.ru
+  tls: false
+  type: vless
+  uuid: 39e5cc2f-1294-4a42-bb58-306a8be785e1

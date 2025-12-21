@@ -1,4 +1,13 @@
 proxies:
+- alterId: 0
+  cipher: auto
+  name: 1|🇺🇸 US_188
+  network: none
+  port: 27502
+  server: 216.238.87.47
+  tls: false
+  type: vmess
+  uuid: b8155ce4-7e08-4c40-800f-8671312b7124
 - name: 3|🇺🇸 美国|@ripaojiedian
   password: 44e660b0ee21cf3ac66aee2c08af85d2
   port: 4054
