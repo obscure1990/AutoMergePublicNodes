@@ -1,6 +1,6 @@
 proxies:
 - client-fingerprint: chrome
-  name: 4|DE_speednode_0007
+  name: 5|DE_speednode_0007
   port: 443
   reality-opts:
     public-key: eKglVNr1vCmVZxLeGS6_-sZWXEJLWckuzkpmox1-jQ8
@@ -13,7 +13,7 @@ proxies:
   udp: true
   uuid: 1a539db6-d162-42f4-9b56-687bd57bfbc2
 - client-fingerprint: chrome
-  name: 4|DE_speednode_0008
+  name: 5|DE_speednode_0008
   port: 443
   reality-opts:
     public-key: eKglVNr1vCmVZxLeGS6_-sZWXEJLWckuzkpmox1-jQ8
@@ -26,7 +26,7 @@ proxies:
   udp: true
   uuid: 1a539db6-d162-42f4-9b56-687bd57bfbc2
 - client-fingerprint: chrome
-  name: 4|DE_speednode_0009
+  name: 5|DE_speednode_0009
   packet-encoding: xudp
   port: 443
   reality-opts:
