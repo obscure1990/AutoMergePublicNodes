@@ -1,7 +1,7 @@
 proxies:
 - client-fingerprint: qq
   flow: xtls-rprx-vision
-  name: 1,5|RU_speednode_0009
+  name: 1|🇬🇧_GB_英国
   network: tcp
   port: 443
   reality-opts:
@@ -9,10 +9,8 @@ proxies:
     short-id: 65c7748be8
   server: 51.250.10.228
   servername: sun6-21.userapi.com
-  skip-cert-verify: false
-  tls: true
+  tls: false
   type: vless
-  udp: true
   uuid: fd4b0117-d752-46fd-9a94-21a21e360fdb
 - client-fingerprint: chrome
   name: '1|🇬🇧_GB_英国 #1'
