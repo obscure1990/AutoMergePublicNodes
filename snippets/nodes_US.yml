@@ -8,21 +8,21 @@ proxies:
   tls: false
   type: vmess
   uuid: b8155ce4-7e08-4c40-800f-8671312b7124
-- name: 3|🇺🇸 美国|@ripaojiedian
+- name: 4|🇺🇸 美国|@ripaojiedian
   password: 44e660b0ee21cf3ac66aee2c08af85d2
   port: 2890
   server: 160.16.196.59
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国2|@ripaojiedian
+- name: 4|🇺🇸 美国2|@ripaojiedian
   password: 44e660b0ee21cf3ac66aee2c08af85d2
   port: 4054
   server: 160.16.131.243
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国3|@ripaojiedian
+- name: 4|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 2173
   server: 13.115.1.198
@@ -31,14 +31,14 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸 美国4|@ripaojiedian
+  name: 4|🇺🇸 美国4|@ripaojiedian
   port: 180
   server: 82.198.246.97
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- name: 4|US_speednode_0028
+- name: 5|US_speednode_0028
   network: ws
   password: Aimer
   port: 2053
