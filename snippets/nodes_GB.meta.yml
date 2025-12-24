@@ -1,7 +1,7 @@
 proxies:
 - client-fingerprint: qq
   flow: xtls-rprx-vision
-  name: 1,5|RU_speednode_0019
+  name: 1|🇬🇧_GB_英国
   network: tcp
   port: 443
   reality-opts:
@@ -9,10 +9,8 @@ proxies:
     short-id: 65c7748be8
   server: 51.250.10.228
   servername: sun6-21.userapi.com
-  skip-cert-verify: false
-  tls: true
+  tls: false
   type: vless
-  udp: true
   uuid: fd4b0117-d752-46fd-9a94-21a21e360fdb
 - client-fingerprint: chrome
   name: '1|🇬🇧_GB_英国 #1'
@@ -26,17 +24,19 @@ proxies:
   tls: false
   type: vless
   uuid: bec44ac3-a662-4179-a9dd-2aa881706dde
-- name: 5|GB_speednode_0006
+- client-fingerprint: chrome
+  name: 5|GB_speednode_0005
   network: ws
-  port: 700
-  server: 185.138.164.228
-  servername: zybs.worker.ddns-ip.net
-  skip-cert-verify: false
+  packet-encoding: xudp
+  port: 2096
+  server: 164.38.155.61
+  servername: vless.hubp.de
+  skip-cert-verify: true
   tls: true
   type: vless
   udp: true
-  uuid: 00000000-0000-4000-8000-000000000000
+  uuid: 12345678-1234-1234-1234-123456789123
   ws-opts:
     headers:
-      Host: zybs.worker.ddns-ip.net
-    path: /@Marisa_kristi
+      Host: vless.hubp.de
+    path: /snippets
