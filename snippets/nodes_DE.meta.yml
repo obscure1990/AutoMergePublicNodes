@@ -1,5 +1,5 @@
 proxies:
-- name: 5|DE_speednode_0005
+- name: 4|DE_speednode_0005
   network: ws
   port: 80
   server: 77.37.33.169
