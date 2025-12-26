@@ -147,11 +147,11 @@ proxies:
   port: 38388
   server: 103.186.155.225
   type: ss
-- name: 5|RU_speednode_0018
+- name: 5|RU_speednode_0005
   network: ws
   password: 5a2c16f9
   port: 443
-  server: cf.130519.xyz
+  server: freeyx.cloudflare88.eu.org
   skip-cert-verify: false
   sni: snippets.kkii.eu.org
   type: trojan
@@ -160,11 +160,11 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /
-- name: 5|RU_speednode_0020
+- name: 5|US_speednode_0007
   network: ws
   password: 5a2c16f9
   port: 443
-  server: freeyx.cloudflare88.eu.org
+  server: cf.130519.xyz
   skip-cert-verify: false
   sni: snippets.kkii.eu.org
   type: trojan
