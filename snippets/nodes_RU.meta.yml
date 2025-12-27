@@ -20,7 +20,7 @@ proxies:
   tls: false
   type: vless
   uuid: 48a8cab5-ce75-4c8a-90f5-dcd020c89b4b
-- name: 4|RU_speednode_0004
+- name: 5|RU_speednode_0004
   network: ws
   password: 5a2c16f9
   port: 443
@@ -35,7 +35,7 @@ proxies:
     path: /
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 4|RU_speednode_0005
+  name: 5|RU_speednode_0005
   port: 443
   reality-opts:
     public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
