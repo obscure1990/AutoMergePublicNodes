@@ -35,7 +35,7 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - client-fingerprint: safari
   flow: xtls-rprx-vision
-  name: 5|GB_speednode_0011
+  name: 4|GB_speednode_0011
   port: 443
   reality-opts:
     public-key: _dsOu_vxEU7pY3sIeGJxIpR0Ac2KoqIyBor2Bx0CwGA
@@ -49,7 +49,7 @@ proxies:
   uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 5|GB_speednode_0012
+  name: 4|GB_speednode_0012
   port: 4443
   reality-opts:
     public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE

@@ -1,5 +1,5 @@
 proxies:
-- name: 5|DE_speednode_0009
+- name: 4|DE_speednode_0009
   port: 443
   server: 5.75.201.242
   skip-cert-verify: false

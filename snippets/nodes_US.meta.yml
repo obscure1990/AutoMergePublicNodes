@@ -48,21 +48,21 @@ proxies:
   tls: false
   type: vmess
   uuid: b8155ce4-7e08-4c40-800f-8671312b7124
-- name: 4|🇺🇸 美国|@ripaojiedian
+- name: 3|🇺🇸 美国|@ripaojiedian
   password: f36f4495b4b26cc2fe346cfa23e05b1b
   port: 1281
   server: 160.16.233.76
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国2|@ripaojiedian
+- name: 3|🇺🇸 美国2|@ripaojiedian
   password: f36f4495b4b26cc2fe346cfa23e05b1b
   port: 1281
   server: 160.16.212.152
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国3|@ripaojiedian
+- name: 3|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 2173
   server: 54.46.50.55
@@ -71,14 +71,14 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 4|🇺🇸 美国4|@ripaojiedian
+  name: 3|🇺🇸 美国4|@ripaojiedian
   port: 180
   server: 82.198.246.97
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- name: 5|US_speednode_0042
+- name: 4|US_speednode_0042
   network: ws
   password: 5a2c16f9
   port: 443
@@ -91,7 +91,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /
-- name: 5|US_speednode_0043
+- name: 4|US_speednode_0043
   network: ws
   password: 5a2c16f9
   port: 443
@@ -104,7 +104,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /
-- name: 5|US_speednode_0044
+- name: 4|US_speednode_0044
   network: ws
   password: 5a2c16f9
   port: 443
@@ -117,7 +117,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /
-- name: 5|US_speednode_0045
+- name: 4|US_speednode_0045
   network: ws
   password: 5a2c16f9
   port: 443
@@ -132,7 +132,7 @@ proxies:
     path: /
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 5|US_speednode_0048
+  name: 4|US_speednode_0048
   port: 443
   reality-opts:
     public-key: 9mkPUmY5M-N81bSDf3lP9X3JnH25l4SfeUTnlwV04Eo
@@ -146,7 +146,7 @@ proxies:
   uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
 - client-fingerprint: ios
   flow: xtls-rprx-vision
-  name: 5|US_speednode_0051
+  name: 4|US_speednode_0051
   port: 443
   reality-opts:
     public-key: _TIQSjojgpdSBoSVXuQjFSqIdPeXjQIQkM5cFSv6Gnc
@@ -160,7 +160,7 @@ proxies:
   uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
 - client-fingerprint: ios
   flow: xtls-rprx-vision
-  name: 5|US_speednode_0054
+  name: 4|US_speednode_0054
   port: 443
   reality-opts:
     public-key: deEvuAAA_iJigkbck4yU_UmE8d491Dqt5V49y3n3DRw
@@ -174,7 +174,7 @@ proxies:
   uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
 - client-fingerprint: qq
   flow: xtls-rprx-vision
-  name: 5|US_speednode_0055
+  name: 4|US_speednode_0055
   port: 443
   reality-opts:
     public-key: hlWe8scaGpy5T-NUM9TdgY6LOJWlKDw3uldtar0Yfls
@@ -186,7 +186,7 @@ proxies:
   type: vless
   udp: true
   uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
-- name: 5|US_speednode_0056
+- name: 4|US_speednode_0056
   network: ws
   password: 5a2c16f9
   port: 443
@@ -199,7 +199,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /
-- name: 5|US_speednode_0057
+- name: 4|US_speednode_0057
   network: ws
   password: 5a2c16f9
   port: 443
@@ -212,7 +212,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /
-- name: 5|US_speednode_0058
+- name: 4|US_speednode_0058
   network: ws
   password: 5a2c16f9
   port: 443
@@ -225,7 +225,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /
-- name: 5|US_speednode_0059
+- name: 4|US_speednode_0059
   network: ws
   password: 5a2c16f9
   port: 443
@@ -240,7 +240,7 @@ proxies:
     path: /
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 5|US_speednode_0060
+  name: 4|US_speednode_0060
   port: 443
   reality-opts:
     public-key: WC40e9QWe66kR6Zb1qkk9OeJBDQivKzqBczp9natHjk
@@ -252,7 +252,7 @@ proxies:
   type: vless
   udp: true
   uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
-- name: 5|US_speednode_0061
+- name: 4|US_speednode_0061
   network: ws
   password: 5a2c16f9
   port: 443
@@ -265,7 +265,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /
-- name: 5|US_speednode_0062
+- name: 4|US_speednode_0062
   network: ws
   password: 5a2c16f9
   port: 443
@@ -278,7 +278,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /
-- name: 5|US_speednode_0063
+- name: 4|US_speednode_0063
   network: ws
   password: 5a2c16f9
   port: 443
@@ -291,7 +291,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /
-- name: 5|US_speednode_0064
+- name: 4|US_speednode_0064
   network: ws
   password: 5a2c16f9
   port: 443
@@ -304,7 +304,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /
-- name: 5|US_speednode_0066
+- name: 4|US_speednode_0066
   network: ws
   password: 5a2c16f9
   port: 443
