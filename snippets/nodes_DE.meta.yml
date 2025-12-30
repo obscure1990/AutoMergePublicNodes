@@ -1,6 +1,6 @@
 proxies:
 - client-fingerprint: firefox
-  name: 4|DE_speednode_0001
+  name: 5|DE_speednode_0001
   port: 20353
   reality-opts:
     public-key: mTMw2UT1oDEP9mTcL2TjeHCEXxFgT6AOQvThcJNTjlw

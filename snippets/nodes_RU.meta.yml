@@ -22,7 +22,7 @@ proxies:
   uuid: 48a8cab5-ce75-4c8a-90f5-dcd020c89b4b
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 4|RU_speednode_0008
+  name: 5|RU_speednode_0008
   port: 443
   reality-opts:
     public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
@@ -35,7 +35,7 @@ proxies:
   udp: true
   uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
 - client-fingerprint: chrome
-  name: 4|RU_speednode_0009
+  name: 5|RU_speednode_0009
   port: 443
   reality-opts:
     public-key: t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU
