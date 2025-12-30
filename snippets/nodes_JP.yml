@@ -1,19 +1,19 @@
 proxies:
-- name: 4|🇯🇵 日本|@ripaojiedian
+- name: 3|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 4012
   server: 54.248.22.131
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 4|🇯🇵 日本2|@ripaojiedian
+- name: 3|🇯🇵 日本2|@ripaojiedian
   password: f36f4495b4b26cc2fe346cfa23e05b1b
   port: 3093
   server: 18.177.146.37
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇯🇵 日本3|@ripaojiedian
+- name: 3|🇯🇵 日本3|@ripaojiedian
   password: f36f4495b4b26cc2fe346cfa23e05b1b
   port: 3093
   server: 153.121.67.215
@@ -21,7 +21,7 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - cipher: chacha20-ietf-poly1305
-  name: 4|🇯🇵 日本4|@ripaojiedian
+  name: 3|🇯🇵 日本4|@ripaojiedian
   password: 53db9c44-94a1-4976-8682-5d1c3642058d
   port: 10007
   server: 14.17.71.67
