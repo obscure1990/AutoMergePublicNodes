@@ -40,6 +40,6 @@ trojan://BxceQaOe@18.167.99.12:1112?allowInsecure=1&sni=t.me%2Fripaojiedian#4%7C
 vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.25.172:4248?allowInsecure=0&sni=ads.x5.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#5%7CRU_speednode_0009
 vless://ac2c8871-d4eb-40a6-8487-fd1b31c3bc22@89.169.182.230:443?allowInsecure=0&sni=vk.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#5%7CRU_speednode_0010
 vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.25.11:1488?allowInsecure=0&sni=ads.x5.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#5%7CRU_speednode_0011
+hysteria://62.210.196.68:26691?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&insecure=1&peer=apple.com&upmbps=11 Mbps#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 hysteria://62.210.10.186:50011?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&insecure=1&peer=apple.com&upmbps=11 Mbps#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 hysteria://62.210.10.186:35511?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
-hysteria://62.210.196.68:26691?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&insecure=1&peer=apple.com&upmbps=11 Mbps#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
