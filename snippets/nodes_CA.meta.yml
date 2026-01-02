@@ -12,7 +12,7 @@ proxies:
   tls: false
   type: vless
   uuid: 55975415-43c0-461c-8752-d5b8013364e3
-- name: 5|CA_speednode_0002
+- name: 4|CA_speednode_0002
   network: ws
   port: 8080
   server: 198.50.119.86
