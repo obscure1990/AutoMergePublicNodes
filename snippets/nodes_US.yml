@@ -8,28 +8,28 @@ proxies:
   tls: false
   type: vmess
   uuid: b8155ce4-7e08-4c40-800f-8671312b7124
-- name: 4|🇺🇸 美国|@ripaojiedian
+- name: 3|🇺🇸 美国|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 1281
   server: 54.199.47.127
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国2|@ripaojiedian
+- name: 3|🇺🇸 美国2|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 1281
   server: 153.121.44.99
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国3|@ripaojiedian
+- name: 3|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 1112
   server: 18.181.195.198
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 5|US_speednode_0019
+- name: 4|US_speednode_0019
   network: ws
   password: Aimer
   port: 2053
@@ -42,7 +42,7 @@ proxies:
     headers:
       Host: epge.muarua.filegear-sg.me
     path: /
-- name: 5|US_speednode_0020
+- name: 4|US_speednode_0020
   network: ws
   password: Aimer
   port: 2053
@@ -55,7 +55,7 @@ proxies:
     headers:
       Host: epge.muarua.filegear-sg.me
     path: /?ed=2560
-- name: 5|US_speednode_0021
+- name: 4|US_speednode_0021
   network: ws
   password: 5a2c16f9
   port: 2096
