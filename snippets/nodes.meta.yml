@@ -150,14 +150,14 @@ proxies:
   type: vless
   uuid: 48a8cab5-ce75-4c8a-90f5-dcd020c89b4b
 - cipher: aes-256-cfb
-  name: 4|tg频道:@ripaojiedian
+  name: 3|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
   server: 63.180.254.10
   type: ss
 - alterId: 2
   cipher: auto
-  name: 4|🇭🇰 香港|@ripaojiedian
+  name: 3|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
@@ -166,14 +166,14 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 2
   cipher: auto
-  name: 4|🇭🇰 香港2|@ripaojiedian
+  name: 3|🇭🇰 香港2|@ripaojiedian
   port: 30809
   server: v9.hdacd.com
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: 4,5|HK_speednode_0007
+- name: 3,4|HK_speednode_0007
   password: 381f2e86233720eacda26d50e9aa26da
   port: 443
   server: 58.152.110.104
@@ -181,35 +181,35 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
   udp: true
-- name: 4|🇭🇰 香港4|@ripaojiedian
+- name: 3|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
   port: 443
   server: 58.152.25.86
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|🇭🇰 香港5|@ripaojiedian
+- name: 3|🇭🇰 香港5|@ripaojiedian
   password: BxceQaOe
   port: 443
   server: 58.152.25.236
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|🇯🇵 日本|@ripaojiedian
+- name: 3|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 2595
   server: 13.114.175.199
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 4|🇯🇵 日本2|@ripaojiedian
+- name: 3|🇯🇵 日本2|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 4006
   server: 160.16.196.59
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇯🇵 日本3|@ripaojiedian
+- name: 3|🇯🇵 日本3|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 1933
   server: 160.16.196.59
@@ -217,54 +217,54 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - cipher: aes-256-cfb
-  name: 4|🇰🇷 韩国|@ripaojiedian
+  name: 3|🇰🇷 韩国|@ripaojiedian
   password: qwerREWQ@@
   port: 21215
   server: 221.150.109.92
   type: ss
-- name: 4|🇸🇬 新加坡|@ripaojiedian
+- name: 3|🇸🇬 新加坡|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 3901
   server: 160.16.196.59
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡2|@ripaojiedian
+- name: 3|🇸🇬 新加坡2|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 3901
   server: 160.16.63.16
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡3|@ripaojiedian
+- name: 3|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
   port: 804
   server: 95.40.73.131
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 4|🇺🇸 美国|@ripaojiedian
+- name: 3|🇺🇸 美国|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 1281
   server: 160.16.196.59
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国2|@ripaojiedian
+- name: 3|🇺🇸 美国2|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 1281
   server: 160.16.63.16
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国3|@ripaojiedian
+- name: 3|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 2173
   server: 16.163.98.169
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 5|AE_speednode_0001
+- name: 4|AE_speednode_0001
   network: ws
   password: 5a2c16f9
   port: 2096
@@ -278,7 +278,7 @@ proxies:
       Host: snippets.kkii.eu.org
     path: /TelegramU0001F1E8U0001F1F3WangCai2
 - flow: xtls-rprx-vision
-  name: 5|CN_speednode_0002
+  name: 4|CN_speednode_0002
   port: 25135
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
@@ -289,7 +289,7 @@ proxies:
   type: vless
   udp: true
   uuid: ab33d265-3a47-400e-b12b-8f6bf1bb3269
-- name: 5|DE_speednode_0003
+- name: 4|DE_speednode_0003
   network: ws
   password: 554f139b-f31f-41c4-99f9-73d60647db26
   port: 443
@@ -302,7 +302,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /Telegram🇨🇳WangCai2
-- name: 5|DE_speednode_0004
+- name: 4|DE_speednode_0004
   network: ws
   password: 554f139b-f31f-41c4-99f9-73d60647db26
   port: 8443
@@ -316,7 +316,7 @@ proxies:
       Host: snippets.kkii.eu.org
     path: /Telegram🇨🇳WangCai2
 - flow: xtls-rprx-vision
-  name: 5|FI_speednode_0005
+  name: 4|FI_speednode_0005
   port: 8443
   reality-opts:
     public-key: pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4
@@ -329,7 +329,7 @@ proxies:
   udp: true
   uuid: fd8972d7-cf5e-11f0-9970-45e1d80c4039
 - flow: xtls-rprx-vision
-  name: 5|GR_speednode_0006
+  name: 4|GR_speednode_0006
   port: 443
   reality-opts:
     public-key: oXJYDXF6d8Bfx04xUNcI6SFSRyQ9SpBhU0Xf3tw4yy8
@@ -341,7 +341,7 @@ proxies:
   type: vless
   udp: true
   uuid: c7fd7017-71cf-4bfa-bc4f-bff8534c250b
-- name: 5|KR_speednode_0008
+- name: 4|KR_speednode_0008
   network: ws
   port: 8443
   server: 59.3.3.161
@@ -355,7 +355,7 @@ proxies:
     headers:
       Host: x.kkii.eu.org
     path: /59.3.3.161:8443
-- name: 5|RU_speednode_0009
+- name: 4|RU_speednode_0009
   port: 443
   reality-opts:
     public-key: t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU
@@ -368,7 +368,7 @@ proxies:
   udp: true
   uuid: 846c5d45-936c-42f6-9120-2d13830d5fa0
 - flow: xtls-rprx-vision
-  name: 5|RU_speednode_0010
+  name: 4|RU_speednode_0010
   port: 443
   reality-opts:
     public-key: llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws
@@ -380,7 +380,7 @@ proxies:
   type: vless
   udp: true
   uuid: 94e25e2b-ffc8-453d-a08c-1f5c3c249755
-- name: 5|RU_speednode_0011
+- name: 4|RU_speednode_0011
   network: ws
   password: 554f139b-f31f-41c4-99f9-73d60647db26
   port: 2096
@@ -394,7 +394,7 @@ proxies:
       Host: snippets.kkii.eu.org
     path: /Telegram🇨🇳WangCai2
 - flow: xtls-rprx-vision
-  name: 5|RU_speednode_0012
+  name: 4|RU_speednode_0012
   port: 1488
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -406,7 +406,7 @@ proxies:
   type: vless
   udp: true
   uuid: d2d79fd8-a3d4-4792-9766-e472e1fe8a5f
-- name: 5|RU_speednode_0013
+- name: 4|RU_speednode_0013
   network: ws
   password: ff1dbbc9-ddf2-4d6c-a315-61ecd4223bc0
   port: 2096
@@ -420,7 +420,7 @@ proxies:
       Host: snippets.kkii.eu.org
     path: /Telegram🇨🇳WangCai2
 - flow: xtls-rprx-vision
-  name: 5|RU_speednode_0014
+  name: 4|RU_speednode_0014
   port: 1488
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -432,7 +432,7 @@ proxies:
   type: vless
   udp: true
   uuid: d2d79fd8-a3d4-4792-9766-e472e1fe8a5f
-- name: 5|US_speednode_0015
+- name: 4|US_speednode_0015
   network: ws
   password: ff1dbbc9-ddf2-4d6c-a315-61ecd4223bc0
   port: 443
@@ -445,7 +445,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /Telegram🇨🇳WangCai2
-- name: 5|US_speednode_0016
+- name: 4|US_speednode_0016
   network: ws
   password: 5a2c16f9
   port: 2096
@@ -458,7 +458,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /TelegramU0001F1E8U0001F1F3WangCai2
-- name: 5|US_speednode_0017
+- name: 4|US_speednode_0017
   network: ws
   password: 5a2c16f9
   port: 2096
