@@ -54,6 +54,6 @@ vless://75bc2f7a-0e6c-46ad-8639-283deaa701c3@47.79.94.192:443?allowInsecure=1&sn
 vless://75bc2f7a-0e6c-46ad-8639-283deaa701c3@47.79.94.145:443?allowInsecure=1&sni=new7370.h2333.ggff.net&type=ws&host=new7370.h2333.ggff.net&path=/?ed=2560security=tls#5%7CUS_speednode_0016
 vless://75bc2f7a-0e6c-46ad-8639-283deaa701c3@38.55.198.52:443?allowInsecure=1&sni=new7370.h2333.ggff.net&type=ws&host=new7370.h2333.ggff.net&path=/?ed=2560security=tls#5%7CUS_speednode_0017
 vless://75bc2f7a-0e6c-46ad-8639-283deaa701c3@38.207.171.71:51434?allowInsecure=1&sni=new7370.h2333.ggff.net&type=ws&host=new7370.h2333.ggff.net&path=/?ed=2560security=tls#5%7CUS_speednode_0018
-hysteria://62.210.10.186:35511?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 hysteria://62.210.196.68:26691?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&insecure=1&peer=apple.com&upmbps=11 Mbps#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 hysteria://62.210.10.186:50011?alpn=h3&auth=dongtaiwang.com&downmbps=55 Mbps&protocol=udp&insecure=1&peer=apple.com&upmbps=11 Mbps#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
+hysteria://62.210.10.186:35511?alpn=h3&auth=dongtaiwang.com&auth_str=dongtaiwang.com&downmbps=55&protocol=udp&insecure=1&peer=apple.com&udp=true&upmbps=11#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
