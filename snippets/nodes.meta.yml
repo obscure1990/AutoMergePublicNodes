@@ -150,14 +150,14 @@ proxies:
   type: vless
   uuid: 48a8cab5-ce75-4c8a-90f5-dcd020c89b4b
 - cipher: aes-256-cfb
-  name: 3|tg频道:@ripaojiedian
+  name: 4|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
   server: 63.180.254.10
   type: ss
 - alterId: 2
   cipher: auto
-  name: 3|🇭🇰 香港|@ripaojiedian
+  name: 4|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
@@ -166,49 +166,49 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 2
   cipher: auto
-  name: 3|🇭🇰 香港2|@ripaojiedian
+  name: 4|🇭🇰 香港2|@ripaojiedian
   port: 30809
   server: v9.hdacd.com
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: 3|🇭🇰 香港3|@ripaojiedian
+- name: 4|🇭🇰 香港3|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 443
   server: 58.152.110.104
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇭🇰 香港4|@ripaojiedian
+- name: 4|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
   port: 443
   server: 58.152.25.86
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 3|🇭🇰 香港5|@ripaojiedian
+- name: 4|🇭🇰 香港5|@ripaojiedian
   password: BxceQaOe
   port: 443
   server: 58.152.25.236
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 3|🇯🇵 日本|@ripaojiedian
+- name: 4|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 2595
   server: 13.114.175.199
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 3|🇯🇵 日本2|@ripaojiedian
+- name: 4|🇯🇵 日本2|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 4006
   server: 160.16.196.59
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇯🇵 日本3|@ripaojiedian
+- name: 4|🇯🇵 日本3|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 1933
   server: 160.16.196.59
@@ -216,47 +216,47 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - cipher: aes-256-cfb
-  name: 3|🇰🇷 韩国|@ripaojiedian
+  name: 4|🇰🇷 韩国|@ripaojiedian
   password: qwerREWQ@@
   port: 21215
   server: 221.150.109.92
   type: ss
-- name: 3|🇸🇬 新加坡|@ripaojiedian
+- name: 4|🇸🇬 新加坡|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 3901
   server: 160.16.196.59
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇸🇬 新加坡2|@ripaojiedian
+- name: 4|🇸🇬 新加坡2|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 3901
   server: 160.16.63.16
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇸🇬 新加坡3|@ripaojiedian
+- name: 4|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
   port: 804
   server: 95.40.73.131
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 3|🇺🇸 美国|@ripaojiedian
+- name: 4|🇺🇸 美国|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 1281
   server: 160.16.196.59
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国2|@ripaojiedian
+- name: 4|🇺🇸 美国2|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 1281
   server: 160.16.63.16
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国3|@ripaojiedian
+- name: 4|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 2173
   server: 16.163.98.169
@@ -264,7 +264,7 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - flow: xtls-rprx-vision
-  name: 4|GR_speednode_0001
+  name: 5|GR_speednode_0001
   port: 443
   reality-opts:
     public-key: Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ
@@ -276,7 +276,7 @@ proxies:
   type: vless
   udp: true
   uuid: dd92c4f8-be88-4c61-84eb-d261f798071e
-- name: 4|HK_speednode_0002
+- name: 5|HK_speednode_0002
   network: ws
   port: 443
   server: 149.104.30.91
@@ -290,7 +290,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|JP_speednode_0003
+- name: 5|JP_speednode_0003
   network: ws
   port: 33443
   server: 47.245.40.126
@@ -304,7 +304,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|JP_speednode_0004
+- name: 5|JP_speednode_0004
   network: ws
   port: 443
   server: 8.211.167.99
@@ -318,7 +318,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|KR_speednode_0005
+- name: 5|KR_speednode_0005
   network: ws
   port: 12435
   server: 121.170.249.21
@@ -332,7 +332,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|KR_speednode_0006
+- name: 5|KR_speednode_0006
   network: ws
   port: 11300
   server: 211.106.184.129
@@ -346,7 +346,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|KR_speednode_0007
+- name: 5|KR_speednode_0007
   network: ws
   port: 12305
   server: 175.197.237.36
@@ -360,7 +360,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|SG_speednode_0008
+- name: 5|SG_speednode_0008
   network: ws
   port: 443
   server: 8.223.63.150
@@ -374,7 +374,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|US_speednode_0009
+- name: 5|US_speednode_0009
   network: ws
   port: 443
   server: 38.38.251.184
@@ -388,7 +388,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|US_speednode_0010
+- name: 5|US_speednode_0010
   network: ws
   port: 443
   server: 154.21.89.25
@@ -402,7 +402,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|US_speednode_0011
+- name: 5|US_speednode_0011
   network: ws
   port: 8443
   server: 154.26.188.178
@@ -416,7 +416,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|US_speednode_0012
+- name: 5|US_speednode_0012
   network: ws
   port: 443
   server: 154.26.189.211
@@ -430,7 +430,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|US_speednode_0013
+- name: 5|US_speednode_0013
   network: ws
   port: 443
   server: 185.201.226.135
@@ -444,7 +444,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|US_speednode_0014
+- name: 5|US_speednode_0014
   network: ws
   port: 37585
   server: 47.79.34.91
@@ -458,7 +458,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|US_speednode_0015
+- name: 5|US_speednode_0015
   network: ws
   port: 443
   server: 47.79.94.192
@@ -472,7 +472,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|US_speednode_0016
+- name: 5|US_speednode_0016
   network: ws
   port: 443
   server: 47.79.94.145
@@ -486,7 +486,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|US_speednode_0017
+- name: 5|US_speednode_0017
   network: ws
   port: 443
   server: 38.55.198.52
@@ -500,7 +500,7 @@ proxies:
     headers:
       Host: new7370.h2333.ggff.net
     path: /?ed=2560
-- name: 4|US_speednode_0018
+- name: 5|US_speednode_0018
   network: ws
   port: 51434
   server: 38.207.171.71
