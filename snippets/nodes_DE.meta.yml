@@ -1,6 +1,6 @@
 proxies:
 - client-fingerprint: chrome
-  name: 4|DE_speednode_0002
+  name: 5|DE_speednode_0002
   network: ws
   port: 20531
   server: 82.115.31.209
