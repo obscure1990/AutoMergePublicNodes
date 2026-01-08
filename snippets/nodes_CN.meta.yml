@@ -21,7 +21,7 @@ proxies:
   uuid: 39e5cc2f-1294-4a42-bb58-306a8be785e1
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 4|CN_speednode_0001
+  name: 5|CN_speednode_0003
   port: 29877
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
