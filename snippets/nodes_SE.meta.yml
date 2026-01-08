@@ -1,1 +1,12 @@
-proxies: []
+proxies:
+- name: 1|🇸🇪_SE_瑞典
+  network: ws
+  port: 80
+  server: server.ultra-irancell.com
+  tls: false
+  type: vless
+  uuid: 88888888-8888-8888-8888-888888888888
+  ws-opts:
+    headers:
+      Host: jone-turboo-server.com
+    path: '%2Fed%3D2056'
