@@ -1,7 +1,7 @@
 proxies:
 - alterId: 2
   cipher: auto
-  name: 4|🇭🇰 香港|@ripaojiedian
+  name: 3|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
@@ -10,35 +10,35 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 0
   cipher: auto
-  name: 4|🇭🇰 香港2|@ripaojiedian
+  name: 3|🇭🇰 香港2|@ripaojiedian
   port: 19226
   server: jy-hk.kunlun07dns.com
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: 48d361a8-e9a1-3c28-9b51-47775d62077e
-- name: 4|🇭🇰 香港3|@ripaojiedian
+- name: 3|🇭🇰 香港3|@ripaojiedian
   password: 381f2e86233720eacda26d50e9aa26da
   port: 443
   server: 58.152.110.104
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇭🇰 香港4|@ripaojiedian
+- name: 3|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
   port: 443
   server: 58.152.25.86
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|🇭🇰 香港5|@ripaojiedian
+- name: 3|🇭🇰 香港5|@ripaojiedian
   password: BxceQaOe
   port: 443
   server: 58.152.18.21
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 5|HK_speednode_0008
+- name: 4|HK_speednode_0008
   network: ws
   port: 443
   server: 47.57.182.141
@@ -52,7 +52,7 @@ proxies:
     headers:
       Host: gyhh2333.2288888.xyz
     path: /
-- name: 5|HK_speednode_0009
+- name: 4|HK_speednode_0009
   network: ws
   port: 20082
   server: 102.134.55.53
@@ -66,7 +66,7 @@ proxies:
     headers:
       Host: gyhh2333.2288888.xyz
     path: /
-- name: 5|HK_speednode_0010
+- name: 4|HK_speednode_0010
   network: ws
   port: 443
   server: 83.229.123.17
@@ -80,7 +80,7 @@ proxies:
     headers:
       Host: gyhh2333.2288888.xyz
     path: /
-- name: 5|HK_speednode_0011
+- name: 4|HK_speednode_0011
   network: ws
   port: 443
   server: 103.234.53.238
