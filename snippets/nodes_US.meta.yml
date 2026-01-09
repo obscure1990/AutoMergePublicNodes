@@ -45,21 +45,21 @@ proxies:
   tls: false
   type: vless
   uuid: a11ab9c5-4155-430b-9efc-7a7122531382
-- name: 4|🇺🇸 美国|@ripaojiedian
+- name: 3|🇺🇸 美国|@ripaojiedian
   password: 61d8077bfb174e171b8283f155a555ad
   port: 1281
   server: 160.16.87.174
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国2|@ripaojiedian
+- name: 3|🇺🇸 美国2|@ripaojiedian
   password: 61d8077bfb174e171b8283f155a555ad
   port: 1281
   server: 160.16.72.33
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国3|@ripaojiedian
+- name: 3|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 4569
   server: 43.198.110.101
