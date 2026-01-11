@@ -136,7 +136,7 @@ proxies:
   type: vless
   uuid: 3d29bd40-5f23-4024-aab6-17258cd55a7e
 - flow: xtls-rprx-vision
-  name: 1,5|US_speednode_0031
+  name: 1,4|US_speednode_0031
   port: 443
   reality-opts:
     public-key: EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8
@@ -149,7 +149,7 @@ proxies:
   udp: true
   uuid: a11ab9c5-4155-430b-9efc-7a7122531382
 - flow: xtls-rprx-vision
-  name: 1,5|US_speednode_0030
+  name: 1,4|US_speednode_0030
   port: 443
   reality-opts:
     public-key: EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8
@@ -221,14 +221,14 @@ proxies:
   type: vless
   uuid: dd92c4f8-be88-4c61-84eb-d261f798071e
 - cipher: aes-256-cfb
-  name: 4|tg频道:@ripaojiedian
+  name: 3|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
   server: 63.180.254.10
   type: ss
 - alterId: 2
   cipher: auto
-  name: 4|🇭🇰 香港|@ripaojiedian
+  name: 3|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
@@ -237,7 +237,7 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 2
   cipher: auto
-  name: 4|🇭🇰 香港2|@ripaojiedian
+  name: 3|🇭🇰 香港2|@ripaojiedian
   network: ws
   port: 80
   server: hkt.gotochinatown.net
@@ -249,77 +249,77 @@ proxies:
     headers:
       Host: broadcastlv.chat.bilibili.com
     path: /
-- name: 4|🇭🇰 香港3|@ripaojiedian
+- name: 3|🇭🇰 香港3|@ripaojiedian
   password: 61d8077bfb174e171b8283f155a555ad
   port: 443
   server: 112.118.116.123
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇭🇰 香港5|@ripaojiedian
+- name: 3|🇭🇰 香港5|@ripaojiedian
   password: BxceQaOe
   port: 443
   server: 58.152.25.220
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|🇯🇵 日本|@ripaojiedian
+- name: 3|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 2053
   server: 43.207.232.58
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 4|🇯🇵 日本2|@ripaojiedian
+- name: 3|🇯🇵 日本2|@ripaojiedian
   password: 61d8077bfb174e171b8283f155a555ad
   port: 1933
   server: 153.121.38.213
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇯🇵 日本3|@ripaojiedian
+- name: 3|🇯🇵 日本3|@ripaojiedian
   password: 61d8077bfb174e171b8283f155a555ad
   port: 1933
   server: 160.16.130.66
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡|@ripaojiedian
+- name: 3|🇸🇬 新加坡|@ripaojiedian
   password: 61d8077bfb174e171b8283f155a555ad
   port: 3901
   server: 153.121.38.213
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡2|@ripaojiedian
+- name: 3|🇸🇬 新加坡2|@ripaojiedian
   password: 61d8077bfb174e171b8283f155a555ad
   port: 3076
   server: 153.121.38.213
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡3|@ripaojiedian
+- name: 3|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
   port: 2673
   server: 95.40.111.8
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 4|🇺🇸 美国|@ripaojiedian
+- name: 3|🇺🇸 美国|@ripaojiedian
   password: 61d8077bfb174e171b8283f155a555ad
   port: 5076
   server: 160.16.81.84
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国2|@ripaojiedian
+- name: 3|🇺🇸 美国2|@ripaojiedian
   password: 61d8077bfb174e171b8283f155a555ad
   port: 1281
   server: 153.121.38.213
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国3|@ripaojiedian
+- name: 3|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 2173
   server: 43.198.151.117
@@ -327,19 +327,19 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - cipher: aes-256-cfb
-  name: 4|🇰🇷 韩国|@ripaojiedian
+  name: 3|🇰🇷 韩国|@ripaojiedian
   password: qwerREWQ@@
   port: 51978
   server: 168.126.234.247
   type: ss
 - cipher: aes-256-cfb
-  name: 4|🇻🇳 越南|@ripaojiedian
+  name: 3|🇻🇳 越南|@ripaojiedian
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   port: 38388
   server: 103.186.155.119
   type: ss
 - client-fingerprint: firefox
-  name: 5|BG_speednode_0001
+  name: 4|BG_speednode_0001
   port: 2255
   reality-opts:
     public-key: Cs7yLk8XXPksSjf6GB1JFYyFICqWVL3nL-10K7jQ7xc
@@ -352,7 +352,7 @@ proxies:
   udp: true
   uuid: 02b320ce-09f8-4cb5-9c46-9024f5585881
 - flow: xtls-rprx-vision
-  name: 5|CY_speednode_0003
+  name: 4|CY_speednode_0003
   port: 8443
   reality-opts:
     public-key: gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY
@@ -365,7 +365,7 @@ proxies:
   udp: true
   uuid: 309fa273-6579-4cb2-9143-7cad50401eba
 - client-fingerprint: firefox
-  name: 5|CZ_speednode_0004
+  name: 4|CZ_speednode_0004
   port: 587
   reality-opts:
     public-key: HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc
@@ -378,7 +378,7 @@ proxies:
   udp: true
   uuid: 65a1e22c-d37e-4b92-b6ca-1d09dcd1d441
 - client-fingerprint: firefox
-  name: 5|ES_speednode_0005
+  name: 4|ES_speednode_0005
   port: 587
   reality-opts:
     public-key: HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc
@@ -391,7 +391,7 @@ proxies:
   udp: true
   uuid: 65a1e22c-d37e-4b92-b6ca-1d09dcd1d441
 - flow: xtls-rprx-vision
-  name: 5|GB_speednode_0006
+  name: 4|GB_speednode_0006
   port: 443
   reality-opts:
     public-key: _dsOu_vxEU7pY3sIeGJxIpR0Ac2KoqIyBor2Bx0CwGA
@@ -404,7 +404,7 @@ proxies:
   udp: true
   uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
 - client-fingerprint: firefox
-  name: 5|GB_speednode_0007
+  name: 4|GB_speednode_0007
   port: 587
   reality-opts:
     public-key: HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc
@@ -417,7 +417,7 @@ proxies:
   udp: true
   uuid: 65a1e22c-d37e-4b92-b6ca-1d09dcd1d441
 - client-fingerprint: firefox
-  name: 5|GB_speednode_0008
+  name: 4|GB_speednode_0008
   port: 587
   reality-opts:
     public-key: HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc
@@ -432,7 +432,7 @@ proxies:
 - alpn:
   - h3
   client-fingerprint: random
-  name: 5|IE_speednode_0009
+  name: 4|IE_speednode_0009
   network: ws
   port: 443
   server: 37.0.6.46
@@ -447,7 +447,7 @@ proxies:
       Host: snippet.danfeng.frii.site
     path: /?ed=2560
 - flow: xtls-rprx-vision
-  name: 5|LB_speednode_0010
+  name: 4|LB_speednode_0010
   port: 443
   reality-opts:
     public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
@@ -460,7 +460,7 @@ proxies:
   udp: true
   uuid: e9dbc178-3656-40f8-8833-5023f306ef1d
 - flow: xtls-rprx-vision
-  name: 5|LB_speednode_0011
+  name: 4|LB_speednode_0011
   port: 443
   reality-opts:
     public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
@@ -473,7 +473,7 @@ proxies:
   udp: true
   uuid: e9dbc178-3656-40f8-8833-5023f306ef1d
 - flow: xtls-rprx-vision
-  name: 5|LV_speednode_0012
+  name: 4|LV_speednode_0012
   port: 443
   reality-opts:
     public-key: 9ged75OhdD4P8yzPPXDESnRkdFM4br4I44OwXLWd_iY
@@ -492,7 +492,7 @@ proxies:
     method: GET
     path:
     - /
-  name: 5|NL_speednode_0013
+  name: 4|NL_speednode_0013
   network: http
   port: 8949
   server: miow.thecommit.sbs
@@ -504,7 +504,7 @@ proxies:
   uuid: 28f609a0-ce33-4431-97be-64d650d78157
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 5|NL_speednode_0014
+  name: 4|NL_speednode_0014
   port: 443
   reality-opts:
     public-key: Ax50I4wgBCS5ejrqH-QGRL28oyr5-ocbBw6U7rHFzXI
@@ -517,7 +517,7 @@ proxies:
   udp: true
   uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
 - flow: xtls-rprx-vision
-  name: 5|NN_speednode_0015
+  name: 4|NN_speednode_0015
   port: 41579
   reality-opts:
     public-key: 3W_eKpL975AF7oI-mkgVtf2iK954luxwaT6C41re0RI
@@ -530,7 +530,7 @@ proxies:
   udp: true
   uuid: f64cdd9d-57c3-45b2-e999-c46006719646
 - flow: xtls-rprx-vision
-  name: 5|RU_speednode_0016
+  name: 4|RU_speednode_0016
   port: 443
   reality-opts:
     public-key: dEHsPQQSnMJiHJKnJRbbLFKQmwIemUXQsQ1zIYbLZng
@@ -543,7 +543,7 @@ proxies:
   udp: true
   uuid: 5725a60c-34a5-476d-9ae3-9e43d945ca8f
 - flow: xtls-rprx-vision
-  name: 5|RU_speednode_0017
+  name: 4|RU_speednode_0017
   port: 443
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -555,7 +555,7 @@ proxies:
   udp: true
   uuid: d684cb56-e4b8-4453-8a7b-a1ad8c81935a
 - flow: xtls-rprx-vision
-  name: 5|RU_speednode_0020
+  name: 4|RU_speednode_0020
   port: 443
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -567,7 +567,7 @@ proxies:
   udp: true
   uuid: d684cb56-e4b8-4453-8a7b-a1ad8c81935a
 - flow: xtls-rprx-vision
-  name: 5|RU_speednode_0021
+  name: 4|RU_speednode_0021
   port: 443
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -579,7 +579,7 @@ proxies:
   udp: true
   uuid: d684cb56-e4b8-4453-8a7b-a1ad8c81935a
 - flow: xtls-rprx-vision
-  name: 5|RU_speednode_0022
+  name: 4|RU_speednode_0022
   port: 443
   reality-opts:
     public-key: CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw
@@ -592,7 +592,7 @@ proxies:
   udp: true
   uuid: cc61ea7c-92f2-4c2d-b272-32cfe8fdf99f
 - flow: xtls-rprx-vision
-  name: 5|RU_speednode_0023
+  name: 4|RU_speednode_0023
   port: 443
   reality-opts:
     public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -605,7 +605,7 @@ proxies:
   udp: true
   uuid: 4371ad14-b981-4699-bedf-83fb79bde3e6
 - flow: xtls-rprx-vision
-  name: 5|SI_speednode_0024
+  name: 4|SI_speednode_0024
   port: 443
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -618,7 +618,7 @@ proxies:
   uuid: d684cb56-e4b8-4453-8a7b-a1ad8c81935a
 - client-fingerprint: ios
   flow: xtls-rprx-vision
-  name: 5|US_speednode_0025
+  name: 4|US_speednode_0025
   port: 443
   reality-opts:
     public-key: _TIQSjojgpdSBoSVXuQjFSqIdPeXjQIQkM5cFSv6Gnc
@@ -632,7 +632,7 @@ proxies:
   uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 5|US_speednode_0026
+  name: 4|US_speednode_0026
   port: 443
   reality-opts:
     public-key: 9mkPUmY5M-N81bSDf3lP9X3JnH25l4SfeUTnlwV04Eo
@@ -646,7 +646,7 @@ proxies:
   uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
 - client-fingerprint: ios
   flow: xtls-rprx-vision
-  name: 5|US_speednode_0027
+  name: 4|US_speednode_0027
   port: 443
   reality-opts:
     public-key: deEvuAAA_iJigkbck4yU_UmE8d491Dqt5V49y3n3DRw
@@ -660,7 +660,7 @@ proxies:
   uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 5|US_speednode_0028
+  name: 4|US_speednode_0028
   port: 443
   reality-opts:
     public-key: WC40e9QWe66kR6Zb1qkk9OeJBDQivKzqBczp9natHjk
@@ -673,7 +673,7 @@ proxies:
   udp: true
   uuid: 582f44d4-4511-402c-a0b7-b5771a2a5c9d
 - flow: xtls-rprx-vision
-  name: 5|US_speednode_0029
+  name: 4|US_speednode_0029
   port: 33873
   reality-opts:
     public-key: RV6FhlbDmMyc_qCuuTbUZt3QMUsKZU7EjyjGkYxHS34
