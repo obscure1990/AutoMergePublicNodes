@@ -24,7 +24,7 @@ proxies:
   type: vless
   uuid: 329bd550-a8f8-4157-b2df-dc4503097a27
 - client-fingerprint: chrome
-  name: 5|RU_speednode_0008
+  name: 4|RU_speednode_0008
   port: 8443
   reality-opts:
     public-key: bPN2gQ-96uG3DZONnduotvwViMDsUsN2XZnRkzXcMxk
