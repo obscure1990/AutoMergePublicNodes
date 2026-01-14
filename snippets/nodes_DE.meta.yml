@@ -25,7 +25,7 @@ proxies:
     headers:
       Host: TzS7v35LfD.sMaRtTeChZaAl.InFo
     path: '%2F'
-- name: 4|DE_speednode_0004
+- name: 5|DE_speednode_0008
   network: ws
   port: 2087
   server: api.dark-coffe.com
