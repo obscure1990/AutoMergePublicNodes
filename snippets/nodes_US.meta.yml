@@ -45,28 +45,28 @@ proxies:
   tls: false
   type: vless
   uuid: a11ab9c5-4155-430b-9efc-7a7122531382
-- name: 3|🇺🇸 美国|@ripaojiedian
+- name: 4|🇺🇸 美国|@ripaojiedian
   password: 4843e94d205f3893f588255a591abe94
   port: 5076
   server: 160.16.105.192
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国2|@ripaojiedian
+- name: 4|🇺🇸 美国2|@ripaojiedian
   password: 4843e94d205f3893f588255a591abe94
   port: 5076
   server: 160.16.85.33
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国3|@ripaojiedian
+- name: 4|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 1221
   server: 54.199.172.151
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|US_speednode_0037
+- name: 5|US_speednode_0037
   network: ws
   port: 443
   server: 104.21.227.134
@@ -80,7 +80,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0038
+- name: 5|US_speednode_0038
   network: ws
   port: 443
   server: 104.18.185.26
@@ -95,7 +95,7 @@ proxies:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
 - client-fingerprint: chrome
-  name: 4|US_speednode_0039
+  name: 5|US_speednode_0039
   network: ws
   port: 443
   server: 104.17.25.173
@@ -109,7 +109,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0040
+- name: 5|US_speednode_0040
   network: ws
   port: 443
   server: cloudflare.182682.xyz
@@ -124,7 +124,7 @@ proxies:
       Host: l.ayovo.netlib.re
     path: /x-aniu/?ed=2560
 - client-fingerprint: chrome
-  name: 4|US_speednode_0041
+  name: 5|US_speednode_0041
   network: ws
   port: 443
   server: cloudflare.182682.xyz
@@ -138,7 +138,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0042
+- name: 5|US_speednode_0042
   network: ws
   port: 80
   server: 151.101.3.8
@@ -152,7 +152,7 @@ proxies:
     headers:
       Host: mitivpn.global.ssl.fastly.net
     path: /--@V2rayAlpha--V2rayAlpha--V2rayAlpha--V2rayAlpha
-- name: 4|US_speednode_0043
+- name: 5|US_speednode_0043
   network: ws
   port: 443
   server: 104.16.250.22
@@ -166,7 +166,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0044
+- name: 5|US_speednode_0044
   network: ws
   port: 80
   server: 151.101.3.8
@@ -181,7 +181,7 @@ proxies:
       Host: mitivpn.global.ssl.fastly.net
     path: /@freeOnlineVPNV2rayAlphaV2rayAlphaV2rayAlpha
 - client-fingerprint: chrome
-  name: 4|US_speednode_0045
+  name: 5|US_speednode_0045
   network: ws
   port: 443
   server: adf.ly
@@ -195,7 +195,7 @@ proxies:
     headers:
       Host: rAyAn-007.pArViN.DpDnS.OrG
     path: /?ed=2560
-- name: 4|US_speednode_0046
+- name: 5|US_speednode_0046
   network: ws
   port: 443
   server: staticdelivery.nexusmods.com
@@ -209,7 +209,7 @@ proxies:
     headers:
       Host: kb.as129394.me
     path: /?ed=2560
-- name: 4|US_speednode_0047
+- name: 5|US_speednode_0047
   network: ws
   password: Aimer
   port: 2053

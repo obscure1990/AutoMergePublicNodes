@@ -26,7 +26,7 @@ proxies:
       Host: TzS7v35LfD.sMaRtTeChZaAl.InFo
     path: '%2F'
 - client-fingerprint: chrome
-  name: 4|DE_speednode_0002
+  name: 5|DE_speednode_0002
   network: ws
   port: 2096
   server: api.dark-coffe.com
