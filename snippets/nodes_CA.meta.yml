@@ -12,7 +12,7 @@ proxies:
     headers:
       Host: nasnet-511952424.mcitel.co
     path: /nasnet/cdn?ed=2560
-- name: 3|CA_speednode_0001
+- name: 5|CA_speednode_0001
   password: 30077070-596e-48ea-9400-14c8ed07bd97
   port: 443
   server: tuntro006.instconn.com

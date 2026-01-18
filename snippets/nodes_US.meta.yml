@@ -45,28 +45,28 @@ proxies:
   tls: false
   type: vless
   uuid: a11ab9c5-4155-430b-9efc-7a7122531382
-- name: 2|🇺🇸 美国|@ripaojiedian
+- name: 4|🇺🇸 美国|@ripaojiedian
   password: 4843e94d205f3893f588255a591abe94
   port: 5076
   server: 153.121.51.29
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 2|🇺🇸 美国2|@ripaojiedian
+- name: 4|🇺🇸 美国2|@ripaojiedian
   password: 4843e94d205f3893f588255a591abe94
   port: 5076
   server: 160.16.150.76
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 2|🇺🇸 美国3|@ripaojiedian
+- name: 4|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 4569
   server: 13.114.104.131
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 3|US_speednode_0024
+- name: 5|US_speednode_0024
   network: ws
   port: 443
   server: 154.17.10.237
@@ -81,7 +81,7 @@ proxies:
       Host: sni.meibidi.pp.ua
     path: /?ed=2560
 - client-fingerprint: chrome
-  name: 3|US_speednode_0025
+  name: 5|US_speednode_0025
   port: 443
   reality-opts:
     public-key: UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc
@@ -94,7 +94,7 @@ proxies:
   udp: true
   uuid: 147ccf68-ca08-4ce9-a507-b0f0d5af119c
 - client-fingerprint: chrome
-  name: 3|US_speednode_0026
+  name: 5|US_speednode_0026
   port: 443
   reality-opts:
     public-key: UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc
@@ -107,7 +107,7 @@ proxies:
   udp: true
   uuid: 355a8145-f4a5-4877-a8f3-31137530db3d
 - client-fingerprint: chrome
-  name: 3|US_speednode_0027
+  name: 5|US_speednode_0027
   port: 443
   reality-opts:
     public-key: UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc
