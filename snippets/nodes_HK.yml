@@ -24,14 +24,14 @@ proxies:
 - name: 4|🇭🇰 香港3|@ripaojiedian
   password: 4843e94d205f3893f588255a591abe94
   port: 443
-  server: 58.152.18.147
+  server: 58.152.18.124
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 4|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
-  port: 4329
-  server: 13.115.134.113
+  port: 443
+  server: 58.152.46.246
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
