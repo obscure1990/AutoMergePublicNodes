@@ -1,19 +1,6 @@
 proxies:
 - alterId: 2
   cipher: auto
-  name: 1|🇭🇰 HK²_23|2.8MB/s|0%|GPT⁺|YT|X...
-  network: ws
-  port: 80
-  server: 010ece56-t6r5s0-thd0h1-1rz5s.hkt.gotochinatown.net
-  tls: false
-  type: vmess
-  uuid: 40e084d6-0316-11f0-90e2-f23c913c8d2b
-  ws-opts:
-    headers:
-      Host: 010ece56-t6r5s0-thd0h1-1rz5s.hkt.gotochinatown.net
-    path: /
-- alterId: 2
-  cipher: auto
   name: 4|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com

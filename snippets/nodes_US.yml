@@ -1,12 +1,4 @@
 proxies:
-- name: 1|🇺🇸_US_美国_2
-  network: ws
-  password: er668
-  port: 443
-  server: kfjdi.pages.dev
-  type: trojan
-  ws-opts:
-    path: '%F0%9F%94%92'
 - name: 4|🇺🇸 美国|@ripaojiedian
   password: 4843e94d205f3893f588255a591abe94
   port: 5076
