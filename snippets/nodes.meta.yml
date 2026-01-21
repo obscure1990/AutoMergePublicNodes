@@ -217,14 +217,14 @@ proxies:
       Host: l.ayovo.netlib.re
     path: '%2F%3Fed%3D2560'
 - cipher: aes-256-cfb
-  name: 4|tg频道:@ripaojiedian
+  name: 3|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
   server: 63.180.254.10
   type: ss
 - alterId: 2
   cipher: auto
-  name: 4|🇭🇰 香港|@ripaojiedian
+  name: 3|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
@@ -233,91 +233,91 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 0
   cipher: auto
-  name: 4|🇭🇰 香港2|@ripaojiedian
+  name: 3|🇭🇰 香港2|@ripaojiedian
   port: 52080
   server: 61.15.60.153
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: bfb47846-aedb-4ea3-a81f-27895a4ec1bb
-- name: 4|🇭🇰 香港3|@ripaojiedian
+- name: 3|🇭🇰 香港3|@ripaojiedian
   password: 4843e94d205f3893f588255a591abe94
   port: 443
   server: 58.152.18.98
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇭🇰 香港4|@ripaojiedian
+- name: 3|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
   port: 3292
   server: 13.114.140.34
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|🇭🇰 香港5|@ripaojiedian
+- name: 3|🇭🇰 香港5|@ripaojiedian
   password: BxceQaOe
   port: 3042
   server: 16.162.252.215
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|🇯🇵 日本|@ripaojiedian
+- name: 3|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 2053
   server: 18.181.201.166
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 4|🇯🇵 日本2|@ripaojiedian
+- name: 3|🇯🇵 日本2|@ripaojiedian
   password: 4843e94d205f3893f588255a591abe94
   port: 1933
   server: 160.16.57.238
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇯🇵 日本3|@ripaojiedian
+- name: 3|🇯🇵 日本3|@ripaojiedian
   password: 4843e94d205f3893f588255a591abe94
   port: 4006
   server: 160.16.117.182
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡|@ripaojiedian
+- name: 3|🇸🇬 新加坡|@ripaojiedian
   password: 4843e94d205f3893f588255a591abe94
   port: 544
   server: 153.121.65.107
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡2|@ripaojiedian
+- name: 3|🇸🇬 新加坡2|@ripaojiedian
   password: 4843e94d205f3893f588255a591abe94
   port: 3901
   server: 160.16.124.55
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡3|@ripaojiedian
+- name: 3|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
   port: 1196
   server: 13.114.140.34
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 4|🇺🇸 美国|@ripaojiedian
+- name: 3|🇺🇸 美国|@ripaojiedian
   password: 4843e94d205f3893f588255a591abe94
   port: 5076
   server: 160.16.57.238
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国2|@ripaojiedian
+- name: 3|🇺🇸 美国2|@ripaojiedian
   password: 4843e94d205f3893f588255a591abe94
   port: 5076
   server: 160.16.117.182
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国3|@ripaojiedian
+- name: 3|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 4569
   server: 16.162.22.195
@@ -325,13 +325,13 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - cipher: aes-256-cfb
-  name: 4|🇻🇳 越南|@ripaojiedian
+  name: 3|🇻🇳 越南|@ripaojiedian
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   port: 38388
   server: 103.186.155.125
   type: ss
 - flow: xtls-rprx-vision
-  name: 5|DE_speednode_0003
+  name: 4|DE_speednode_0003
   port: 443
   reality-opts:
     public-key: 9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU
@@ -345,7 +345,7 @@ proxies:
   uuid: 95abaefc-7861-417a-81b7-166cb788ce1a
 - client-fingerprint: random
   flow: xtls-rprx-vision
-  name: 5|FI_speednode_0004
+  name: 4|FI_speednode_0004
   port: 8443
   reality-opts:
     public-key: pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4
@@ -357,7 +357,7 @@ proxies:
   type: vless
   udp: true
   uuid: fd8972d7-cf5e-11f0-9970-45e1d80c4039
-- name: 5|GB_speednode_0009
+- name: 4|GB_speednode_0009
   network: ws
   port: 2053
   server: 25.129.197.138
@@ -371,7 +371,7 @@ proxies:
     headers:
       Host: khamenei.dpdns.org
     path: /eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560
-- name: 5|GB_speednode_0006
+- name: 4|GB_speednode_0006
   network: ws
   port: 2053
   server: 25.129.197.138
@@ -386,7 +386,7 @@ proxies:
       Host: KhAmeneI.DPdNs.OrG
     path: /eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560
 - flow: xtls-rprx-vision
-  name: 5|GB_speednode_0007
+  name: 4|GB_speednode_0007
   port: 443
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -397,7 +397,7 @@ proxies:
   type: vless
   udp: true
   uuid: 94b14627-b624-4518-b9b6-9a3aae70f3ac
-- name: 5|GB_speednode_0008
+- name: 4|GB_speednode_0008
   network: ws
   port: 2053
   server: 25.129.197.138
@@ -412,7 +412,7 @@ proxies:
       Host: KhAmeneI.DPdNs.OrG
     path: /eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119
 - client-fingerprint: firefox
-  name: 5|GB_speednode_0010
+  name: 4|GB_speednode_0010
   port: 587
   reality-opts:
     public-key: HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc
@@ -431,7 +431,7 @@ proxies:
     method: GET
     path:
     - /
-  name: 5|IR_speednode_0011
+  name: 4|IR_speednode_0011
   network: http
   port: 58756
   server: mr13.digitalcity2.fun
@@ -441,7 +441,7 @@ proxies:
   type: vless
   udp: true
   uuid: ebe2de11-1ade-40e6-8045-cfb7a9b7e3d7
-- name: 5|KR_speednode_0012
+- name: 4|KR_speednode_0012
   password: test.+
   port: 30446
   server: testkr3.ssv.vc
@@ -451,7 +451,7 @@ proxies:
   udp: true
   username: test
 - flow: xtls-rprx-vision
-  name: 5|NL_speednode_0013
+  name: 4|NL_speednode_0013
   port: 443
   reality-opts:
     public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
@@ -464,7 +464,7 @@ proxies:
   udp: true
   uuid: 45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3
 - flow: xtls-rprx-vision
-  name: 5|PL_speednode_0014
+  name: 4|PL_speednode_0014
   port: 443
   reality-opts:
     public-key: -YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs
@@ -476,7 +476,7 @@ proxies:
   type: vless
   udp: true
   uuid: 96090e80-93bc-4e8e-897a-042f6068b500
-- name: 5|RU_speednode_0015
+- name: 4|RU_speednode_0015
   port: 4443
   reality-opts:
     public-key: 2W9bsI7dX2ryZNdv_GLh3YuO2ynFGsdu3Iz3fgWU5CQ
@@ -488,7 +488,7 @@ proxies:
   type: vless
   udp: true
   uuid: 71031aa1-067e-425e-97f5-37875f838a10
-- name: 5|RU_speednode_0016
+- name: 4|RU_speednode_0016
   port: 8443
   reality-opts:
     public-key: 8j9xx2O2pywcSy1EiGsMALbyzZXLs2EEbihC-E9E7nw
@@ -501,7 +501,7 @@ proxies:
   udp: true
   uuid: 71031aa1-067e-425e-97f5-37875f838a10
 - flow: xtls-rprx-vision
-  name: 5|RU_speednode_0017
+  name: 4|RU_speednode_0017
   port: 443
   reality-opts:
     public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -514,7 +514,7 @@ proxies:
   udp: true
   uuid: 4371ad14-b981-4699-bedf-83fb79bde3e6
 - flow: xtls-rprx-vision
-  name: 5|UA_speednode_0019
+  name: 4|UA_speednode_0019
   port: 443
   reality-opts:
     public-key: rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM
@@ -528,7 +528,7 @@ proxies:
   uuid: 0d93b787-b66b-4696-a036-a0f549764f69
 - client-fingerprint: qq
   flow: xtls-rprx-vision
-  name: 5|US_speednode_0020
+  name: 4|US_speednode_0020
   port: 8443
   reality-opts:
     public-key: UeBcV1nVO3N5d8Ng15MviC_hCnFO3zc0vrB5ykUaGRE
