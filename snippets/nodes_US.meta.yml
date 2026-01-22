@@ -152,7 +152,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: '%2F%3Fed%3D2560'
-- name: 5|US_speednode_0037
+- name: 4|US_speednode_0037
   network: ws
   password: Aimer
   port: 2053
@@ -165,7 +165,7 @@ proxies:
     headers:
       Host: epge.muarua.filegear-sg.me
     path: /?ed=2560
-- name: 5|US_speednode_0038
+- name: 4|US_speednode_0038
   port: 443
   server: plcdn14.suio.me
   servername: plcdn14.suio.me
@@ -174,7 +174,7 @@ proxies:
   type: vless
   udp: true
   uuid: 02fb468f-21f2-460e-bfa1-ef52ae5e627f
-- name: 5|US_speednode_0039
+- name: 4|US_speednode_0039
   network: ws
   password: Aimer
   port: 2053
