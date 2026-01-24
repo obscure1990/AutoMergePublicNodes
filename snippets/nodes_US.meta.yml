@@ -1,27 +1,27 @@
 proxies:
-- name: 3|🇺🇸 美国|@ripaojiedian
+- name: 4|🇺🇸 美国|@ripaojiedian
   password: 869e9086806483ca4744a4cb0f3d6e16
   port: 5076
-  server: 160.16.89.176
+  server: 160.16.130.21
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国2|@ripaojiedian
+- name: 4|🇺🇸 美国2|@ripaojiedian
   password: 869e9086806483ca4744a4cb0f3d6e16
   port: 5076
-  server: 160.16.81.84
+  server: 160.16.85.33
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国3|@ripaojiedian
+- name: 4|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 2173
-  server: 16.162.252.227
+  server: 18.167.42.188
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - client-fingerprint: chrome
-  name: 4|US_speednode_0015
+  name: 5|US_speednode_0015
   network: ws
   port: 443
   server: 104.16.147.32
@@ -35,7 +35,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0016
+- name: 5|US_speednode_0016
   network: ws
   port: 443
   server: 104.17.25.173
@@ -49,7 +49,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0017
+- name: 5|US_speednode_0017
   network: ws
   port: 443
   server: 104.18.185.26
@@ -63,7 +63,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0018
+- name: 5|US_speednode_0018
   network: ws
   port: 443
   server: 104.16.250.22
@@ -78,7 +78,7 @@ proxies:
       Host: l.ayovo.netlib.re
     path: /x-aniu/?ed=2560
 - client-fingerprint: chrome
-  name: 4|US_speednode_0019
+  name: 5|US_speednode_0019
   network: ws
   port: 443
   server: 104.16.250.22
@@ -92,7 +92,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0020
+- name: 5|US_speednode_0020
   network: ws
   port: 443
   server: 162.159.45.232
@@ -106,7 +106,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0021
+- name: 5|US_speednode_0021
   network: ws
   port: 443
   server: 162.159.44.142
@@ -120,7 +120,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0022
+- name: 5|US_speednode_0022
   network: ws
   port: 443
   server: cloudflare.182682.xyz
@@ -135,7 +135,7 @@ proxies:
       Host: l.ayovo.netlib.re
     path: /x-aniu/?ed=2560
 - client-fingerprint: chrome
-  name: 4|US_speednode_0023
+  name: 5|US_speednode_0023
   network: ws
   port: 443
   server: 162.159.16.63
@@ -150,7 +150,7 @@ proxies:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
 - client-fingerprint: chrome
-  name: 4|US_speednode_0024
+  name: 5|US_speednode_0024
   network: ws
   port: 443
   server: 104.21.224.5
@@ -165,7 +165,7 @@ proxies:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
 - client-fingerprint: chrome
-  name: 4|US_speednode_0025
+  name: 5|US_speednode_0025
   network: ws
   port: 443
   server: 104.21.227.134
@@ -180,7 +180,7 @@ proxies:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
 - client-fingerprint: chrome
-  name: 4|US_speednode_0026
+  name: 5|US_speednode_0026
   network: ws
   port: 443
   server: cloudflare.182682.xyz
@@ -194,7 +194,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0027
+- name: 5|US_speednode_0027
   port: 1080
   server: 174.138.61.184
   type: socks5
