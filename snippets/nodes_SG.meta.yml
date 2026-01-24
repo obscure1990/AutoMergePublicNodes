@@ -1,19 +1,19 @@
 proxies:
-- name: 4|🇸🇬 新加坡|@ripaojiedian
+- name: 3|🇸🇬 新加坡|@ripaojiedian
   password: 869e9086806483ca4744a4cb0f3d6e16
   port: 544
   server: 160.16.72.205
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡2|@ripaojiedian
+- name: 3|🇸🇬 新加坡2|@ripaojiedian
   password: 869e9086806483ca4744a4cb0f3d6e16
   port: 3076
   server: 160.16.124.17
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡3|@ripaojiedian
+- name: 3|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
   port: 1691
   server: 3.112.224.244
@@ -21,7 +21,7 @@ proxies:
   sni: t.me%252Fripaojiedian
   type: trojan
 - client-fingerprint: random
-  name: 5|SG_speednode_0060
+  name: 4|SG_speednode_0060
   network: ws
   port: 443
   server: 27.50.48.2
@@ -36,7 +36,7 @@ proxies:
       Host: snip.zrfs.indevs.in
     path: /?ed=2560
 - client-fingerprint: random
-  name: 5|SG_speednode_0061
+  name: 4|SG_speednode_0061
   network: ws
   port: 443
   server: 27.50.49.104
@@ -51,7 +51,7 @@ proxies:
       Host: snip.zrfs.indevs.in
     path: /?ed=2560
 - client-fingerprint: random
-  name: 5|SG_speednode_0062
+  name: 4|SG_speednode_0062
   network: ws
   port: 443
   server: 27.50.48.8
@@ -66,7 +66,7 @@ proxies:
       Host: snip.zrfs.indevs.in
     path: /?ed=2560
 - client-fingerprint: random
-  name: 5|SG_speednode_0063
+  name: 4|SG_speednode_0063
   network: ws
   port: 443
   server: 27.50.48.6
@@ -81,7 +81,7 @@ proxies:
       Host: snip.zrfs.indevs.in
     path: /?ed=2560
 - client-fingerprint: random
-  name: 5|SG_speednode_0064
+  name: 4|SG_speednode_0064
   network: ws
   port: 443
   server: 27.50.48.2
@@ -96,7 +96,7 @@ proxies:
       Host: snip.zrf.hidns.co
     path: /?ed=2560
 - client-fingerprint: random
-  name: 5|SG_speednode_0065
+  name: 4|SG_speednode_0065
   network: ws
   port: 443
   server: 27.50.48.13
@@ -111,7 +111,7 @@ proxies:
       Host: snip.zrfs.indevs.in
     path: /?ed=2560
 - client-fingerprint: random
-  name: 5|SG_speednode_0066
+  name: 4|SG_speednode_0066
   network: ws
   port: 443
   server: 27.50.49.104
@@ -126,7 +126,7 @@ proxies:
       Host: snip.zrf.hidns.co
     path: /?ed=2560
 - client-fingerprint: random
-  name: 5|SG_speednode_0067
+  name: 4|SG_speednode_0067
   network: ws
   port: 443
   server: 27.50.48.8
@@ -141,7 +141,7 @@ proxies:
       Host: snip.zrf.hidns.co
     path: /?ed=2560
 - client-fingerprint: random
-  name: 5|SG_speednode_0068
+  name: 4|SG_speednode_0068
   network: ws
   port: 443
   server: 27.50.48.6
@@ -156,7 +156,7 @@ proxies:
       Host: snip.zrf.hidns.co
     path: /?ed=2560
 - client-fingerprint: random
-  name: 5|SG_speednode_0069
+  name: 4|SG_speednode_0069
   network: ws
   port: 443
   server: 27.50.48.13
