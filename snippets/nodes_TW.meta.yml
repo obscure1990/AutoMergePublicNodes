@@ -1,5 +1,5 @@
 proxies:
-- name: 4|TW_speednode_0072
+- name: 5|TW_speednode_0072
   password: mrwdfNTD8M79LCukCieldrqZWqs=
   port: 1443
   server: twmoon1-cdn-route.couldflare-cdn.com
@@ -8,7 +8,7 @@ proxies:
   type: http
   udp: true
   username: mrwdfNTD8M79LCukCieldrqZWqs=
-- name: 4|TW_speednode_0073
+- name: 5|TW_speednode_0073
   password: exaxgqkKkd0TAMrCxeonWg==
   port: 1443
   server: twmoon1-cdn-route.couldflare-cdn.com
@@ -17,7 +17,7 @@ proxies:
   udp: true
   username: mrwdfNTD8M79LCukCieldrqZWqs=
 - client-fingerprint: chrome
-  name: 4|TW_speednode_0074
+  name: 5|TW_speednode_0074
   network: ws
   port: 443
   server: 125.228.236.138
