@@ -1,19 +1,19 @@
 proxies:
-- name: 3|🇺🇸 美国|@ripaojiedian
+- name: 4|🇺🇸 美国|@ripaojiedian
   password: 869e9086806483ca4744a4cb0f3d6e16
   port: 5076
   server: 18.179.118.202
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国2|@ripaojiedian
+- name: 4|🇺🇸 美国2|@ripaojiedian
   password: 869e9086806483ca4744a4cb0f3d6e16
   port: 491
   server: 52.195.170.6
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国3|@ripaojiedian
+- name: 4|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 2173
   server: 13.158.129.83
@@ -22,7 +22,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 4|US_speednode_0021
+  name: 5|US_speednode_0021
   port: 24683
   reality-opts:
     public-key: caKZX80LQ7KPROX0Sv5rMwmQmXVZjgdmLIBHuL4DIwQ
@@ -34,7 +34,7 @@ proxies:
   type: vless
   udp: true
   uuid: 86469f66-055e-41ea-a648-33e30c6ac750
-- name: 4|US_speednode_0022
+- name: 5|US_speednode_0022
   network: ws
   port: 443
   server: 104.16.147.32
@@ -48,7 +48,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0023
+- name: 5|US_speednode_0023
   network: ws
   port: 443
   server: 104.21.227.134
@@ -62,7 +62,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0024
+- name: 5|US_speednode_0024
   network: ws
   port: 443
   server: 104.18.185.26
@@ -78,7 +78,7 @@ proxies:
     path: /?ed=2560
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 4|US_speednode_0025
+  name: 5|US_speednode_0025
   port: 443
   reality-opts:
     public-key: Z_V0NAxK8Srw4gsBd3LvF53JCgvP3ihwH9yxKVu5Q0U
@@ -91,7 +91,7 @@ proxies:
   udp: true
   uuid: e5041986-523e-4311-95ea-de6e667e67f4
 - client-fingerprint: chrome
-  name: 4|US_speednode_0026
+  name: 5|US_speednode_0026
   network: ws
   port: 443
   server: 104.17.25.173
@@ -105,7 +105,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /x-aniu/?ed=2560
-- name: 4|US_speednode_0027
+- name: 5|US_speednode_0027
   network: ws
   port: 443
   server: 104.21.224.5
@@ -120,7 +120,7 @@ proxies:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
 - client-fingerprint: chrome
-  name: 4|US_speednode_0028
+  name: 5|US_speednode_0028
   network: ws
   port: 443
   server: cloudflare.182682.xyz
@@ -134,7 +134,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0029
+- name: 5|US_speednode_0029
   network: ws
   port: 443
   server: cloudflare.182682.xyz
@@ -148,7 +148,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /x-aniu/?ed=2560
-- name: 4|US_speednode_0030
+- name: 5|US_speednode_0030
   network: ws
   port: 443
   server: 104.16.250.22
@@ -162,7 +162,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0031
+- name: 5|US_speednode_0031
   network: ws
   port: 443
   server: 162.159.16.63
@@ -177,7 +177,7 @@ proxies:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
 - client-fingerprint: chrome
-  name: 4|US_speednode_0032
+  name: 5|US_speednode_0032
   network: ws
   port: 443
   server: 198.62.62.241
@@ -191,7 +191,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0033
+- name: 5|US_speednode_0033
   network: ws
   port: 443
   server: 162.159.16.63
@@ -206,7 +206,7 @@ proxies:
       Host: l.ayovo.netlib.re
     path: /x-aniu/?ed=2560
 - client-fingerprint: chrome
-  name: 4|US_speednode_0034
+  name: 5|US_speednode_0034
   network: ws
   port: 443
   server: 162.159.45.232
@@ -220,7 +220,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /x-aniu/?ed=2560
-- name: 4|US_speednode_0035
+- name: 5|US_speednode_0035
   network: ws
   port: 443
   server: 162.159.44.142
@@ -234,7 +234,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0036
+- name: 5|US_speednode_0036
   network: ws
   port: 443
   server: 162.159.45.232
@@ -248,7 +248,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0037
+- name: 5|US_speednode_0037
   network: ws
   port: 8880
   server: 104.21.31.4
@@ -262,7 +262,7 @@ proxies:
     headers:
       Host: underthegun.cfd.
     path: /FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY
-- name: 4|US_speednode_0038
+- name: 5|US_speednode_0038
   network: ws
   port: 443
   server: 162.159.44.142
@@ -277,7 +277,7 @@ proxies:
       Host: l.ayovo.netlib.re
     path: /x-aniu/?ed=2560
 - client-fingerprint: randomized
-  name: 4|US_speednode_0039
+  name: 5|US_speednode_0039
   network: ws
   port: 2095
   server: cf.090227.xyz
@@ -291,7 +291,7 @@ proxies:
     headers:
       Host: cnm-fangbinxing-nmsl.cnm-fangbinxing-nmsl-966.workers.dev
     path: /
-- name: 4|US_speednode_0040
+- name: 5|US_speednode_0040
   network: ws
   port: 443
   server: 104.17.25.173
@@ -305,7 +305,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|US_speednode_0041
+- name: 5|US_speednode_0041
   network: ws
   port: 443
   server: 104.16.250.22
@@ -319,7 +319,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /x-aniu/?ed=2560
-- name: 4|US_speednode_0042
+- name: 5|US_speednode_0042
   network: ws
   port: 443
   server: 188.114.98.0
@@ -333,7 +333,7 @@ proxies:
     headers:
       Host: delta090.qzz.io
     path: /45.76.183.217=49292
-- name: 4|US_speednode_0043
+- name: 5|US_speednode_0043
   network: ws
   port: 443
   server: 188.114.98.0
@@ -347,7 +347,7 @@ proxies:
     headers:
       Host: delta090.qzz.io
     path: /156.244.1.250=8443
-- name: 4|US_speednode_0044
+- name: 5|US_speednode_0044
   network: ws
   port: 443
   server: 188.114.98.0
@@ -362,7 +362,7 @@ proxies:
       Host: delta090.qzz.io
     path: /146.56.99.255=56789
 - client-fingerprint: chrome
-  name: 4|US_speednode_0045
+  name: 5|US_speednode_0045
   network: ws
   port: 443
   server: 188.114.98.0
@@ -378,7 +378,7 @@ proxies:
     path: /47.250.139.59=443
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 4|US_speednode_0046
+  name: 5|US_speednode_0046
   port: 443
   reality-opts:
     public-key: 8Y-wG0HpnevxydnNcN0iqGgToTjq9gZ44V2sdPmmsi4
@@ -395,7 +395,7 @@ proxies:
   - h2
   - http/1.1
   client-fingerprint: chrome
-  name: 4|US_speednode_0047
+  name: 5|US_speednode_0047
   network: ws
   port: 443
   server: 192.0.54.34
