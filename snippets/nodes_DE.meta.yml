@@ -6,7 +6,7 @@ proxies:
     method: GET
     path:
     - /
-  name: 5|DE_speednode_0008
+  name: 4|DE_speednode_0008
   network: http
   port: 443
   server: 152.53.33.43
@@ -21,7 +21,7 @@ proxies:
   - h2
   - http/1.1
   client-fingerprint: chrome
-  name: 5|DE_speednode_0010
+  name: 4|DE_speednode_0010
   network: ws
   port: 8443
   server: 80.66.85.115
