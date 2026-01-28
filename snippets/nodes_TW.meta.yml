@@ -1,5 +1,5 @@
 proxies:
-- name: 4|TW_speednode_0022
+- name: 3|TW_speednode_0022
   network: ws
   port: 43
   server: 220.128.110.108
@@ -13,7 +13,7 @@ proxies:
     headers:
       Host: l.ayovo.netlib.re
     path: /?ed=2560
-- name: 4|TW_speednode_0023
+- name: 3|TW_speednode_0023
   network: ws
   port: 51443
   server: 114.32.9.249
