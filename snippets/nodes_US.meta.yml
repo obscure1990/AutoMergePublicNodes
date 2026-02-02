@@ -1,19 +1,19 @@
 proxies:
-- name: 3|🇺🇸 美国|@ripaojiedian
+- name: 4|🇺🇸 美国|@ripaojiedian
   password: c1d83c0c7d57cead4379ba14a82df69b
   port: 491
   server: 113.230.22.2
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国2|@ripaojiedian
+- name: 4|🇺🇸 美国2|@ripaojiedian
   password: c1d83c0c7d57cead4379ba14a82df69b
   port: 5076
   server: 46.51.237.24
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国3|@ripaojiedian
+- name: 4|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 1221
   server: 43.199.77.22
@@ -21,7 +21,7 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - client-fingerprint: randomized
-  name: 4|US_speednode_0036
+  name: 5|US_speednode_0036
   network: ws
   port: 2095
   server: cf.090227.xyz
@@ -36,7 +36,7 @@ proxies:
       Host: cnm-fangbinxing-nmsl.cnm-fangbinxing-nmsl-wcnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0038
+  name: 5|US_speednode_0038
   network: ws
   port: 2095
   server: cdnjs.com
@@ -51,7 +51,7 @@ proxies:
       Host: cnm-fangbinxing-nmsl.cnm-fangbinxing-nmsl-wcnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0039
+  name: 5|US_speednode_0039
   network: ws
   port: 2095
   server: developers.cloudflare.com
@@ -66,7 +66,7 @@ proxies:
       Host: cnm-fangbinxing-nmsl.cnm-fangbinxing-nmsl-wcnm.workers.dev
     path: /
 - client-fingerprint: chrome
-  name: 4|US_speednode_0040
+  name: 5|US_speednode_0040
   network: ws
   port: 443
   server: afrcloud4.c01.kr
@@ -81,7 +81,7 @@ proxies:
       Host: afrcloud4.c01.kr
     path: /47.254.255.125=443
 - client-fingerprint: chrome
-  name: 4|US_speednode_0041
+  name: 5|US_speednode_0041
   network: ws
   port: 2053
   server: 104.26.12.27
@@ -96,7 +96,7 @@ proxies:
       Host: snippet.danfeng21.ndjp.net
     path: /danfeng
 - client-fingerprint: randomized
-  name: 4|US_speednode_0042
+  name: 5|US_speednode_0042
   network: ws
   port: 2095
   server: www.epicgames.com
