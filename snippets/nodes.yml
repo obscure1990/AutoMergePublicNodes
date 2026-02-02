@@ -110,3 +110,11 @@ proxies:
   port: 38388
   server: 103.186.155.81
   type: ss
+- name: 5|IN_speednode_0022
+  password: M7v%w11Se*
+  port: 443
+  server: amanm.wsone.icu
+  skip-cert-verify: true
+  sni: amanm.wsone.icu
+  type: trojan
+  udp: true
