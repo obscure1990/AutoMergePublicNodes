@@ -1,5 +1,5 @@
 proxies:
-- name: 3|DE_speednode_0009
+- name: 4|DE_speednode_0009
   network: ws
   port: 8881
   server: dlc-nl1.persianpinggame.ir
@@ -15,7 +15,7 @@ proxies:
     path: /
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 3|DE_speednode_0010
+  name: 4|DE_speednode_0010
   port: 350
   reality-opts:
     public-key: YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E
