@@ -98,11 +98,3 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 5|IN_speednode_0022
-  password: M7v%w11Se*
-  port: 443
-  server: amanm.wsone.icu
-  skip-cert-verify: true
-  sni: amanm.wsone.icu
-  type: trojan
-  udp: true
