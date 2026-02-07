@@ -1,35 +1,35 @@
 proxies:
 - alterId: 2
   cipher: auto
-  name: 4|🇭🇰 香港|@ripaojiedian
+  name: 3|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: 4|🇭🇰 香港3|@ripaojiedian
+- name: 3|🇭🇰 香港3|@ripaojiedian
   password: 5fb072e0ddd631cf66cf752b09210480
   port: 3373
   server: 43.207.108.97
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇭🇰 香港4|@ripaojiedian
+- name: 3|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
   port: 4183
   server: 43.206.227.236
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|🇭🇰 香港5|@ripaojiedian
+- name: 3|🇭🇰 香港5|@ripaojiedian
   password: BxceQaOe
   port: 3292
   server: 52.68.254.155
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 5|HK_speednode_0030
+- name: 4|HK_speednode_0030
   password: BxceQaOe
   port: 443
   server: 112.120.31.36
@@ -37,7 +37,7 @@ proxies:
   sni: t.me/ripaojiedian
   type: trojan
   udp: true
-- name: 5|HK_speednode_0031
+- name: 4|HK_speednode_0031
   password: BxceQaOe
   port: 443
   server: 112.120.31.36
@@ -46,7 +46,7 @@ proxies:
   udp: true
 - client-fingerprint: safari
   flow: xtls-rprx-vision
-  name: 5|HK_speednode_0032
+  name: 4|HK_speednode_0032
   port: 443
   reality-opts:
     public-key: 4cfuj5otn8-uhPUe23OhB6KY8I42AxxJNt4lWIpg_AU
@@ -59,7 +59,7 @@ proxies:
   uuid: fcfc091d-81a4-40b7-cbdc-8eb7683617a4
 - client-fingerprint: safari
   flow: xtls-rprx-vision
-  name: 5|HK_speednode_0033
+  name: 4|HK_speednode_0033
   port: 443
   reality-opts:
     public-key: 4cfuj5otn8-uhPUe23OhB6KY8I42AxxJNt4lWIpg_AU
@@ -70,7 +70,7 @@ proxies:
   type: vless
   udp: true
   uuid: fcfc091d-81a4-40b7-cbdc-8eb7683617a4
-- name: 5|HK_speednode_0034
+- name: 4|HK_speednode_0034
   password: BxceQaOe
   port: 443
   server: 112.120.31.36
