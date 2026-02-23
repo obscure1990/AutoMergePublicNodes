@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 2|🇹🇼 台湾|@ripaojiedian
+  name: 4|🇹🇼 台湾|@ripaojiedian
   port: 16811
   server: ipv6-tw03.cnddns.com
   skip-cert-verify: false
