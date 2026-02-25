@@ -1,5 +1,5 @@
 proxies:
-- name: 5|DE_speednode_0005
+- name: 4|DE_speednode_0005
   network: ws
   port: 443
   server: 185.219.84.221
