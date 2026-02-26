@@ -1,19 +1,19 @@
 proxies:
-- name: 4|🇺🇸 美国|@ripaojiedian
+- name: 3|🇺🇸 美国|@ripaojiedian
   password: 262f1d150049457ac1d6e66b020fa980
   port: 4920
   server: 153.121.65.107
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国2|@ripaojiedian
+- name: 3|🇺🇸 美国2|@ripaojiedian
   password: 262f1d150049457ac1d6e66b020fa980
   port: 1281
   server: 153.121.65.107
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国3|@ripaojiedian
+- name: 3|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 45947
   server: 43.198.101.173
@@ -22,7 +22,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 4|🇺🇸 美国4|@ripaojiedian
+  name: 3|🇺🇸 美国4|@ripaojiedian
   port: 9027
   server: select-us.ddnskunlun.com
   skip-cert-verify: false
@@ -30,7 +30,7 @@ proxies:
   type: vmess
   uuid: a8bcce43-abda-315b-8e81-e3e65bcb3d07
 - client-fingerprint: randomized
-  name: 5|US_speednode_0019
+  name: 4|US_speednode_0019
   network: ws
   port: 2095
   server: www.fbi.gov
@@ -45,7 +45,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0020
+  name: 4|US_speednode_0020
   network: ws
   port: 2095
   server: www.npmjs.com
@@ -60,7 +60,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0021
+  name: 4|US_speednode_0021
   network: ws
   port: 2095
   server: developers.cloudflare.com
@@ -75,7 +75,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0022
+  name: 4|US_speednode_0022
   network: ws
   port: 2095
   server: www.udemy.com
@@ -90,7 +90,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0024
+  name: 4|US_speednode_0024
   network: ws
   port: 2095
   server: cf.090227.xyz
@@ -105,7 +105,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0025
+  name: 4|US_speednode_0025
   network: ws
   port: 2095
   server: blog.cloudflare.com
@@ -120,7 +120,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0026
+  name: 4|US_speednode_0026
   network: ws
   port: 2095
   server: cloudflare-dns.com
@@ -135,7 +135,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0027
+  name: 4|US_speednode_0027
   network: ws
   port: 2095
   server: ns.cloudflare.com
@@ -150,7 +150,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0028
+  name: 4|US_speednode_0028
   network: ws
   port: 2095
   server: openai.com
@@ -165,7 +165,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0029
+  name: 4|US_speednode_0029
   network: ws
   port: 2095
   server: support.cloudflare.com
@@ -180,7 +180,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0030
+  name: 4|US_speednode_0030
   network: ws
   port: 2095
   server: www.epicgames.com
@@ -196,7 +196,7 @@ proxies:
     path: /
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 5|US_speednode_0031
+  name: 4|US_speednode_0031
   port: 443
   reality-opts:
     public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
@@ -209,7 +209,7 @@ proxies:
   udp: true
   uuid: d65cc14c-f53f-4fe2-b262-97856601319c
 - client-fingerprint: chrome
-  name: 5|US_speednode_0032
+  name: 4|US_speednode_0032
   port: 50000
   reality-opts:
     public-key: XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk
@@ -222,7 +222,7 @@ proxies:
   udp: true
   uuid: 7473f95b-5a12-4972-b882-9fcd41ceff72
 - client-fingerprint: chrome
-  name: 5|US_speednode_0033
+  name: 4|US_speednode_0033
   port: 50000
   reality-opts:
     public-key: XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk
@@ -235,7 +235,7 @@ proxies:
   udp: true
   uuid: 35249ead-311e-4cb9-ab36-17406ccf6b84
 - client-fingerprint: randomized
-  name: 5|US_speednode_0034
+  name: 4|US_speednode_0034
   network: ws
   port: 2095
   server: www.temu.com
@@ -250,7 +250,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0035
+  name: 4|US_speednode_0035
   network: ws
   port: 2095
   server: www.shopify.com
@@ -266,7 +266,7 @@ proxies:
     path: /
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 5|US_speednode_0036
+  name: 4|US_speednode_0036
   port: 23335
   reality-opts:
     public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik
@@ -279,7 +279,7 @@ proxies:
   udp: true
   uuid: e384913f-8863-47b4-8858-a84b68abb4a6
 - client-fingerprint: chrome
-  name: 5|US_speednode_0037
+  name: 4|US_speednode_0037
   port: 443
   reality-opts:
     public-key: 1xMt7stxzh55Xy31H180TZNMvRYNkhEE86StqE4CtDs
@@ -292,7 +292,7 @@ proxies:
   udp: true
   uuid: b1267991-59ff-4b67-b141-97e3ced4e7c8
 - client-fingerprint: chrome
-  name: 5|US_speednode_0038
+  name: 4|US_speednode_0038
   network: ws
   port: 443
   server: 198.62.62.248
@@ -307,7 +307,7 @@ proxies:
       Host: tar.alabama-tigr.info
     path: /love
 - client-fingerprint: chrome
-  name: 5|US_speednode_0039
+  name: 4|US_speednode_0039
   port: 50000
   reality-opts:
     public-key: XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk
