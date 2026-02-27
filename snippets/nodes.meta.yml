@@ -1,97 +1,97 @@
 proxies:
 - cipher: aes-256-cfb
-  name: 4|tg频道:@ripaojiedian
+  name: 3|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
   server: 63.180.254.10
   type: ss
 - alterId: 2
   cipher: auto
-  name: 4|🇭🇰 香港|@ripaojiedian
+  name: 3|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: 4|🇭🇰 香港3|@ripaojiedian
+- name: 3|🇭🇰 香港3|@ripaojiedian
   password: 262f1d150049457ac1d6e66b020fa980
   port: 4856
   server: 52.69.221.238
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇭🇰 香港4|@ripaojiedian
+- name: 3|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
   port: 2399
   server: 3.112.5.11
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|🇭🇰 香港5|@ripaojiedian
+- name: 3|🇭🇰 香港5|@ripaojiedian
   password: BxceQaOe
   port: 54548
   server: 95.40.65.207
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|🇯🇵 日本|@ripaojiedian
+- name: 3|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 2762
   server: 52.194.205.115
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 4|🇯🇵 日本2|@ripaojiedian
+- name: 3|🇯🇵 日本2|@ripaojiedian
   password: 262f1d150049457ac1d6e66b020fa980
   port: 400
   server: 153.121.70.134
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇯🇵 日本3|@ripaojiedian
+- name: 3|🇯🇵 日本3|@ripaojiedian
   password: 262f1d150049457ac1d6e66b020fa980
   port: 3423
   server: 153.121.38.213
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡|@ripaojiedian
+- name: 3|🇸🇬 新加坡|@ripaojiedian
   password: 262f1d150049457ac1d6e66b020fa980
   port: 3419
   server: 160.16.150.76
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡2|@ripaojiedian
+- name: 3|🇸🇬 新加坡2|@ripaojiedian
   password: 262f1d150049457ac1d6e66b020fa980
   port: 3419
   server: 52.193.121.51
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡3|@ripaojiedian
+- name: 3|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
   port: 41973
   server: 43.198.13.210
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 4|🇺🇸 美国|@ripaojiedian
+- name: 3|🇺🇸 美国|@ripaojiedian
   password: 262f1d150049457ac1d6e66b020fa980
   port: 4920
   server: 160.16.130.21
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国2|@ripaojiedian
+- name: 3|🇺🇸 美国2|@ripaojiedian
   password: 262f1d150049457ac1d6e66b020fa980
   port: 4920
   server: 160.16.124.17
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国3|@ripaojiedian
+- name: 3|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 38780
   server: 54.46.4.240
@@ -99,7 +99,7 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - flow: xtls-rprx-vision
-  name: 5|BY_speednode_0001
+  name: 4|BY_speednode_0001
   port: 443
   reality-opts:
     public-key: 0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg
@@ -112,7 +112,7 @@ proxies:
   udp: true
   uuid: eb071647-72a6-46be-8e89-ff3d228d52f6
 - flow: xtls-rprx-vision
-  name: 5|FI_speednode_0004
+  name: 4|FI_speednode_0004
   port: 8443
   reality-opts:
     public-key: pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4
@@ -125,7 +125,7 @@ proxies:
   udp: true
   uuid: fd8972d7-cf5e-11f0-9970-45e1d80c4039
 - flow: xtls-rprx-vision
-  name: 5|FR_speednode_0005
+  name: 4|FR_speednode_0005
   port: 443
   reality-opts:
     public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
@@ -137,7 +137,7 @@ proxies:
   type: vless
   udp: true
   uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
-- name: 5|GB_speednode_0007
+- name: 4|GB_speednode_0007
   port: 443
   reality-opts:
     public-key: kWxGUQ6QtaU-SCCt8Ht-POUPS6Ue6w-KyHjxb1AYQ1w
@@ -150,7 +150,7 @@ proxies:
   udp: true
   uuid: 2a8391ef-383c-4321-ac25-89b50973ab73
 - flow: xtls-rprx-vision
-  name: 5|GR_speednode_0009
+  name: 4|GR_speednode_0009
   port: 443
   reality-opts:
     public-key: Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ
@@ -163,7 +163,7 @@ proxies:
   udp: true
   uuid: dd92c4f8-be88-4c61-84eb-d261f798071e
 - flow: xtls-rprx-vision
-  name: 5|IQ_speednode_0010
+  name: 4|IQ_speednode_0010
   port: 443
   reality-opts:
     public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
@@ -174,7 +174,7 @@ proxies:
   type: vless
   udp: true
   uuid: cc9f7840-757a-430b-bddc-a73478bea434
-- name: 5|KR_speednode_0011
+- name: 4|KR_speednode_0011
   password: test.+
   port: 30446
   server: testkr3.ssv.vc
@@ -184,7 +184,7 @@ proxies:
   udp: true
   username: test
 - flow: xtls-rprx-vision
-  name: 5|RU_speednode_0012
+  name: 4|RU_speednode_0012
   port: 23335
   reality-opts:
     public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik
@@ -196,7 +196,7 @@ proxies:
   udp: true
   uuid: e384913f-8863-47b4-8858-a84b68abb4a6
 - flow: xtls-rprx-vision
-  name: 5|RU_speednode_0013
+  name: 4|RU_speednode_0013
   port: 18443
   reality-opts:
     public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
@@ -209,7 +209,7 @@ proxies:
   udp: true
   uuid: 1c4aceb6-bff7-4737-8c5d-43afb3dc350b
 - flow: xtls-rprx-vision
-  name: 5|RU_speednode_0015
+  name: 4|RU_speednode_0015
   port: 443
   reality-opts:
     public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -222,7 +222,7 @@ proxies:
   udp: true
   uuid: 9a599b2e-5455-44d5-9a72-5c76f28e93e3
 - flow: xtls-rprx-vision
-  name: 5|RU_speednode_0016
+  name: 4|RU_speednode_0016
   port: 443
   reality-opts:
     public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
@@ -234,7 +234,7 @@ proxies:
   type: vless
   udp: true
   uuid: 9a599b2e-5455-44d5-9a72-5c76f28e93e3
-- name: 5|SC_speednode_0017
+- name: 4|SC_speednode_0017
   port: 13686
   reality-opts:
     public-key: E2rSTxjCs8arrVzkG0htKf5OQt6wyoIsvwnsvkmKanQ
@@ -247,7 +247,7 @@ proxies:
   udp: true
   uuid: 8f09e644-7208-4f38-ac2f-db6d23cc647f
 - client-fingerprint: randomized
-  name: 5|US_speednode_0019
+  name: 4|US_speednode_0019
   network: ws
   port: 2095
   server: www.fbi.gov
@@ -262,7 +262,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0020
+  name: 4|US_speednode_0020
   network: ws
   port: 2095
   server: www.npmjs.com
@@ -277,7 +277,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0021
+  name: 4|US_speednode_0021
   network: ws
   port: 2095
   server: developers.cloudflare.com
@@ -292,7 +292,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0022
+  name: 4|US_speednode_0022
   network: ws
   port: 2095
   server: www.udemy.com
@@ -307,7 +307,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0024
+  name: 4|US_speednode_0024
   network: ws
   port: 2095
   server: cf.090227.xyz
@@ -322,7 +322,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0025
+  name: 4|US_speednode_0025
   network: ws
   port: 2095
   server: blog.cloudflare.com
@@ -337,7 +337,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0026
+  name: 4|US_speednode_0026
   network: ws
   port: 2095
   server: cloudflare-dns.com
@@ -352,7 +352,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0027
+  name: 4|US_speednode_0027
   network: ws
   port: 2095
   server: ns.cloudflare.com
@@ -367,7 +367,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0028
+  name: 4|US_speednode_0028
   network: ws
   port: 2095
   server: openai.com
@@ -382,7 +382,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0029
+  name: 4|US_speednode_0029
   network: ws
   port: 2095
   server: support.cloudflare.com
@@ -397,7 +397,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0030
+  name: 4|US_speednode_0030
   network: ws
   port: 2095
   server: www.epicgames.com
@@ -412,7 +412,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - flow: xtls-rprx-vision
-  name: 5|US_speednode_0031
+  name: 4|US_speednode_0031
   port: 443
   reality-opts:
     public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
@@ -424,7 +424,7 @@ proxies:
   type: vless
   udp: true
   uuid: d65cc14c-f53f-4fe2-b262-97856601319c
-- name: 5|US_speednode_0032
+- name: 4|US_speednode_0032
   port: 50000
   reality-opts:
     public-key: XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk
@@ -436,7 +436,7 @@ proxies:
   type: vless
   udp: true
   uuid: 7473f95b-5a12-4972-b882-9fcd41ceff72
-- name: 5|US_speednode_0033
+- name: 4|US_speednode_0033
   port: 50000
   reality-opts:
     public-key: XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk
@@ -449,7 +449,7 @@ proxies:
   udp: true
   uuid: 35249ead-311e-4cb9-ab36-17406ccf6b84
 - client-fingerprint: randomized
-  name: 5|US_speednode_0034
+  name: 4|US_speednode_0034
   network: ws
   port: 2095
   server: www.temu.com
@@ -464,7 +464,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 5|US_speednode_0035
+  name: 4|US_speednode_0035
   network: ws
   port: 2095
   server: www.shopify.com
@@ -479,7 +479,7 @@ proxies:
       Host: cnmfangbinxingnmsl.cnm-fangbinxing-cnm.workers.dev
     path: /
 - flow: xtls-rprx-vision
-  name: 5|US_speednode_0036
+  name: 4|US_speednode_0036
   port: 23335
   reality-opts:
     public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik
@@ -491,7 +491,7 @@ proxies:
   type: vless
   udp: true
   uuid: e384913f-8863-47b4-8858-a84b68abb4a6
-- name: 5|US_speednode_0037
+- name: 4|US_speednode_0037
   port: 443
   reality-opts:
     public-key: 1xMt7stxzh55Xy31H180TZNMvRYNkhEE86StqE4CtDs
@@ -503,7 +503,7 @@ proxies:
   type: vless
   udp: true
   uuid: b1267991-59ff-4b67-b141-97e3ced4e7c8
-- name: 5|US_speednode_0038
+- name: 4|US_speednode_0038
   network: ws
   port: 443
   server: 198.62.62.248
@@ -517,7 +517,7 @@ proxies:
     headers:
       Host: tar.alabama-tigr.info
     path: /love
-- name: 5|US_speednode_0039
+- name: 4|US_speednode_0039
   port: 50000
   reality-opts:
     public-key: XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk
