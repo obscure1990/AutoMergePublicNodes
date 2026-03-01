@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 3|🇨🇦 加拿大|@ripaojiedian
+  name: 4|🇨🇦 加拿大|@ripaojiedian
   port: 11985
   server: board-02.ddnskunlun.com
   skip-cert-verify: false
