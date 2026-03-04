@@ -1,6 +1,6 @@
 proxies:
 - client-fingerprint: random
-  name: 4|DE_speednode_0005
+  name: 5|DE_speednode_0005
   network: ws
   port: 8443
   server: 136.244.95.103
