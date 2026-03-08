@@ -1,7 +1,7 @@
 proxies:
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 5|DE_speednode_0004
+  name: 4|DE_speednode_0004
   port: 443
   reality-opts:
     public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc
@@ -13,7 +13,7 @@ proxies:
   type: vless
   udp: true
   uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1
-- name: 5|DE_speednode_0005
+- name: 4|DE_speednode_0005
   network: ws
   port: 8005
   server: 45.145.42.170
