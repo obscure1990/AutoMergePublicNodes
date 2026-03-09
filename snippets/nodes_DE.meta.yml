@@ -1,7 +1,7 @@
 proxies:
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 3|DE_speednode_0006
+  name: 4|DE_speednode_0006
   port: 433
   reality-opts:
     public-key: Bz2HLyFLCOrdtrxIgBPFIIb7BJFfLpnqJ1u-pw0Gpwo
@@ -16,7 +16,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: random
-  name: 3|DE_speednode_0007
+  name: 4|DE_speednode_0007
   network: ws
   port: 39738
   server: 91.149.232.164
