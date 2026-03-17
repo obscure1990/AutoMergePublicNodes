@@ -1,26 +1,26 @@
 proxies:
-- name: 4|🇺🇸 美国|@ripaojiedian
-  password: f389ed926e512e15f382dc3804029474
-  port: 4920
-  server: 13.113.193.32
+- name: 2|🇺🇸 美国|@ripaojiedian
+  password: 86e150eb21c6faee48e81d496d7f61c2
+  port: 3057
+  server: 160.16.72.33
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国2|@ripaojiedian
-  password: f389ed926e512e15f382dc3804029474
-  port: 4920
-  server: 13.115.145.176
+- name: 2|🇺🇸 美国2|@ripaojiedian
+  password: 86e150eb21c6faee48e81d496d7f61c2
+  port: 4019
+  server: 160.16.70.180
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国3|@ripaojiedian
+- name: 2|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
-  port: 50446
-  server: 95.40.46.74
+  port: 8401
+  server: 16.163.155.36
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 5|US_speednode_0042
+- name: 3|US_speednode_0042
   network: ws
   password: iwangjie
   port: 15805
@@ -33,7 +33,7 @@ proxies:
     headers:
       Host: nodes.830901.xyz
     path: /
-- name: 5|US_speednode_0043
+- name: 3|US_speednode_0043
   network: ws
   password: Aimer
   port: 2053
@@ -46,7 +46,7 @@ proxies:
     headers:
       Host: epge.muarua.filegear-sg.me
     path: /
-- name: 5|US_speednode_0044
+- name: 3|US_speednode_0044
   network: ws
   password: Aimer
   port: 2053
