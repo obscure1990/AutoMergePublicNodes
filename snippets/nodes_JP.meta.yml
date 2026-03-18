@@ -1,26 +1,26 @@
 proxies:
-- name: 4|🇯🇵 日本|@ripaojiedian
+- name: 3|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 16919
   server: 52.198.90.187
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 4|🇯🇵 日本2|@ripaojiedian
+- name: 3|🇯🇵 日本2|@ripaojiedian
   password: 86e150eb21c6faee48e81d496d7f61c2
   port: 2001
   server: 160.16.106.99
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇯🇵 日本3|@ripaojiedian
+- name: 3|🇯🇵 日本3|@ripaojiedian
   password: 86e150eb21c6faee48e81d496d7f61c2
   port: 4937
   server: 13.230.254.47
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 5|JP_speednode_0009
+- name: 4|JP_speednode_0009
   network: ws
   port: 443
   server: 138.2.62.8
@@ -35,7 +35,7 @@ proxies:
       Host: ylnhh.cc.cd
     path: /Telegram🇨🇳@WangCai2
 - client-fingerprint: chrome
-  name: 5|JP_speednode_0010
+  name: 4|JP_speednode_0010
   port: 45863
   reality-opts:
     public-key: LV-5v6aj0hx9D6wn8rFr3R86dcHtvumamPYvyfIzGRw
