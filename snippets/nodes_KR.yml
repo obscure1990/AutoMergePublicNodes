@@ -1,5 +1,5 @@
 proxies:
-- name: 4|KR_speednode_0011
+- name: 5|KR_speednode_0011
   network: ws
   password: trojan
   port: 11434
