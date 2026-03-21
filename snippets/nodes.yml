@@ -1,13 +1,13 @@
 proxies:
 - cipher: aes-256-cfb
-  name: 4|tg频道:@ripaojiedian
+  name: 3|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
   server: 63.180.254.10
   type: ss
 - alterId: 2
   cipher: auto
-  name: 4|🇭🇰 香港|@ripaojiedian
+  name: 3|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
@@ -16,28 +16,28 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 0
   cipher: auto
-  name: 4|🇭🇰 香港2|@ripaojiedian
+  name: 3|🇭🇰 香港2|@ripaojiedian
   port: 6001
   server: cn01.365cloud8754.com
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: db75bc92-4e32-48dd-b792-d7a8b707626c
-- name: 4|🇭🇰 香港3|@ripaojiedian
+- name: 3|🇭🇰 香港3|@ripaojiedian
   password: 86e150eb21c6faee48e81d496d7f61c2
   port: 921
   server: 43.207.232.176
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇭🇰 香港4|@ripaojiedian
+- name: 3|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
   port: 443
   server: 58.152.18.28
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|🇭🇰 香港5|@ripaojiedian
+- name: 3|🇭🇰 香港5|@ripaojiedian
   password: BxceQaOe
   port: 51885
   server: 13.230.175.163
@@ -45,68 +45,68 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - cipher: aes-128-gcm
-  name: 4|🇭🇰 香港6|@ripaojiedian
+  name: 3|🇭🇰 香港6|@ripaojiedian
   password: d72781da-3ea8-4d7f-9bca-c04ed410443b
   port: 50000
   server: 106.75.162.7
   type: ss
-- name: 4|🇯🇵 日本|@ripaojiedian
+- name: 3|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 4945
   server: 13.231.224.38
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 4|🇯🇵 日本2|@ripaojiedian
+- name: 3|🇯🇵 日本2|@ripaojiedian
   password: 86e150eb21c6faee48e81d496d7f61c2
   port: 2001
   server: 18.183.166.176
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇯🇵 日本3|@ripaojiedian
+- name: 3|🇯🇵 日本3|@ripaojiedian
   password: 86e150eb21c6faee48e81d496d7f61c2
   port: 4937
   server: 153.121.38.213
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡|@ripaojiedian
+- name: 3|🇸🇬 新加坡|@ripaojiedian
   password: 86e150eb21c6faee48e81d496d7f61c2
   port: 3419
   server: 13.230.175.163
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡2|@ripaojiedian
+- name: 3|🇸🇬 新加坡2|@ripaojiedian
   password: 86e150eb21c6faee48e81d496d7f61c2
   port: 3419
   server: 153.121.38.213
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇸🇬 新加坡3|@ripaojiedian
+- name: 3|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
   port: 41973
   server: 95.40.8.7
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 4|🇺🇸 美国|@ripaojiedian
+- name: 3|🇺🇸 美国|@ripaojiedian
   password: 86e150eb21c6faee48e81d496d7f61c2
   port: 4019
   server: 153.121.38.213
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国2|@ripaojiedian
+- name: 3|🇺🇸 美国2|@ripaojiedian
   password: 86e150eb21c6faee48e81d496d7f61c2
   port: 4920
   server: 13.115.91.176
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 4|🇺🇸 美国3|@ripaojiedian
+- name: 3|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 14919
   server: 54.95.208.150
@@ -114,19 +114,19 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - cipher: chacha20-ietf-poly1305
-  name: 4|🇲🇾 马来西亚
+  name: 3|🇲🇾 马来西亚
   password: 9ef232ac-12a3-4ca9-9217-1dea53d77b8a
   port: 19707
   server: ccoo1.whtjdasha.com
   type: ss
-- name: 5|AU_speednode_0002
+- name: 4|AU_speednode_0002
   password: IL37892054
   port: 443
   server: engaged-ram.rooster465.autos
   skip-cert-verify: false
   type: trojan
   udp: true
-- name: 5|KR_speednode_0024
+- name: 4|KR_speednode_0024
   network: ws
   password: trojan
   port: 11000
@@ -139,7 +139,7 @@ proxies:
     headers:
       Host: jflsjlaf.pages.dev
     path: /
-- name: 5|PL_speednode_0026
+- name: 4|PL_speednode_0026
   password: IL37892054
   port: 443
   server: outgoing-ladybird.rooster465.autos
