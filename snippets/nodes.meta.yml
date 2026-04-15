@@ -1,97 +1,97 @@
 proxies:
 - cipher: aes-256-cfb
-  name: 3|tg频道:@ripaojiedian
+  name: 2|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
   server: 63.180.254.10
   type: ss
 - alterId: 2
   cipher: auto
-  name: 3|🇭🇰 香港|@ripaojiedian
+  name: 2|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: 3|🇭🇰 香港3|@ripaojiedian
+- name: 2|🇭🇰 香港3|@ripaojiedian
   password: 868ecdaf6aed618ec98cf78585672b2b
   port: 52687
   server: 54.46.54.246
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇭🇰 香港4|@ripaojiedian
+- name: 2|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
   port: 6313
   server: 54.199.28.140
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 3|🇭🇰 香港5|@ripaojiedian
+- name: 2|🇭🇰 香港5|@ripaojiedian
   password: BxceQaOe
   port: 6313
   server: 54.65.154.235
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 3|🇯🇵 日本|@ripaojiedian
+- name: 2|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 3357
   server: 18.182.9.204
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 3|🇯🇵 日本2|@ripaojiedian
+- name: 2|🇯🇵 日本2|@ripaojiedian
   password: 868ecdaf6aed618ec98cf78585672b2b
   port: 4937
   server: 13.114.50.40
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇯🇵 日本3|@ripaojiedian
+- name: 2|🇯🇵 日本3|@ripaojiedian
   password: 868ecdaf6aed618ec98cf78585672b2b
   port: 2001
   server: 54.199.47.118
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇸🇬 新加坡|@ripaojiedian
+- name: 2|🇸🇬 新加坡|@ripaojiedian
   password: 868ecdaf6aed618ec98cf78585672b2b
   port: 4674
   server: 13.114.50.40
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇸🇬 新加坡2|@ripaojiedian
+- name: 2|🇸🇬 新加坡2|@ripaojiedian
   password: 868ecdaf6aed618ec98cf78585672b2b
   port: 4674
   server: 52.194.218.62
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇸🇬 新加坡3|@ripaojiedian
+- name: 2|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
   port: 28033
   server: 95.40.88.248
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 3|🇺🇸 美国|@ripaojiedian
+- name: 2|🇺🇸 美国|@ripaojiedian
   password: 868ecdaf6aed618ec98cf78585672b2b
   port: 3057
   server: 13.114.50.40
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国2|@ripaojiedian
+- name: 2|🇺🇸 美国2|@ripaojiedian
   password: 868ecdaf6aed618ec98cf78585672b2b
   port: 4019
   server: 54.199.47.118
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国3|@ripaojiedian
+- name: 2|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 44386
   server: 16.162.191.83
@@ -100,7 +100,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 3|🇹🇼 台湾|@ripaojiedian
+  name: 2|🇹🇼 台湾|@ripaojiedian
   network: ws
   port: 11612
   server: tw53_2.cowvpn.space
@@ -114,7 +114,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 3|🇯🇵 日本4|@ripaojiedian
+  name: 2|🇯🇵 日本4|@ripaojiedian
   network: ws
   port: 11612
   server: jp248_2.cowvpn.space
@@ -127,7 +127,7 @@ proxies:
       Host: ws248_2.baidu.com
     path: /
 - flow: xtls-rprx-vision
-  name: 4|GB_speednode_0002
+  name: 3|GB_speednode_0002
   port: 443
   reality-opts:
     public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
@@ -138,7 +138,7 @@ proxies:
   type: vless
   udp: true
   uuid: e346f220-4ca4-4f69-a66b-52e992b3b625
-- name: 4|HK_speednode_0003
+- name: 3|HK_speednode_0003
   network: ws
   port: 7443
   server: 222.167.202.21
@@ -152,7 +152,7 @@ proxies:
     headers:
       Host: 2026.hhhhh.eu.org
     path: /222.167.202.21:7443
-- name: 4|HK_speednode_0004
+- name: 3|HK_speednode_0004
   network: ws
   port: 7443
   server: 222.167.202.23
@@ -166,7 +166,7 @@ proxies:
     headers:
       Host: 2026.hhhhh.eu.org
     path: /222.167.202.23:7443
-- name: 4|HK_speednode_0005
+- name: 3|HK_speednode_0005
   network: ws
   port: 7443
   server: 222.167.202.10
@@ -180,7 +180,7 @@ proxies:
     headers:
       Host: 2026.hhhhh.eu.org
     path: /222.167.202.10:7443
-- name: 4|HK_speednode_0006
+- name: 3|HK_speednode_0006
   network: ws
   port: 7443
   server: 222.167.202.14
@@ -194,7 +194,7 @@ proxies:
     headers:
       Host: 2026.hhhhh.eu.org
     path: /222.167.202.14:7443
-- name: 4|HK_speednode_0007
+- name: 3|HK_speednode_0007
   network: ws
   port: 7443
   server: 222.167.202.16
@@ -208,7 +208,7 @@ proxies:
     headers:
       Host: 2026.hhhhh.eu.org
     path: /222.167.202.16:7443
-- name: 4|HK_speednode_0008
+- name: 3|HK_speednode_0008
   network: ws
   port: 7443
   server: 222.167.202.47
@@ -222,7 +222,7 @@ proxies:
     headers:
       Host: 2026.hhhhh.eu.org
     path: /222.167.202.47:7443
-- name: 4|HK_speednode_0009
+- name: 3|HK_speednode_0009
   network: ws
   port: 7443
   server: 222.167.202.6
@@ -236,7 +236,7 @@ proxies:
     headers:
       Host: 2026.hhhhh.eu.org
     path: /222.167.202.6:7443
-- name: 4|HK_speednode_0010
+- name: 3|HK_speednode_0010
   network: ws
   port: 7443
   server: 222.167.202.15
@@ -250,7 +250,7 @@ proxies:
     headers:
       Host: 2026.hhhhh.eu.org
     path: /222.167.202.15:7443
-- name: 4|HK_speednode_0011
+- name: 3|HK_speednode_0011
   network: ws
   port: 7443
   server: 222.167.202.22
@@ -264,7 +264,7 @@ proxies:
     headers:
       Host: 2026.hhhhh.eu.org
     path: /222.167.202.22:7443
-- name: 4|HK_speednode_0012
+- name: 3|HK_speednode_0012
   network: ws
   port: 7443
   server: 222.167.202.50
@@ -278,7 +278,7 @@ proxies:
     headers:
       Host: 2026.hhhhh.eu.org
     path: /222.167.202.50:7443
-- name: 4|HK_speednode_0013
+- name: 3|HK_speednode_0013
   network: ws
   port: 7443
   server: 222.167.202.52
@@ -292,7 +292,7 @@ proxies:
     headers:
       Host: 2026.hhhhh.eu.org
     path: /222.167.202.52:7443
-- name: 4|HK_speednode_0014
+- name: 3|HK_speednode_0014
   network: ws
   port: 7443
   server: 222.167.202.45
@@ -306,7 +306,7 @@ proxies:
     headers:
       Host: 2026.hhhhh.eu.org
     path: /222.167.202.45:7443
-- name: 4|HK_speednode_0015
+- name: 3|HK_speednode_0015
   network: ws
   port: 7443
   server: 222.167.202.36
@@ -320,7 +320,7 @@ proxies:
     headers:
       Host: 2026.hhhhh.eu.org
     path: /222.167.202.36:7443
-- name: 4|HK_speednode_0016
+- name: 3|HK_speednode_0016
   network: ws
   port: 7443
   server: 222.167.202.2
@@ -334,7 +334,7 @@ proxies:
     headers:
       Host: 2026.hhhhh.eu.org
     path: /222.167.202.2:7443
-- name: 4|HK_speednode_0017
+- name: 3|HK_speednode_0017
   network: ws
   port: 7443
   server: 222.167.202.32
@@ -349,7 +349,7 @@ proxies:
       Host: 2026.hhhhh.eu.org
     path: /222.167.202.32:7443
 - flow: xtls-rprx-vision
-  name: 4|RO_speednode_0018
+  name: 3|RO_speednode_0018
   port: 443
   reality-opts:
     public-key: kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw
@@ -362,7 +362,7 @@ proxies:
   udp: true
   uuid: 43488128-319e-f480-64ea-0acdc712e2a8
 - flow: xtls-rprx-vision
-  name: 4|SC_speednode_0020
+  name: 3|SC_speednode_0020
   port: 52000
   reality-opts:
     public-key: dUMRGt4pHvNO-YjS6lWsEZhoiHe6DH1Dw92nqVAx_T0
@@ -376,7 +376,7 @@ proxies:
   uuid: bf263367-bb63-4663-b4a1-34946107a72e
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 4|TR_speednode_0021
+  name: 3|TR_speednode_0021
   port: 8443
   reality-opts:
     public-key: 7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc
@@ -388,7 +388,7 @@ proxies:
   type: vless
   udp: true
   uuid: d6cbf3e4-b7ca-a4b2-0b04-eacbdc28bc5a
-- name: 4|US_speednode_0023
+- name: 3|US_speednode_0023
   network: ws
   password: trojan
   port: 8025
