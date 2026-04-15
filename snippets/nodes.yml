@@ -126,12 +126,12 @@ proxies:
     headers:
       Host: ws248_2.baidu.com
     path: /
-- name: 4|US_speednode_0023
+- name: 4|US_speednode_0014
   network: ws
   password: trojan
-  port: 8025
-  server: 54.46.72.234
-  skip-cert-verify: true
+  port: 54321
+  server: 154.12.53.125
+  skip-cert-verify: false
   sni: jflsjlaf.pages.dev
   type: trojan
   udp: true
