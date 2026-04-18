@@ -1,19 +1,19 @@
 proxies:
-- name: 3|🇺🇸 美国|@ripaojiedian
+- name: 2|🇺🇸 美国|@ripaojiedian
   password: 868ecdaf6aed618ec98cf78585672b2b
   port: 4019
   server: 54.249.109.55
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国2|@ripaojiedian
+- name: 2|🇺🇸 美国2|@ripaojiedian
   password: 868ecdaf6aed618ec98cf78585672b2b
   port: 3057
   server: 13.115.246.132
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国3|@ripaojiedian
+- name: 2|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 14919
   server: 16.162.217.109
@@ -24,7 +24,7 @@ proxies:
   - h2
   - http/1.1
   client-fingerprint: chrome
-  name: 4|US_speednode_0018
+  name: 3|US_speednode_0018
   network: ws
   port: 443
   server: 18.245.54.3
@@ -40,7 +40,7 @@ proxies:
     path: /
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 4|US_speednode_0020
+  name: 3|US_speednode_0020
   port: 443
   reality-opts:
     public-key: -ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk
@@ -52,7 +52,7 @@ proxies:
   type: vless
   udp: true
   uuid: d5f95f47-9399-49c6-a76b-aa6b289609ba
-- name: 4|US_speednode_0021
+- name: 3|US_speednode_0021
   network: ws
   port: 443
   server: 18.245.54.3
@@ -67,7 +67,7 @@ proxies:
       Host: d23iuljn5k9z1j.cloudfront.net
     path: /
 - client-fingerprint: chrome
-  name: 4|US_speednode_0022
+  name: 3|US_speednode_0022
   port: 443
   reality-opts:
     public-key: A1OvYDljz8ZJr7_1xe4j2H1AHsMuYEKifyjdWhdybzk
