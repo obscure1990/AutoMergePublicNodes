@@ -1,104 +1,104 @@
 proxies:
 - cipher: aes-256-cfb
-  name: 2|tg频道:@ripaojiedian
+  name: 3|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
   server: 63.180.254.10
   type: ss
 - alterId: 2
   cipher: auto
-  name: 2|🇭🇰 香港|@ripaojiedian
+  name: 3|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: 2|🇭🇰 香港3|@ripaojiedian
+- name: 3|🇭🇰 香港3|@ripaojiedian
   password: 1774240c00db2b77d5a99f6540c47b69
   port: 52687
   server: 3.112.254.212
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 2|🇭🇰 香港4|@ripaojiedian
+- name: 3|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
   port: 54708
   server: 43.206.194.205
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 2|🇭🇰 香港5|@ripaojiedian
+- name: 3|🇭🇰 香港5|@ripaojiedian
   password: BxceQaOe
   port: 50612
   server: 43.199.32.10
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 2|🇯🇵 日本|@ripaojiedian
+- name: 3|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 3278
   server: 54.249.58.71
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 2|🇯🇵 日本2|@ripaojiedian
+- name: 3|🇯🇵 日本2|@ripaojiedian
   password: 1774240c00db2b77d5a99f6540c47b69
   port: 2001
   server: 54.249.58.71
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 2|🇯🇵 日本3|@ripaojiedian
+- name: 3|🇯🇵 日本3|@ripaojiedian
   password: 1774240c00db2b77d5a99f6540c47b69
   port: 4380
   server: 43.199.32.10
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 2|🇸🇬 新加坡|@ripaojiedian
+- name: 3|🇸🇬 新加坡|@ripaojiedian
   password: 1774240c00db2b77d5a99f6540c47b69
   port: 5594
   server: 54.249.58.71
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 2|🇸🇬 新加坡2|@ripaojiedian
+- name: 3|🇸🇬 新加坡2|@ripaojiedian
   password: 1774240c00db2b77d5a99f6540c47b69
   port: 32876
   server: 54.249.58.71
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 2|🇸🇬 新加坡3|@ripaojiedian
+- name: 3|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
   port: 30726
   server: 43.199.253.7
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 2|🇺🇸 美国|@ripaojiedian
+- name: 3|🇺🇸 美国|@ripaojiedian
   password: 1774240c00db2b77d5a99f6540c47b69
   port: 4019
   server: 13.231.43.53
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 2|🇺🇸 美国2|@ripaojiedian
+- name: 3|🇺🇸 美国2|@ripaojiedian
   password: 1774240c00db2b77d5a99f6540c47b69
   port: 3057
   server: 43.199.32.10
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 2|🇺🇸 美国3|@ripaojiedian
+- name: 3|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 14919
   server: 52.195.168.226
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 3|AT_speednode_0004
+- name: 4|AT_speednode_0004
   network: ws
   password: '1234567890'
   port: 443
@@ -111,7 +111,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /
-- name: 3|AT_speednode_0005
+- name: 4|AT_speednode_0005
   network: ws
   password: '1234567890'
   port: 443
@@ -124,7 +124,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|BG_speednode_0008
+- name: 4|BG_speednode_0008
   network: ws
   password: '1234567890'
   port: 443
@@ -137,7 +137,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|BG_speednode_0009
+- name: 4|BG_speednode_0009
   network: ws
   password: '1234567890'
   port: 443
@@ -150,7 +150,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|CH_speednode_0040
+- name: 4|CH_speednode_0040
   network: ws
   password: '1234567890'
   port: 443
@@ -163,7 +163,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|CH_speednode_0041
+- name: 4|CH_speednode_0041
   network: ws
   password: '1234567890'
   port: 443
@@ -176,7 +176,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|CH_speednode_0042
+- name: 4|CH_speednode_0042
   network: ws
   password: '1234567890'
   port: 443
@@ -189,7 +189,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|CH_speednode_0043
+- name: 4|CH_speednode_0043
   network: ws
   password: '1234567890'
   port: 443
@@ -202,7 +202,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /
-- name: 3|CH_speednode_0044
+- name: 4|CH_speednode_0044
   network: ws
   password: '1234567890'
   port: 443
@@ -215,7 +215,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|CH_speednode_0045
+- name: 4|CH_speednode_0045
   network: ws
   password: '1234567890'
   port: 8443
@@ -228,7 +228,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|CH_speednode_0046
+- name: 4|CH_speednode_0046
   network: ws
   password: '1234567890'
   port: 443
@@ -241,7 +241,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|CH_speednode_0048
+- name: 4|CH_speednode_0048
   network: ws
   password: '1234567890'
   port: 443
@@ -254,7 +254,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|CH_speednode_0049
+- name: 4|CH_speednode_0049
   network: ws
   password: '1234567890'
   port: 443
@@ -267,7 +267,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /
-- name: 3|CH_speednode_0050
+- name: 4|CH_speednode_0050
   network: ws
   password: '1234567890'
   port: 443
@@ -280,7 +280,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /
-- name: 3|CZ_speednode_0052
+- name: 4|CZ_speednode_0052
   network: ws
   password: '1234567890'
   port: 443
@@ -293,7 +293,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|CZ_speednode_0054
+- name: 4|CZ_speednode_0054
   network: ws
   password: '1234567890'
   port: 443
@@ -306,7 +306,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|CZ_speednode_0055
+- name: 4|CZ_speednode_0055
   network: ws
   password: '1234567890'
   port: 443
@@ -319,7 +319,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|DE_speednode_0059
+- name: 4|DE_speednode_0059
   network: ws
   password: '1234567890'
   port: 443
@@ -332,7 +332,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|DE_speednode_0063
+- name: 4|DE_speednode_0063
   network: ws
   password: '1234567890'
   port: 443
@@ -345,7 +345,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|DE_speednode_0064
+- name: 4|DE_speednode_0064
   network: ws
   password: '1234567890'
   port: 443
@@ -358,7 +358,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|DE_speednode_0065
+- name: 4|DE_speednode_0065
   network: ws
   password: '1234567890'
   port: 443
@@ -371,7 +371,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|DK_speednode_0066
+- name: 4|DK_speednode_0066
   network: ws
   password: '1234567890'
   port: 443
@@ -384,7 +384,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|FI_speednode_0072
+- name: 4|FI_speednode_0072
   network: ws
   password: '1234567890'
   port: 443
@@ -397,7 +397,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|GB_speednode_0079
+- name: 4|GB_speednode_0079
   network: ws
   password: '1234567890'
   port: 443
@@ -410,7 +410,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|GB_speednode_0080
+- name: 4|GB_speednode_0080
   network: ws
   password: '1234567890'
   port: 443
@@ -423,7 +423,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|GB_speednode_0082
+- name: 4|GB_speednode_0082
   network: ws
   password: '1234567890'
   port: 8443
@@ -436,7 +436,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|GB_speednode_0085
+- name: 4|GB_speednode_0085
   network: ws
   password: '1234567890'
   port: 443
@@ -449,7 +449,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|GB_speednode_0087
+- name: 4|GB_speednode_0087
   network: ws
   password: '1234567890'
   port: 443
@@ -462,7 +462,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|GB_speednode_0090
+- name: 4|GB_speednode_0090
   network: ws
   password: '1234567890'
   port: 8443
@@ -475,7 +475,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|IQ_speednode_0102
+- name: 4|IQ_speednode_0102
   network: ws
   password: '1234567890'
   port: 443
@@ -488,7 +488,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|IR_speednode_0103
+- name: 4|IR_speednode_0103
   network: ws
   password: '1234567890'
   port: 443
@@ -501,7 +501,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|IR_speednode_0104
+- name: 4|IR_speednode_0104
   network: ws
   password: '1234567890'
   port: 443
@@ -514,7 +514,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|LB_speednode_0112
+- name: 4|LB_speednode_0112
   network: ws
   password: '1234567890'
   port: 2053
@@ -527,7 +527,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|RU_speednode_0118
+- name: 4|RU_speednode_0118
   network: ws
   password: '1234567890'
   port: 2053
@@ -540,7 +540,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|SC_speednode_0123
+- name: 4|SC_speednode_0123
   network: ws
   password: '1234567890'
   port: 443
@@ -553,7 +553,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|SC_speednode_0124
+- name: 4|SC_speednode_0124
   network: ws
   password: '1234567890'
   port: 443
@@ -566,7 +566,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|SE_speednode_0125
+- name: 4|SE_speednode_0125
   network: ws
   password: '1234567890'
   port: 443
@@ -579,7 +579,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|SE_speednode_0126
+- name: 4|SE_speednode_0126
   network: ws
   password: '1234567890'
   port: 443
@@ -592,7 +592,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|SE_speednode_0127
+- name: 4|SE_speednode_0127
   network: ws
   password: '1234567890'
   port: 443
@@ -605,7 +605,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /
-- name: 3|US_speednode_0137
+- name: 4|US_speednode_0137
   network: ws
   password: '1234567890'
   port: 8443
@@ -618,7 +618,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|US_speednode_0138
+- name: 4|US_speednode_0138
   network: ws
   password: '1234567890'
   port: 443
@@ -631,7 +631,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|US_speednode_0139
+- name: 4|US_speednode_0139
   network: ws
   password: '1234567890'
   port: 443
@@ -644,7 +644,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|US_speednode_0140
+- name: 4|US_speednode_0140
   network: ws
   password: '1234567890'
   port: 443
@@ -657,7 +657,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|US_speednode_0142
+- name: 4|US_speednode_0142
   network: ws
   password: '1234567890'
   port: 443
@@ -670,7 +670,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|US_speednode_0144
+- name: 4|US_speednode_0144
   network: ws
   password: '1234567890'
   port: 443
@@ -683,7 +683,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|US_speednode_0145
+- name: 4|US_speednode_0145
   network: ws
   password: '1234567890'
   port: 443
@@ -696,7 +696,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /
-- name: 3|US_speednode_0146
+- name: 4|US_speednode_0146
   network: ws
   password: '1234567890'
   port: 443
@@ -709,7 +709,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /
-- name: 3|US_speednode_0152
+- name: 4|US_speednode_0152
   network: ws
   password: '1234567890'
   port: 443
@@ -722,7 +722,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|US_speednode_0159
+- name: 4|US_speednode_0159
   network: ws
   password: '1234567890'
   port: 443
@@ -735,7 +735,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|US_speednode_0160
+- name: 4|US_speednode_0160
   network: ws
   password: '1234567890'
   port: 443
@@ -748,7 +748,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|US_speednode_0163
+- name: 4|US_speednode_0163
   network: ws
   password: '1234567890'
   port: 443
@@ -761,7 +761,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|US_speednode_0164
+- name: 4|US_speednode_0164
   network: ws
   password: '1234567890'
   port: 8443
@@ -774,7 +774,7 @@ proxies:
     headers:
       Host: kfm-bn0.pages.dev
     path: /?ed=2560
-- name: 3|US_speednode_0165
+- name: 4|US_speednode_0165
   network: ws
   password: '1234567890'
   port: 443
