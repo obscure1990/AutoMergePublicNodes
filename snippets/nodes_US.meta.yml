@@ -1,19 +1,19 @@
 proxies:
-- name: 2|🇺🇸 美国|@ripaojiedian
+- name: 3|🇺🇸 美国|@ripaojiedian
   password: 1774240c00db2b77d5a99f6540c47b69
   port: 4019
   server: 13.231.43.53
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 2|🇺🇸 美国2|@ripaojiedian
+- name: 3|🇺🇸 美国2|@ripaojiedian
   password: 1774240c00db2b77d5a99f6540c47b69
   port: 3057
   server: 43.199.32.10
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 2|🇺🇸 美国3|@ripaojiedian
+- name: 3|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 14919
   server: 52.195.168.226
@@ -22,7 +22,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 3|US_speednode_0022
+  name: 4|US_speednode_0022
   port: 443
   reality-opts:
     public-key: tB6tQr-pmLTdMM8DVOb9KsS27lDkAjjelbdu_Gp1SR0
@@ -36,7 +36,7 @@ proxies:
   uuid: c5bbdac7-6ff5-4762-87bf-870f55a03581
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 3|US_speednode_0024
+  name: 4|US_speednode_0024
   port: 443
   reality-opts:
     public-key: -ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk
@@ -51,7 +51,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: chrome
-  name: 3|US_speednode_0025
+  name: 4|US_speednode_0025
   network: ws
   port: 443
   server: 165.140.241.29
@@ -67,7 +67,7 @@ proxies:
     path: /danfeng?ed=2560
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 3|US_speednode_0026
+  name: 4|US_speednode_0026
   port: 4454
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -80,7 +80,7 @@ proxies:
   uuid: fb99f4f0-181d-4117-be22-df9856fbbc06
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 3|US_speednode_0027
+  name: 4|US_speednode_0027
   port: 4495
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -93,7 +93,7 @@ proxies:
   uuid: fb99f4f0-181d-4117-be22-df9856fbbc06
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 3|US_speednode_0028
+  name: 4|US_speednode_0028
   port: 443
   reality-opts:
     public-key: NOhuaiHfc8Tv7VrFKnNgr-VN594kxtUCslNEBhySvXQ
@@ -107,7 +107,7 @@ proxies:
   uuid: 19ef3d02-1c55-4fec-9794-6def8cbac396
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 3|US_speednode_0029
+  name: 4|US_speednode_0029
   port: 4510
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
