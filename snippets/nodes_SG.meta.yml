@@ -16,7 +16,7 @@ proxies:
 - name: 3|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
   port: 7337
-  server: 16.163.157.130
+  server: 43.199.202.143
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
