@@ -15,8 +15,8 @@ proxies:
   type: trojan
 - name: 3|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
-  port: 4203
-  server: 18.163.116.37
+  port: 1275
+  server: 43.198.82.20
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
