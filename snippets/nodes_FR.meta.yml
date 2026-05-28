@@ -1,7 +1,7 @@
 proxies:
 - alpn:
   - h2
-  name: 4|FR_speednode_0017
+  name: 3|FR_speednode_0017
   port: 8443
   server: cdg-1.fromblancwithlove.com
   skip-cert-verify: false
