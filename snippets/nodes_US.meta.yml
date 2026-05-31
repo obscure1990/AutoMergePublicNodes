@@ -1,28 +1,28 @@
 proxies:
-- name: 3|🇺🇸 美国|@ripaojiedian
+- name: 2|🇺🇸 美国|@ripaojiedian
   password: f6d3aa07a52dbcedcb4731029e2fb6ae
-  port: 2663
-  server: 18.163.128.27
+  port: 6604
+  server: 175.41.230.39
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国2|@ripaojiedian
+- name: 2|🇺🇸 美国2|@ripaojiedian
   password: f6d3aa07a52dbcedcb4731029e2fb6ae
   port: 6604
   server: 54.238.76.39
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国3|@ripaojiedian
+- name: 2|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 17801
-  server: 43.199.229.84
+  server: 54.238.206.69
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸 美国4|@ripaojiedian
+  name: 2|🇺🇸 美国4|@ripaojiedian
   port: 180
   server: 82.198.246.250
   skip-cert-verify: false
@@ -31,7 +31,7 @@ proxies:
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
 - alterId: 0
   cipher: auto
-  name: 3|🇺🇸 美国5|@ripaojiedian
+  name: 2|🇺🇸 美国5|@ripaojiedian
   port: 180
   server: 82.198.246.233
   skip-cert-verify: false
@@ -39,7 +39,7 @@ proxies:
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
 - client-fingerprint: chrome
-  name: 4|US_speednode_0024
+  name: 3|US_speednode_0024
   port: 443
   reality-opts:
     public-key: TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw
@@ -52,7 +52,7 @@ proxies:
   uuid: 3e7f67de-648e-4871-b51a-a225214d41ee
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 4|US_speednode_0025
+  name: 3|US_speednode_0025
   port: 443
   reality-opts:
     public-key: 8mv22T5d1KHXlT1EQiQMcgbOZpwkospsUb8WLkuDsAA
@@ -66,7 +66,7 @@ proxies:
   uuid: 2219a1b1-9290-4ac5-94fd-6cfc1fb25280
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 4|US_speednode_0026
+  name: 3|US_speednode_0026
   port: 443
   reality-opts:
     public-key: 8mv22T5d1KHXlT1EQiQMcgbOZpwkospsUb8WLkuDsAA
@@ -79,7 +79,7 @@ proxies:
   udp: true
   uuid: 2219a1b1-9290-4ac5-94fd-6cfc1fb25280
 - client-fingerprint: randomized
-  name: 4|US_speednode_0027
+  name: 3|US_speednode_0027
   network: ws
   port: 2095
   server: www.fbi.gov
@@ -94,7 +94,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0028
+  name: 3|US_speednode_0028
   network: ws
   port: 2095
   server: docs.cloudflare.com
@@ -109,7 +109,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0029
+  name: 3|US_speednode_0029
   network: ws
   port: 2095
   server: www.shopify.com
@@ -124,7 +124,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0030
+  name: 3|US_speednode_0030
   network: ws
   port: 2095
   server: itarmy.com.ua
@@ -139,7 +139,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0031
+  name: 3|US_speednode_0031
   network: ws
   port: 2095
   server: developers.cloudflare.com
@@ -154,7 +154,7 @@ proxies:
       Host: cnmfangbinxing.cnmfangbinxing.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0032
+  name: 3|US_speednode_0032
   network: ws
   port: 2095
   server: cdnjs.com
@@ -168,7 +168,7 @@ proxies:
     headers:
       Host: cnmfangbinxing.cnmfangbinxing.workers.dev
     path: /
-- name: 4|US_speednode_0033
+- name: 3|US_speednode_0033
   port: 443
   server: 155.117.127.137
   skip-cert-verify: false
@@ -179,7 +179,7 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: chrome
-  name: 4|US_speednode_0034
+  name: 3|US_speednode_0034
   network: ws
   port: 443
   server: 162.159.141.236
