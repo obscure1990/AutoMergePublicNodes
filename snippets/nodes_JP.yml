@@ -1,11 +1,12 @@
 proxies:
-- name: 3|🇯🇵 日本|@ripaojiedian
+- name: 3,4|JP_speednode_0023
   password: BxceQaOe
   port: 4099
   server: 18.183.163.141
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
+  udp: true
 - name: 3|🇯🇵 日本2|@ripaojiedian
   password: d84665c37878196ecf983cf6910e3b44
   port: 11541
