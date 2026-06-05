@@ -1,35 +1,35 @@
 proxies:
 - alterId: 2
   cipher: auto
-  name: 2|🇭🇰 香港|@ripaojiedian
+  name: 3|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: 2|🇭🇰 香港3|@ripaojiedian
+- name: 3|🇭🇰 香港3|@ripaojiedian
   password: d84665c37878196ecf983cf6910e3b44
   port: 2008
   server: 16.162.93.34
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 2|🇭🇰 香港4|@ripaojiedian
+- name: 3|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
   port: 40748
   server: 95.40.84.43
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 2|🇭🇰 香港5|@ripaojiedian
+- name: 3|🇭🇰 香港5|@ripaojiedian
   password: BxceQaOe
   port: 50712
   server: 18.183.163.141
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 3|HK_speednode_0016
+- name: 4|HK_speednode_0016
   password: <password>
   port: 8443
   server: 88456c11-ta1og0-tnqudu-1mim2.hkt.cdnhuawei.com
@@ -37,7 +37,7 @@ proxies:
   type: http
   udp: true
   username: 6e3ee1de-381f-11ee-87f9-f23c91cfbbc9
-- name: 3|HK_speednode_0017
+- name: 4|HK_speednode_0017
   password: <password>
   port: 8443
   server: 90d955b3-t9zts0-trg4wh-z65w.hkt.cdnhuawei.com
