@@ -1,12 +1,12 @@
 proxies:
-- name: 2|🇯🇵 日本|@ripaojiedian
+- name: 3|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 9731
   server: 43.199.65.125
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 2|🇯🇵 日本3|@ripaojiedian
+- name: 3|🇯🇵 日本3|@ripaojiedian
   password: d84665c37878196ecf983cf6910e3b44
   port: 37973
   server: 43.199.189.134
