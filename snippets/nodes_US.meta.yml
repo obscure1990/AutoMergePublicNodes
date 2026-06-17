@@ -1,26 +1,26 @@
 proxies:
-- name: 3|🇺🇸 美国|@ripaojiedian
+- name: 2|🇺🇸 美国|@ripaojiedian
   password: e0195c73018d597b1c2f0ea89d8676ae
   port: 49277
   server: 18.163.33.247
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国2|@ripaojiedian
+- name: 2|🇺🇸 美国2|@ripaojiedian
   password: e0195c73018d597b1c2f0ea89d8676ae
   port: 17005
   server: 52.195.19.90
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国3|@ripaojiedian
+- name: 2|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 22057
   server: 54.46.123.9
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|US_speednode_0069
+- name: 3|US_speednode_0069
   network: ws
   password: eeb6823c-b926-4ea2-866a-5542edd26e59
   port: 443
@@ -33,7 +33,7 @@ proxies:
     headers:
       Host: hhcm.hhxaf.cc.cd
     path: /
-- name: 4|US_speednode_0070
+- name: 3|US_speednode_0070
   network: ws
   password: eeb6823c-b926-4ea2-866a-5542edd26e59
   port: 443
@@ -47,7 +47,7 @@ proxies:
       Host: tjsp.hhxaf.cc.cd
     path: /
 - client-fingerprint: chrome
-  name: 4|US_speednode_0071
+  name: 3|US_speednode_0071
   network: ws
   port: 443
   server: 154.17.16.176
@@ -61,7 +61,7 @@ proxies:
     headers:
       Host: s5.868001.xyz
     path: /proxyip=ProxyIP.CMLiussss.net
-- name: 4|US_speednode_0072
+- name: 3|US_speednode_0072
   network: ws
   port: 2053
   server: 172.64.35.7
@@ -76,7 +76,7 @@ proxies:
       Host: josni.hoyes.cloudns.ch
     path: /
 - client-fingerprint: chrome
-  name: 4|US_speednode_0073
+  name: 3|US_speednode_0073
   network: ws
   port: 443
   server: 104.16.80.73
