@@ -1,48 +1,22 @@
 proxies:
-- name: 3|🇺🇸 美国|@ripaojiedian
+- name: 2|🇺🇸 美国|@ripaojiedian
   password: e0195c73018d597b1c2f0ea89d8676ae
   port: 49277
   server: 43.198.206.201
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国2|@ripaojiedian
+- name: 2|🇺🇸 美国2|@ripaojiedian
   password: e0195c73018d597b1c2f0ea89d8676ae
   port: 17005
   server: 13.115.223.251
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国3|@ripaojiedian
+- name: 2|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 17801
   server: 18.163.80.94
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|US_speednode_0069
-  network: ws
-  password: eeb6823c-b926-4ea2-866a-5542edd26e59
-  port: 443
-  server: 154.17.28.152
-  skip-cert-verify: false
-  sni: hhcm.hhxaf.cc.cd
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: hhcm.hhxaf.cc.cd
-    path: /
-- name: 4|US_speednode_0070
-  network: ws
-  password: eeb6823c-b926-4ea2-866a-5542edd26e59
-  port: 443
-  server: 69.63.223.42
-  skip-cert-verify: false
-  sni: tjsp.hhxaf.cc.cd
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: tjsp.hhxaf.cc.cd
-    path: /
