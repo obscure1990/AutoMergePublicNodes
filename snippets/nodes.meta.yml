@@ -1,104 +1,104 @@
 proxies:
 - cipher: aes-256-cfb
-  name: 3|tg频道:@ripaojiedian
+  name: 2|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
   server: 63.180.254.10
   type: ss
 - alterId: 2
   cipher: auto
-  name: 3|🇭🇰 香港|@ripaojiedian
+  name: 2|🇭🇰 香港|@ripaojiedian
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: 3|🇭🇰 香港3|@ripaojiedian
+- name: 2|🇭🇰 香港3|@ripaojiedian
   password: 860c3c2c89a1c7515792be1c5295d21e
   port: 2008
   server: 43.207.69.202
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇭🇰 香港4|@ripaojiedian
+- name: 2|🇭🇰 香港4|@ripaojiedian
   password: BxceQaOe
   port: 11035
   server: 18.167.36.144
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 3|🇭🇰 香港5|@ripaojiedian
+- name: 2|🇭🇰 香港5|@ripaojiedian
   password: BxceQaOe
   port: 27167
   server: 43.199.34.99
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 3|🇯🇵 日本|@ripaojiedian
+- name: 2|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 45691
   server: 18.179.204.16
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 3|🇯🇵 日本2|@ripaojiedian
+- name: 2|🇯🇵 日本2|@ripaojiedian
   password: 860c3c2c89a1c7515792be1c5295d21e
   port: 55973
   server: 95.40.53.232
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇯🇵 日本3|@ripaojiedian
+- name: 2|🇯🇵 日本3|@ripaojiedian
   password: 860c3c2c89a1c7515792be1c5295d21e
   port: 37973
   server: 18.162.41.225
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇸🇬 新加坡|@ripaojiedian
+- name: 2|🇸🇬 新加坡|@ripaojiedian
   password: 860c3c2c89a1c7515792be1c5295d21e
   port: 29642
   server: 18.167.20.216
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇸🇬 新加坡2|@ripaojiedian
+- name: 2|🇸🇬 新加坡2|@ripaojiedian
   password: 860c3c2c89a1c7515792be1c5295d21e
   port: 6357
   server: 18.162.41.225
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇸🇬 新加坡3|@ripaojiedian
+- name: 2|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
   port: 51396
   server: 43.199.34.99
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 3|🇺🇸 美国|@ripaojiedian
+- name: 2|🇺🇸 美国|@ripaojiedian
   password: 860c3c2c89a1c7515792be1c5295d21e
   port: 49277
   server: 18.162.41.225
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国2|@ripaojiedian
+- name: 2|🇺🇸 美国2|@ripaojiedian
   password: 860c3c2c89a1c7515792be1c5295d21e
   port: 17005
   server: 95.40.53.232
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 3|🇺🇸 美国3|@ripaojiedian
+- name: 2|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 11993
   server: 95.40.92.87
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 4|BR_speednode_0001
+- name: 3|BR_speednode_0001
   port: 8443
   server: 152.233.28.201
   servername: ams1.fromblancwithlove.com
@@ -107,7 +107,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|BR_speednode_0002
+- name: 3|BR_speednode_0002
   port: 8443
   server: 152.233.28.200
   servername: ams1.fromblancwithlove.com
@@ -118,7 +118,7 @@ proxies:
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
 - client-fingerprint: qq
   flow: xtls-rprx-vision
-  name: 4|BR_speednode_0003
+  name: 3|BR_speednode_0003
   port: 40443
   reality-opts:
     public-key: mimJ_uInBYERt8TayjrHu5Kmq4b1ko39G6WD72SUkGw
@@ -132,7 +132,7 @@ proxies:
   uuid: 6aa91885-dc17-4d70-a58b-ccc29dd71b04
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 4|BR_speednode_0004
+  name: 3|BR_speednode_0004
   port: 40443
   reality-opts:
     public-key: mimJ_uInBYERt8TayjrHu5Kmq4b1ko39G6WD72SUkGw
@@ -144,7 +144,7 @@ proxies:
   type: vless
   udp: true
   uuid: 6aa91885-dc17-4d70-a58b-ccc29dd71b04
-- name: 4|CH_speednode_0005
+- name: 3|CH_speednode_0005
   password: SoftNetConnect
   port: 42549
   server: 83.228.224.161
@@ -153,7 +153,7 @@ proxies:
   type: trojan
   udp: true
 - flow: xtls-rprx-vision
-  name: 4|CH_speednode_0006
+  name: 3|CH_speednode_0006
   port: 2083
   reality-opts:
     public-key: l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY
@@ -166,7 +166,7 @@ proxies:
   udp: true
   uuid: 89049f79-320b-48a0-b1cf-110165cae30c
 - flow: xtls-rprx-vision
-  name: 4|ES_speednode_0007
+  name: 3|ES_speednode_0007
   port: 443
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -180,7 +180,7 @@ proxies:
   uuid: 8ca5cbd3-ec16-4728-bedc-2bc0d82f0922
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 4|GB_speednode_0008
+  name: 3|GB_speednode_0008
   port: 443
   reality-opts:
     public-key: 4HjtN0YBEbiECAB-A-arFQUHlozgxpSEZx5g4436fF4
@@ -192,7 +192,7 @@ proxies:
   type: vless
   udp: true
   uuid: a9a91808-8e7a-4f8d-9658-ab1b94f199e8
-- name: 4|IN_speednode_0009
+- name: 3|IN_speednode_0009
   password: M7v%w11Se*
   port: 443
   server: hyfuuf6.wsone.icu
@@ -201,7 +201,7 @@ proxies:
   type: trojan
   udp: true
 - flow: xtls-rprx-vision
-  name: 4|IQ_speednode_0010
+  name: 3|IQ_speednode_0010
   port: 8443
   reality-opts:
     public-key: -FQM2tUbpiBjwjgla2mwkSkFhFIKQU0FQOvRi0ZD_mY
@@ -213,7 +213,7 @@ proxies:
   type: vless
   udp: true
   uuid: cf038a28-8f85-41fc-9e86-ba99a3fdd0d9
-- name: 4|JP_speednode_0011
+- name: 3|JP_speednode_0011
   password: BxceQaOe
   port: 5408
   server: 54.65.32.119
@@ -221,7 +221,7 @@ proxies:
   sni: t.me%252Fripaojiedian
   type: trojan
   udp: true
-- name: 4|NL_speednode_0012
+- name: 3|NL_speednode_0012
   port: 8443
   server: 185.229.191.68
   servername: ams1.fromblancwithlove.com
@@ -230,7 +230,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|NL_speednode_0013
+- name: 3|NL_speednode_0013
   port: 8443
   server: 185.229.191.96
   servername: ams1.fromblancwithlove.com
@@ -239,7 +239,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|NL_speednode_0014
+- name: 3|NL_speednode_0014
   port: 8443
   server: 185.229.191.157
   servername: ams1.fromblancwithlove.com
@@ -248,7 +248,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|NL_speednode_0015
+- name: 3|NL_speednode_0015
   port: 8443
   server: 185.229.191.14
   servername: ams1.fromblancwithlove.com
@@ -257,7 +257,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|NL_speednode_0016
+- name: 3|NL_speednode_0016
   port: 8443
   server: 185.229.191.93
   servername: ams1.fromblancwithlove.com
@@ -266,7 +266,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|NL_speednode_0017
+- name: 3|NL_speednode_0017
   port: 8443
   server: 185.229.191.22
   servername: ams1.fromblancwithlove.com
@@ -275,7 +275,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|NL_speednode_0018
+- name: 3|NL_speednode_0018
   port: 8443
   server: 185.229.191.13
   servername: ams1.fromblancwithlove.com
@@ -284,7 +284,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|NL_speednode_0019
+- name: 3|NL_speednode_0019
   port: 8443
   server: 185.229.191.12
   servername: ams1.fromblancwithlove.com
@@ -293,7 +293,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|NL_speednode_0020
+- name: 3|NL_speednode_0020
   port: 8443
   server: 185.229.191.180
   servername: ams1.fromblancwithlove.com
@@ -302,7 +302,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|NL_speednode_0021
+- name: 3|NL_speednode_0021
   port: 8443
   server: 79.127.227.215
   servername: ams1.fromblancwithlove.com
@@ -311,7 +311,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|NL_speednode_0022
+- name: 3|NL_speednode_0022
   port: 8443
   server: 79.127.227.57
   servername: ams1.fromblancwithlove.com
@@ -320,126 +320,126 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|RO_speednode_0023
+- name: 3|RO_speednode_0023
   port: 9002
   server: 84.239.14.148
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0024
+- name: 3|RO_speednode_0024
   port: 9002
   server: 84.239.14.159
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0025
+- name: 3|RO_speednode_0025
   port: 9002
   server: 84.239.49.154
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0026
+- name: 3|RO_speednode_0026
   port: 9002
   server: 84.239.14.158
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0027
+- name: 3|RO_speednode_0027
   port: 9002
   server: 84.239.49.214
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0028
+- name: 3|RO_speednode_0028
   port: 9002
   server: 84.239.49.212
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0029
+- name: 3|RO_speednode_0029
   port: 9002
   server: 84.239.49.233
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0030
+- name: 3|RO_speednode_0030
   port: 9002
   server: 84.239.49.178
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0031
+- name: 3|RO_speednode_0031
   port: 9002
   server: 84.239.49.223
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0032
+- name: 3|RO_speednode_0032
   port: 9002
   server: 84.239.14.157
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0033
+- name: 3|RO_speednode_0033
   port: 9002
   server: 84.239.49.182
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0034
+- name: 3|RO_speednode_0034
   port: 9002
   server: 84.239.49.201
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0035
+- name: 3|RO_speednode_0035
   port: 9002
   server: 84.239.49.238
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0036
+- name: 3|RO_speednode_0036
   port: 9002
   server: 84.239.49.160
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0037
+- name: 3|RO_speednode_0037
   port: 9002
   server: 84.239.49.253
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0038
+- name: 3|RO_speednode_0038
   port: 9002
   server: 84.239.49.185
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0039
+- name: 3|RO_speednode_0039
   port: 9002
   server: 84.239.49.239
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0040
+- name: 3|RO_speednode_0040
   port: 8443
   server: 95.173.199.78
   servername: ams1.fromblancwithlove.com
@@ -448,77 +448,77 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|RO_speednode_0041
+- name: 3|RO_speednode_0041
   port: 9002
   server: 84.239.49.215
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0042
+- name: 3|RO_speednode_0042
   port: 9002
   server: 84.239.49.183
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0043
+- name: 3|RO_speednode_0043
   port: 9002
   server: 84.239.49.162
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0044
+- name: 3|RO_speednode_0044
   port: 9002
   server: 84.239.49.166
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0045
+- name: 3|RO_speednode_0045
   port: 9002
   server: 84.239.49.37
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0046
+- name: 3|RO_speednode_0046
   port: 9002
   server: 84.239.49.156
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0047
+- name: 3|RO_speednode_0047
   port: 9002
   server: 84.239.49.39
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0048
+- name: 3|RO_speednode_0048
   port: 9002
   server: 84.239.49.57
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0049
+- name: 3|RO_speednode_0049
   port: 9002
   server: 84.239.49.202
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0050
+- name: 3|RO_speednode_0050
   port: 9002
   server: 84.239.49.180
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0051
+- name: 3|RO_speednode_0051
   port: 8443
   server: 95.173.199.86
   servername: ams1.fromblancwithlove.com
@@ -527,7 +527,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|RO_speednode_0052
+- name: 3|RO_speednode_0052
   port: 8443
   server: 95.173.199.106
   servername: ams1.fromblancwithlove.com
@@ -536,35 +536,35 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|RO_speednode_0053
+- name: 3|RO_speednode_0053
   port: 9002
   server: 84.239.49.184
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0054
+- name: 3|RO_speednode_0054
   port: 9002
   server: 84.239.49.38
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0055
+- name: 3|RO_speednode_0055
   port: 9002
   server: 84.239.49.211
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0056
+- name: 3|RO_speednode_0056
   port: 9002
   server: 84.239.49.55
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0057
+- name: 3|RO_speednode_0057
   port: 8443
   server: 95.173.199.69
   servername: ams1.fromblancwithlove.com
@@ -573,7 +573,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|RO_speednode_0058
+- name: 3|RO_speednode_0058
   port: 8443
   server: 95.173.199.116
   servername: ams1.fromblancwithlove.com
@@ -582,14 +582,14 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|RO_speednode_0059
+- name: 3|RO_speednode_0059
   port: 9002
   server: 84.239.49.234
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0060
+- name: 3|RO_speednode_0060
   port: 8443
   server: 95.173.199.104
   servername: ams1.fromblancwithlove.com
@@ -598,7 +598,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|RO_speednode_0061
+- name: 3|RO_speednode_0061
   port: 8443
   server: 95.173.199.85
   servername: ams1.fromblancwithlove.com
@@ -607,14 +607,14 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|RO_speednode_0062
+- name: 3|RO_speednode_0062
   port: 9002
   server: 84.239.49.199
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0063
+- name: 3|RO_speednode_0063
   port: 8443
   server: 95.173.199.84
   servername: ams1.fromblancwithlove.com
@@ -623,14 +623,14 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|RO_speednode_0064
+- name: 3|RO_speednode_0064
   port: 9002
   server: 84.239.49.155
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0065
+- name: 3|RO_speednode_0065
   port: 8443
   server: 95.173.199.82
   servername: ams1.fromblancwithlove.com
@@ -639,21 +639,21 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|RO_speednode_0066
+- name: 3|RO_speednode_0066
   port: 9002
   server: 84.239.49.171
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0067
+- name: 3|RO_speednode_0067
   port: 9002
   server: 84.239.49.219
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0068
+- name: 3|RO_speednode_0068
   port: 8443
   server: 95.173.199.87
   servername: ams1.fromblancwithlove.com
@@ -662,14 +662,14 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|RO_speednode_0069
+- name: 3|RO_speednode_0069
   port: 9002
   server: 84.239.49.163
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0070
+- name: 3|RO_speednode_0070
   port: 8443
   server: 95.173.199.83
   servername: ams1.fromblancwithlove.com
@@ -678,231 +678,231 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|RO_speednode_0071
+- name: 3|RO_speednode_0071
   port: 9002
   server: 84.239.49.187
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0072
+- name: 3|RO_speednode_0072
   port: 9002
   server: 84.239.49.204
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0073
+- name: 3|RO_speednode_0073
   port: 9002
   server: 84.239.14.147
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0074
+- name: 3|RO_speednode_0074
   port: 9002
   server: 84.239.49.209
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0075
+- name: 3|RO_speednode_0075
   port: 9002
   server: 84.239.49.207
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0076
+- name: 3|RO_speednode_0076
   port: 9002
   server: 84.239.49.249
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0077
+- name: 3|RO_speednode_0077
   port: 9002
   server: 84.239.49.254
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0078
+- name: 3|RO_speednode_0078
   port: 9002
   server: 84.239.49.240
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0079
+- name: 3|RO_speednode_0079
   port: 9002
   server: 84.239.49.175
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0080
+- name: 3|RO_speednode_0080
   port: 9002
   server: 84.239.49.176
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0081
+- name: 3|RO_speednode_0081
   port: 9002
   server: 84.239.49.42
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0082
+- name: 3|RO_speednode_0082
   port: 9002
   server: 84.239.49.157
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0083
+- name: 3|RO_speednode_0083
   port: 9002
   server: 84.239.49.245
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0084
+- name: 3|RO_speednode_0084
   port: 9002
   server: 84.239.49.191
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0085
+- name: 3|RO_speednode_0085
   port: 9002
   server: 84.239.49.227
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0086
+- name: 3|RO_speednode_0086
   port: 9002
   server: 84.239.49.235
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0087
+- name: 3|RO_speednode_0087
   port: 9002
   server: 84.239.49.40
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0088
+- name: 3|RO_speednode_0088
   port: 9002
   server: 84.239.14.149
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0089
+- name: 3|RO_speednode_0089
   port: 9002
   server: 84.239.49.225
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0090
+- name: 3|RO_speednode_0090
   port: 9002
   server: 84.239.14.154
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0091
+- name: 3|RO_speednode_0091
   port: 9002
   server: 84.239.49.196
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0092
+- name: 3|RO_speednode_0092
   port: 9002
   server: 84.239.49.161
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0093
+- name: 3|RO_speednode_0093
   port: 9002
   server: 84.239.14.152
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0094
+- name: 3|RO_speednode_0094
   port: 9002
   server: 84.239.49.170
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0095
+- name: 3|RO_speednode_0095
   port: 9002
   server: 84.239.49.242
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0096
+- name: 3|RO_speednode_0096
   port: 9002
   server: 84.239.49.247
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0097
+- name: 3|RO_speednode_0097
   port: 9002
   server: 84.239.14.160
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0098
+- name: 3|RO_speednode_0098
   port: 9002
   server: 84.239.49.231
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0099
+- name: 3|RO_speednode_0099
   port: 9002
   server: 84.239.14.146
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0100
+- name: 3|RO_speednode_0100
   port: 9002
   server: 84.239.49.198
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0101
+- name: 3|RO_speednode_0101
   port: 9002
   server: 84.239.49.164
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|RO_speednode_0102
+- name: 3|RO_speednode_0102
   port: 9002
   server: 84.239.49.224
   skip-cert-verify: true
   tls: true
   type: http
   udp: true
-- name: 4|SE_speednode_0103
+- name: 3|SE_speednode_0103
   port: 8443
   server: 79.127.249.221
   servername: ams1.fromblancwithlove.com
@@ -911,7 +911,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|TR_speednode_0104
+- name: 3|TR_speednode_0104
   port: 8443
   server: 87.249.139.235
   servername: ams1.fromblancwithlove.com
@@ -920,7 +920,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|TR_speednode_0105
+- name: 3|TR_speednode_0105
   port: 8443
   server: 87.249.139.247
   servername: ams1.fromblancwithlove.com
@@ -929,7 +929,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|TR_speednode_0106
+- name: 3|TR_speednode_0106
   port: 8443
   server: 87.249.139.236
   servername: ams1.fromblancwithlove.com
@@ -938,7 +938,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|TR_speednode_0107
+- name: 3|TR_speednode_0107
   port: 8443
   server: 87.249.139.237
   servername: ams1.fromblancwithlove.com
@@ -947,7 +947,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|TR_speednode_0108
+- name: 3|TR_speednode_0108
   port: 8443
   server: 87.249.139.233
   servername: ams1.fromblancwithlove.com
@@ -956,7 +956,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|UA_speednode_0109
+- name: 3|UA_speednode_0109
   port: 8443
   server: 143.244.45.50
   servername: ams1.fromblancwithlove.com
@@ -965,7 +965,7 @@ proxies:
   type: vless
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
-- name: 4|UA_speednode_0110
+- name: 3|UA_speednode_0110
   port: 8443
   server: 95.133.245.163
   servername: cdn3-87.vk-cdnvideo.com
@@ -974,7 +974,7 @@ proxies:
   type: vless
   udp: true
   uuid: 931729a8-3c20-4841-89a1-f18dc9ce0a6f
-- name: 4|UA_speednode_0111
+- name: 3|UA_speednode_0111
   port: 8443
   server: 143.244.45.55
   servername: ams1.fromblancwithlove.com
@@ -984,7 +984,7 @@ proxies:
   udp: true
   uuid: 394f6981-a782-4779-9a85-e6cf22935d93
 - client-fingerprint: randomized
-  name: 4|US_speednode_0112
+  name: 3|US_speednode_0112
   network: ws
   port: 2095
   server: www.npmjs.com
@@ -999,7 +999,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0113
+  name: 3|US_speednode_0113
   network: ws
   port: 2095
   server: www.temu.com
@@ -1014,7 +1014,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0114
+  name: 3|US_speednode_0114
   network: ws
   port: 2095
   server: www.shopify.com
@@ -1029,7 +1029,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0115
+  name: 3|US_speednode_0115
   network: ws
   port: 2095
   server: ns.cloudflare.com
@@ -1044,7 +1044,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0116
+  name: 3|US_speednode_0116
   network: ws
   port: 2095
   server: cloudflare-dns.com
@@ -1059,7 +1059,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0117
+  name: 3|US_speednode_0117
   network: ws
   port: 2095
   server: support.cloudflare.com
@@ -1074,7 +1074,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0118
+  name: 3|US_speednode_0118
   network: ws
   port: 2095
   server: www.wto.org
@@ -1089,7 +1089,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0119
+  name: 3|US_speednode_0119
   network: ws
   port: 2095
   server: blog.cloudflare.com
@@ -1104,7 +1104,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0120
+  name: 3|US_speednode_0120
   network: ws
   port: 2095
   server: developers.cloudflare.com
@@ -1119,7 +1119,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0121
+  name: 3|US_speednode_0121
   network: ws
   port: 2095
   server: www.epicgames.com
@@ -1134,7 +1134,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0122
+  name: 3|US_speednode_0122
   network: ws
   port: 2095
   server: www.fbi.gov
@@ -1149,7 +1149,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0123
+  name: 3|US_speednode_0123
   network: ws
   port: 2095
   server: docs.cloudflare.com
@@ -1164,7 +1164,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0124
+  name: 3|US_speednode_0124
   network: ws
   port: 2095
   server: www.whatismyip.net
@@ -1179,7 +1179,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0125
+  name: 3|US_speednode_0125
   network: ws
   port: 2095
   server: cdnjs.com
@@ -1194,7 +1194,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0126
+  name: 3|US_speednode_0126
   network: ws
   port: 2095
   server: www.udemy.com
@@ -1209,7 +1209,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0127
+  name: 3|US_speednode_0127
   network: ws
   port: 2095
   server: cf.090227.xyz
@@ -1224,7 +1224,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - client-fingerprint: randomized
-  name: 4|US_speednode_0128
+  name: 3|US_speednode_0128
   network: ws
   port: 2095
   server: itarmy.com.ua
@@ -1239,7 +1239,7 @@ proxies:
       Host: cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev
     path: /
 - flow: xtls-rprx-vision
-  name: 4|US_speednode_0129
+  name: 3|US_speednode_0129
   port: 443
   server: assets.trorays.com
   servername: assets.trorays.com
@@ -1248,7 +1248,7 @@ proxies:
   type: vless
   udp: true
   uuid: b69a71ef-51dc-48c6-b3df-4c3533062606
-- name: 4|US_speednode_0130
+- name: 3|US_speednode_0130
   port: 38334
   reality-opts:
     public-key: NziHXc_dnhzsVEfn_asAz4JONCuwQYHNiCW_2-GX5FA
@@ -1261,7 +1261,7 @@ proxies:
   udp: true
   uuid: e5d07969-f008-42ee-bbab-7995ef4d1e1d
 - flow: xtls-rprx-vision
-  name: 4|US_speednode_0131
+  name: 3|US_speednode_0131
   port: 443
   reality-opts:
     public-key: IOO3P6BDqBjUA0gB4tgpvxrXL6Fit88QgpJ1y6GYyz0
