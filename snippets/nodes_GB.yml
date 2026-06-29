@@ -1,5 +1,5 @@
 proxies:
-- name: 4|GB_speednode_0005
+- name: 3|GB_speednode_0005
   network: ws
   password: MITIVPN
   port: 443
