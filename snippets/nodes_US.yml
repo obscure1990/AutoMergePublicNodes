@@ -1,26 +1,26 @@
 proxies:
-- name: 2|🇺🇸 美国|@ripaojiedian
+- name: 3|🇺🇸 美国|@ripaojiedian
   password: cbed60798db0624ba9d15418f0d0d9a4
   port: 49277
   server: 95.40.113.209
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 2|🇺🇸 美国2|@ripaojiedian
+- name: 3|🇺🇸 美国2|@ripaojiedian
   password: cbed60798db0624ba9d15418f0d0d9a4
   port: 17005
   server: 95.40.113.209
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: 2|🇺🇸 美国3|@ripaojiedian
+- name: 3|🇺🇸 美国3|@ripaojiedian
   password: BxceQaOe
   port: 11993
   server: 16.163.149.119
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 3|US_speednode_0063
+- name: 4|US_speednode_0063
   network: ws
   password: Mitivpn
   port: 443
